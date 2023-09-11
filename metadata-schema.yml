@@ -1,0 +1,101 @@
+# This determines what metadata fields will display on the platform.
+# The "national" scope will appear in the "National" tab.
+# The "data" scope is for technical purposes and will not be visible.
+prose:
+  metadata:
+    meta:
+      - name: "Proxy"
+        field:
+            element: text
+            translation_key: "Proxy"
+            scope: national
+      - name: "Definition"
+        field:
+            element: text
+            translation_key: "Definition"
+            scope: national
+      - name: "Concept"
+        field:
+            element: text
+            translation_key: "Concept"
+            scope: national
+      - name: "Disaggregation"
+        field:
+            element: text
+            translation_key: "Disaggregation"
+            scope: national
+      - name: "Rationale"
+        field:
+            element: text
+            translation_key: "Rationale"
+            scope: national
+      - name: "MethodOfComputation"
+        field:
+            element: text
+            translation_key: "Method of Computation"
+            scope: national
+      - name: "SDGAlignment"
+        field:
+            element: text
+            translation_key: "Sustainable Development Goal Indicator Alignment"
+            scope: national
+      - name: "UnitOfMeasurement"
+        field:
+            element: text
+            translation_key: "Unit of Measurement"
+            scope: national
+      - name: "FrequencyOfCollection"
+        field:
+            element: text
+            translation_key: "Frequency of Collection"
+            scope: national
+      ## Source 1
+      - name: source_active_1
+        field:
+            element: checkbox
+            label: Source 1 active
+            translation_key: metadata_fields.source_active_1
+      - name: source_organisation_1
+        field:
+            element: text
+            label: "Organisation"
+            translation_key: metadata_fields.source_organisation_1
+            scope: source_1
+      ## Source 2
+      - name: source_active_2
+        field:
+            element: checkbox
+            label: Source 2 active
+            translation_key: metadata_fields.source_active_1
+      - name: source_organisation_2
+        field:
+            element: text
+            label: "Organisation"
+            translation_key: metadata_fields.source_organisation_1
+            scope: source_2
+      ## Source 3
+      - name: source_active_3
+        field:
+            element: checkbox
+            label: Source 3 active
+            translation_key: metadata_fields.source_active_1
+      - name: source_organisation_3
+        field:
+            element: text
+            label: "Organisation"
+            translation_key: metadata_fields.source_organisation_1
+            scope: source_3
+      - name: "reporting_status"
+        field:
+            element: select
+            label: "Reporting status"
+            translation_key: metadata_fields.reporting_status
+            options:
+              - name: 'complete'
+                value: 'complete'
+                translation_key: status.reported_online
+              - name: 'notstarted'
+                value: 'notstarted'
+                translation_key: status.exploring_data_sources
+            scope: data
+  ignore: ['/scripts', '/.github']
