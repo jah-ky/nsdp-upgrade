@@ -1,0 +1,195 @@
+IDENT,SchoolName,SchoolRegistered,AuthorizedLevel,Administration,longitude,latitude,TotalEnrolment
+MA069,Fanla,Fanla,Years 1 - 6,Malampa PEB,168.123286,-16.136503,59
+MA070,Fongteng SDA,Fonteng,Years 1 - 6,SDA,168.16987,-16.111063,46
+MA073,Magam,Magam,Years 1 - 6,Malampa PEB,168.141435,-16.104628,116
+MA075,Megamone,Megamone,Years 1 - 6,Malampa PEB,168.185113,-16.140266,51
+MA076,Olal (Topol) JSS,Olal (Topol),Years 7 - 10,Malampa PEB,168.149841,-16.119566,64
+MA079,Topol,Topol,Years 1 - 6,Catholic,168.142057,-16.116752,159
+MA081,Bulemap,Bulemap,Years 1 - 6,Malampa PEB,167.979176,-16.288051,54
+MA084,Lolibulo,Lolibulo,Years 1 - 6,Malampa PEB,167.935115,-16.247389,52
+MA093,Mbossung,Mbossung,Years 1 - 6,Malampa PEB,168.284323,-16.342567,100
+MA094,Roromai,Roromai,Years 1 - 6,Malampa PEB,168.268958,-16.305303,57
+MA096,Olal,Olal,Years 1 - 6,Catholic,168.153765,-16.104804,0
+MA098,Paamal,Paamal,Years 1 - 6,Catholic,168.298207,-16.32805,31
+MA092,Leleut,Leleut,Years 1 - 6,Malampa PEB,168.245822,-16.274734,58
+MA071,Linbul,Linbul,Years 1 - 6,SDA,168.130028,-16.119456,24
+MA077,Ranon,Ranon,Years 1 - 6,Malampa PEB,168.115651,-16.147862,110
+MA078,Ranon Secondary,Ranon,Years 7 - 10,Malampa PEB,168.115991,-16.147639,93
+MA082,Craig Cove,Craig Cove,Years 1 - 6,Catholic,167.92405,-16.254357,36
+MA091,Wuro,Wuro,Years 1 - 6,Malampa PEB,167.921024,-16.264838,106
+MA080,Baiap,Baiap,Years 1 - 6,SDA,167.963203,-16.287629,15
+MA089,Sessivi,Sessivi,Years 1 - 6,Catholic,167.984374,-16.306889,116
+MA090,Sessivi Secondary,Sessivi,Years 7 - 10,Catholic,167.984297,-16.306882,99
+MA088,Sanesup SDA,Sanesup,Years 1 - 6,SDA,168.012299,-16.324465,5
+MA086,Port Vato English,Port Vato,Years 1 - 6,Malampa PEB,168.040433,-16.333658,52
+MA087,Port Vato French,Port Vato,Years 1 - 6,Malampa PEB,168.041235,-16.333782,86
+MA083,Lalinda,Lalinda,Years 1 - 6,SDA,168.056783,-16.34063,32
+MA085,Maranatha,Maranatha,Years 1 - 6,SDA,168.125451,-16.365062,41
+MA097,Maranatha JSS,Maranatha,Years 7 - 10,SDA,168.127548,-16.366296,0
+MA095,Senai,Senai,Years 1 - 8,Malampa PEB,168.26641,-16.35408,166
+MA095,Vutekai,Vutekai,Years 1 - 6,Malampa PEB,168.22,-16.5015,28
+MA096,Lehili,Lehili,Years 1 - 6,Malampa PEB,168.216,-16.4823,45
+MA097,Liro,Liro,Years 1 - 6,Malampa PEB,168.226,-16.4495,75
+MA098,Vaum Secondary,Vaum,Years 7 - 10,Malampa PEB,168.226,-16.4495,125
+MA099,Luvil,Luvil,Years 1 - 6,Malampa PEB,168.252,-16.4645,59
+MA100,Selusa,Selusa,Years 1 - 6,Malampa PEB,168.219,-16.4666,42
+MA101,Vauleli,Vauleli,Years 1 - 6,Malampa PEB,168.213,-16.4969,40
+MA068,Dixon Reef,Dixon,Years 1 - 6,Malampa PEB,167.379,-16.3488,43
+MA067,Laindua,Laindua,Years 1 - 6,Malampa PEB,167.43,-16.4457,176
+MA066,South West Bay Secondary,South West Bay,Years 7 - 10,Malampa PEB,167.447,-16.4802,161
+MA065,South West Bay,South West Bay,Years 1 - 6,Malampa PEB,167.446,-16.4804,111
+MA064,Baie Caroline,Baie Caroline,Years 1 - 6,Malampa PEB,167.461,-16.5633,88
+MA063,Melworbank,Melworbank,Years 1 - 6,Malampa PEB,167.512,-16.5669,62
+MA062,Benbon,Benbon,Years 1 - 6,Malampa PEB,167.566,-16.5476,116
+MA059,Lowoi,Luwoi,Years 1 - 6,Malampa PEB,167.652,-16.5172,98
+MA058,Kalwai,Farun (Kalwai),Years 1 - 6,Malampa PEB,167.637,-16.5009,92
+MA056,Sangalai,Sangalai,Years 1 - 6,Malampa PEB,167.83,-16.5284,219
+MA055,Namaru,Namaru,Years 1 - 6,Malampa PEB,167.781,-16.5187,89
+MA054,College de Lamap,Lamap,Years 1 - 6,Catholic,167.809,-16.4238,83
+MA053,St Pierre Channel,St Pierre Chanel (Lamap),Years 1 - 6,Catholic,167.809,-16.4248,220
+MA052,Kamai,Kamai,Years 1 - 6,Malampa PEB,167.788,-16.3969,153
+MA051,Sanesup,Sanesup,Years 1 - 6,Malampa PEB,167.766,-16.3497,100
+MA049,Alua,Aulua,Years 1 - 6,Malampa PEB,167.721,-16.3278,215
+MA048,Tisman,Tisman,Years 1 - 6,Malampa PEB,167.669,-16.2783,216
+MA047,Neremb,Neramb,Years 1 - 6,Malampa PEB,167.603,-16.2257,189
+MA046,Lycee de Rensarie,Rensarie,Years 7 - 12,Malampa PEB,167.565,-16.2115,79
+MA045,Rensarie College,Rensarie,Years 7 - 12,Malampa PEB,167.565,-16.2116,229
+MA044,Rensarie French (Tembibi),Rensarie (Tembibi),Years 1 - 6,Malampa PEB,167.569,-16.2096,79
+MA043,Rensarie English (Tembibi),Rensarie (Tembibi),Years 1 - 6,Malampa PEB,167.569,-16.2097,229
+MA041,Jehovah Nissi,Jehovah Nissi,Years 1 - 6,AOG,167.384,-16.2316,12
+MA040,Vinmavis,Vinmavis,Years 1 - 6,Malampa PEB,167.385,-16.2301,35
+MA039,Faralo,Faralao,Years 1 - 6,Malampa PEB,167.531,-16.1908,28
+MA038,Lingarak,Lingarak,Years 1 - 6,Malampa PEB,167.474,-16.1752,122
+MA037,Lambubu,Lambubu,Years 1 - 6,Malampa PEB,167.398,-16.1663,172
+MA036,Lakatoro Secondary,Lakatoro,Years 7 - 10,Malampa PEB,167.419,-16.1063,162
+MA035,Lakatoro,Lakatoro,Years 1 - 6,Malampa PEB,167.419,-16.1063,156
+MA034,Uripiv,Uripiv,Years 1 - 6,Malampa PEB,167.448,-16.0737,75
+MA033,Tautu,Tautu,Years 1 - 6,Malampa PEB,167.414,-16.0748,171
+MA032,Norsup Secondary,Norsup,Years 7 - 12,Malampa PEB,167.401,-16.0652,229
+MA031,Norsup,Norsup,Years 1 - 6,Malampa PEB,167.401,-16.0657,150
+MA030,Mae,Ste. Therese de Mae,Years 1 - 6,Catholic,167.368,-16.0577,94
+MA029,Pikayer,Pikayer,Years 1 - 6,Catholic,167.216,-16.0571,27
+MA028,Wiaru,Wiaru,Years 1 - 6,FELP,167.255,-16.0846,22
+MA027,Unmet,Unmet,Years 1 - 6,Catholic,167.29,-16.1277,245
+MA026,Brenwei,Brenwei,Years 1 - 8,Malampa PEB,167.282,-16.1395,230
+MA025,Leviamp,Leviamp,Years 1 - 6,Malampa PEB,167.234,-16.1496,104
+MA023,Wilak,Wilak,Years 1 - 6,Malampa PEB,167.168,-16.0923,12
+MA022,Win SDA,Winn,Years 1 - 6,SDA,167.155,-16.0781,30
+MA021,Rambek,Rambeck,Years 1 - 6,FELP,167.161,-16.0456,20
+MA020,Pinapow,Pinapow,Years 1 - 6,Malampa PEB,167.176,-16.025,76
+MA019,Benenaveth,Benenaveth,Years 1 - 6,FELP,167.177,-16.0198,25
+MA018,Malua Bay,Malua Bay,Years 1 - 6,SDA,167.187,-15.9917,92
+MA017,Metune,Metune,Years 1 - 6,FELP,167.219,-15.9916,46
+MA016,Womul,Womul,Years 1 - 6,FELP,167.235,-15.975,39
+MA015,Matanvat,Matanvath,Years 1 - 6,Malampa PEB,167.178,-15.9331,65
+MA014,Wora,Wora,Years 1 - 6,Malampa PEB,167.254,-15.8886,42
+MA011,Velow,Velow,Years 1 - 6,Malampa PEB,167.398,-16.019,84
+MA010,Amelveth,Amelveth,Years 1 - 6,Malampa PEB,167.382,-16.0051,185
+MA009,Walarano,Notre Dame de Walarano,Years 1 - 6,Catholic,167.375,-15.9901,314
+MA008,Orap Secondary,Orap,Years 7 - 10,FELP,167.343,-15.9706,97
+MA007,Orap,Orap,Years 1 - 6,FELP,167.345,-15.9701,97
+MA006,Chenard Atchin,Chenard,Years 1 - 6,FELP,167.348,-15.9388,46
+MA005,Topaen,Topaen,Years 1 - 6,Malampa PEB,167.339,-15.9423,40
+MA003,Vao Secondary,Jean Vidil (Vao),Years 7 - 10,Catholic,167.306,-15.9153,132
+MA002,Vao Ilot,Vao Ilot,Years 1 - 6,Catholic,167.308,-15.9011,262
+LOUIS,St. Louis,St. Louis (Atchin),Years 1 - 6,Catholic,167.339,-15.9439,112
+LONVA,Lonvat,South Malekula (Lonvat),Years 7 - 10,Malampa PEB,167.649,-16.5011,108
+LERAW,Lerawo,Lerawo,Years 1 - 6,Malampa PEB,167.226,-15.8926,56
+LEKAN,Lekan,Lekan,Years 1 - 6,Lekan,167.18,-16.0117,20
+LALKO,Lalkoko,Lalkoko (Mae Sirbulbul),Years 1 - 6,Malampa PEB,167.377,-16.0448,94
+GALIL,Galile,Galilee,Years 1 - 6,SDA,167.277,-15.9662,0
+DAODO,Daodobo (Metetuwai),Daodobo,Years 1 - 6,Malampa PEB,167.534,-16.3865,38
+DAOD1,Daodobo,Daodobo,Years 1 - 6,Malampa PEB,167.533,-16.3914,29
+VENUR,Vanruru,Vanruru,Years 1 - 6,Malampa PEB,167.231,-16.1254,64
+MA004,Lavasal,Lavasal,Years 1 - 6,SDA,167.327,-15.94,64
+AMELV,Amelveth Secondary,Amelvet,Years 7 - 10,Malampa PEB,167.382,-16.0052,0
+JEHOV,Jehovah Nissi,Jehovah Nissi,Years 7 - 10,AOG,167.384,-16.2316,8
+PE042,Lini Memorial,Lini Memorial,Years 1 - 6,Penama PEB,168.153,-15.4626,165
+PE043,Lini Memorial College,Lini Memorial College,Years 7 -10,Penama PEB,168.152,-15.4623,100
+HEREN,Herenhala,Herenhala,Years 1 - 6,Penama PEB,168.149,-15.4756,139
+PE044,Gamalmawa,Gamalmaua,Years 1 - 6,Penama PEB,168.141,-15.5108,129
+PE049,Sori Mauri,Sori Mauri (Lolkasai),Years 1 - 6,Penama PEB,168.13,-15.5827,169
+PE048,Latano,Latano (Loltong),Years 1 - 6,Catholic,168.144,-15.5528,109
+PE073,Tamua/Labultamata,Labultamata (Tamua),Years 1 - 6,Penama PEB,168.139,-15.5344,45
+PE045,Atavtabanga,Atavtabanga,Years 1 - 6,Penama PEB,168.166,-15.5168,222
+PE047,Abuanga,Abuanga,Years 1 - 6,Penama PEB,168.169,-15.5318,132
+PE056,Torlie,Torlie,Years 1 - 6,Penama PEB,168.156,-15.6758,194
+PE057,Vanmanla,Vanmamla,Years 1 - 6,Penama PEB,168.17,-15.6715,79
+PE059,Lesasanemal,Lesasanemal,Years 1 - 6,Penama PEB,168.145,-15.7008,67
+PE060,Ubiku,Ubiku,Years 1 - 6,Catholic,168.144,-15.7107,184
+PE061,Melsisi,Melsisi,Years 1 - 6,Catholic,168.133,-15.7376,177
+PE062,College de Melsisi,Melsisi,Years 7 - 12,Catholic,168.133,-15.7376,198
+PE063,Ranmawot,Ranmawot,Years 1 - 6,Penama PEB,168.17,-15.8008,117
+PE074,Ranwadi College,Ranwadi High School,Years 7 - 12,COC,168.158,-15.7758,325
+PE055,Enkul,Enkul,Years 1 - 6,Penama PEB,168.158,-15.6794,69
+PE058,Naruah,Naruah,Years 1 - 6,Penama PEB,168.169,-15.6913,61
+PE064,Tsimbwegue,Tsimbwege,Years 1 - 6,Catholic,168.216,-15.7389,154
+PE068,Londar,Londar (Baie-Martelli),Years 1 - 6,Catholic,168.215,-15.9985,86
+PE066,Rangsuksuk,Rangsuksuk,Years 1 - 6,Catholic,168.185,-15.9009,110
+PE067,Pangi,Pangi,Years 1 - 6,Penama PEB,168.193,-15.9461,176
+PE070,Manu,Ranwas,Years 1 - 6,Penama PEB,168.268,-15.9708,280
+PE071,Baie Barier,Baie-Barrier,Years 1 - 6,Catholic,168.258,-15.9344,105
+PE072,Lonfis,St Henri (Lonfis),Years 1 - 6,Catholic,168.261,-15.8911,0
+PE050,Aligu,Aligu,Years 1 - 6,Penama PEB,168.184,-15.5869,89
+PE069,Benmotri,Point Cross (Benmotri),Years 1 - 6,Penama PEB,168.228,-16.0059,0
+PE053,Bwatnapni Secondary,Bwatnapni,Years 7 -10,Penama PEB,168.121,-15.6653,106
+PE052,Bwatnapni,Bwatnapni,Years 1 - 6,Penama PEB,168.122,-15.6656,137
+PE065,Lalzadeth,Lalzadette,Years 1 - 6,Catholic,168.159,-15.7753,89
+PE051,Namaram,Namaram,Years 1 - 6,Catholic,168.125,-15.6316,129
+PE054,Tanbok,Tanbok,Years 1 - 6,Penama PEB,168.177,-15.672,114
+PE034,Naone,Naone,Years 1 - 6,Penama PEB,168.067,-15.0179,71
+PE035,Gambule,Gambule,Years 1 - 6,Penama PEB,168.081,-15.0901,189
+PE036,Gambule Secondary,Gambule,Years 7 - 10,Penama PEB,168.08,-15.0904,79
+PE037,Bakanao,Bakanao (Naviso),Years 1 - 6,Penama PEB,168.129,-15.1311,133
+PE038,Sulua,Sulua,Years 1 - 6,Penama PEB,168.105,-15.1675,140
+PE039,Nasawa,Nasawa,Years 1 - 6,Penama PEB,168.113,-15.2039,96
+PE040,Abanga,Abanga,Years 1 - 6,Penama PEB,168.129,-15.3804,105
+PE041,Baitora,Baitora,Years 1 - 6,Penama PEB,168.117,-15.2643,34
+PE001,Vilakalaka,Vilakalaka,Years 1 - 6,Penama PEB,167.68,-15.4204,52
+PE002,Navuturiki Sec Eng,Navuturiki,Years 7 - 10,Penama PEB,167.68,-15.4203,29
+PE003,College de Navuturiki,Navuturiki,Years 7 - 10,Penama PEB,167.679,-15.4202,24
+PE004,Walaha,Walaha,Years 1 - 6,Penama PEB,167.695,-15.4068,120
+PE005,Volovuhu,Volovuhu,Years 1 - 6,Penama PEB,167.723,-15.3957,80
+PE006,Autabulu,Autabulu,Years 1 - 6,Penama PEB,167.746,167.746,61
+PE007,Ala Memorial,Ala Memorial,Years 1 - 6,Penama PEB,167.748,-15.3826,129
+PE008,Nduindui,Nduindui,Years 1 - 6,Penama PEB,167.73,-15.3765,175
+PE009,Ngwalona,Ngwalona,Years 1 - 6,Penama PEB,167.732,-15.3869,53
+PE010,Loone,Loone,Years 1 - 6,Catholic,167.765,-15.3602,75
+PE011,Vuingalato,Vuingalato,Years 1 - 6,Penama PEB,167.789,-15.3405,94
+PE012,Vatuangele,Nataluhangele,Years 1 - 6,ACV,167.741,-15.4035,74
+PE013,Londua Technical,Londua,Years 7 -10 & Tech,COC,167.744,-15.3658,141
+PE014,Venue Marama,Vanue Mamara,Years 1 - 6,Penama PEB,167.851,-15.3148,102
+PE015,Simon,Simon,Years 1 - 6,Penama PEB,167.87,-15.315,63
+PE016,Raynold Memorial,Raynold Memorial (Nagole),Years 1 - 6,Penama PEB,167.882,-15.3008,139
+PE017,Neleleo,Naleleo,Years 1 - 6,Penama PEB,167.836,-15.3163,71
+PE018,Qatuneala,Qatuneala,Years 1 - 6,Penama PEB,167.932,-15.2823,98
+PE019,Gadue Garea,Gadue Garea,Years 1 - 6,Penama PEB,167.904,-15.3093,52
+PE020,Tagaga Secondary,Tagaga,Years 7 - 10,Catholic,167.893,-15.2914,92
+PE021,Lolopuepue,Lolopuepue,Years 1 - 6,Catholic,167.894,-15.2905,75
+STPAT,St. Patrick's College,St. Patrick's College,Years 7 - 13,ACOM,167.964,-15.2776,317
+PE013,St. Jean Baptist - Nagire,St. Jean-Baptiste (Nangire),Years 1 - 6,Catholic,167.818,167.818,53
+PE022,Ambaebulu English,Ambaebulu,Years 1 - 6,Penama PEB,167.982,-15.2948,101
+PE023,Ambaebulu Secondary,Ambaebulu,Years 7 - 10,Penama PEB,167.982,-15.2951,163
+PE024,Ambaebulu French,Ambaebulu,Years 1 - 6,Penama PEB,167.982,-15.2953,41
+PE025,Loquirutaro,Loquirutaro,Years 1 - 6,Penama PEB,167.954,-15.3388,57
+PE026,Quatui,Quatui,Years 1 - 6,Penama PEB,167.938,-15.3317,137
+PE029,Lolovoli,Lolovoli,Years 1 - 6,Penama PEB,167.925,-15.3699,62
+PE030,Sarabulu,Sarabulu,Years 1 - 6,Penama PEB,167.92,-15.3906,49
+PE031,Waisine,Waisine,Years 1 - 6,Penama PEB,167.896,-15.4198,68
+PE032,Talai Roroi Leleo,Talai Roroi Leleo,Years 1 - 6,Penama PEB,167.87,-15.4499,35
+PE033,Bangabulu,Bangabulu,Years 1 - 6,Penama PEB,167.841,-15.467,74
+PEADV,Penama Adventist College,PENAMA Adventist College,Years 7 - 10,SDA,167.824,-15.4717,43
+SA028,Balon,Balon,Years 1 - 6,Sanma PEB,167.136,-15.3604,61
+BELMO,Belmol,Belmol,Years 1 - 6,Sanma PEB,167.118,-15.5815,34
+SA016,Butmas,Butmas,Years 1 - 6,Sanma PEB,166.984,-15.3572,57
+DAYSP,Day Spring,Day Spring,Years 1 - 6,Sanma PEB,166.557,-14.8722,73
+DEQUE,De Queros,De Queros (Matantas),Years 1 - 6,Sanma PEB,166.951,-15.1742,56
+SA080,Ebenezer,Ebenezer,Years 1 - 6,Sanma PEB,166.957,-15.5678,257
+SA019,Hog Harbour,Hog Habour,Years 1 - 6,Sanma PEB,167.102,-15.1409,112
+SA097,Ian Livo,Ian Livo,Years 1 - 6,Sanma PEB,166.665,-15.3018,46
+SA023,Iethvekar,Iethvekar,Years 1 - 6,Sanma PEB,167.168,-15.2297,73
+SA002,John Noble Mackenzie,John Noble Mackenzie,Years 1 - 6,Sanma PEB,166.575,-14.9336,79
+SA017,Jordan Valley,Jordan Valley,Years 1 - 6,Sanma PEB,166.904,-15.2452,21
+SA020,Lath-Hi,Lath - Hi,Years 1 - 6,Sanma PEB,167.106,-15.1499,37
+LABE2,Lemesie (Lape Paparama),Lemesie (Lape Paparama),Years 1 - 6,Sanma PEB,166.911,-15.2881,16
+SA022,Lorethiakarkar,Lorethiakarkar,Years 1 - 6,Sanma PEB,167.124,-15.233,45
