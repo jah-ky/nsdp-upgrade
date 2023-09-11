@@ -1,0 +1,27 @@
+Year,Unit,Province,Region,Sex,GeoCode,Value
+2020,Percentage households with 5 basic skills,,,,,56
+2020,Percentage households with 5 basic skills,,,Male,,62
+2020,Percentage households with 5 basic skills,,,Female,,46
+2020,Percentage households with 5 basic skills,,Urban,,,23
+2020,Percentage households with 5 basic skills,,Rural,,,67
+2020,Percentage households with 5 basic skills,TORBA,,,VU01,59
+2020,Percentage households with 5 basic skills,SANMA,,,VU02,62
+2020,Percentage households with 5 basic skills,PENAMA,,,VU03,85
+2020,Percentage households with 5 basic skills,MALAMPA,,,VU04,59
+2020,Percentage households with 5 basic skills,SHEFA,,,VU05,36
+2020,Percentage households with 5 basic skills,TAFEA,,,VU06,72
+2012,Percentage households with 5 basic skills,,,,,64
+2012,Percentage households with 5 basic skills,,Urban,,,48
+2012,Percentage households with 5 basic skills,,Rural,,,73
+2020,Percentage individuals that live in households with all 5 basic production skills,,,,,58
+2020,Percentage individuals that live in households with all 5 basic production skills,,,Male,,57
+2020,Percentage individuals that live in households with all 5 basic production skills,,,Female,,58
+2020,Percentage individuals that live in households with all 5 basic production skills,,Urban,,,24
+2020,Percentage individuals that live in households with all 5 basic production skills,,Rural,,,71
+2020,Percentage individuals that live in households with all 5 basic production skills,TORBA,,,VU01,64
+2020,Percentage individuals that live in households with all 5 basic production skills,SANMA,,,VU02,66
+2020,Percentage individuals that live in households with all 5 basic production skills,PENAMA,,,VU03,89
+2020,Percentage individuals that live in households with all 5 basic production skills,MALAMPA,,,VU04,64
+2020,Percentage individuals that live in households with all 5 basic production skills,SHEFA,,,VU05,36
+2020,Percentage individuals that live in households with all 5 basic production skills,TAFEA,,,VU06,79
+2010,Percentage individuals that live in households with all 5 basic production skills,,,,,61

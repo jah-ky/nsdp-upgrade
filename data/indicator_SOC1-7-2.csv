@@ -1,0 +1,52 @@
+Year,Series,Province,Region,Sex,GeoCode,Value
+2020,Agriculture,,,,,94
+2020,Agriculture,,Urban,,,92
+2020,Agriculture,,Rural,,,94
+2020,Agriculture,TORBA,,,VU01,92
+2020,Agriculture,SANMA,,,VU02,96
+2020,Agriculture,PENAMA,,,VU03,100
+2020,Agriculture,MALAMPA,,,VU04,99
+2020,Agriculture,SHEFA,,,VU05,91
+2020,Agriculture,TAFEA,,,VU06,86
+2010,Agriculture,,,,,98
+2010,Agriculture,,Urban,,,91
+2010,Agriculture,,Rural,,,99
+2010,Agriculture,TORBA,,,VU01,97
+2010,Agriculture,SANMA Rural,,,VU02,99
+2010,Agriculture,PENAMA,,,VU03,98
+2010,Agriculture,MALAMPA,,,VU04,100
+2010,Agriculture,SHEFA Rural,,,VU05,100
+2010,Agriculture,TAFEA,,,VU06,100
+2012,Agriculture,,,,,96
+2012,Agriculture,,Urban,,,90
+2012,Agriculture,,Rural,,,99
+2020,Forestry,,,,,41
+2020,Forestry,,Urban,,,34
+2020,Forestry,,Rural,,,43
+2020,Forestry,TORBA,,,VU01,37
+2020,Forestry,SANMA,,,VU02,45
+2020,Forestry,PENAMA,,,VU03,69
+2020,Forestry,MALAMPA,,,VU04,45
+2020,Forestry,SHEFA,,,VU05,32
+2020,Forestry,TAFEA,,,VU06,27
+2020,Livestock,,,,,82
+2020,Livestock,,Urban,,,45
+2020,Livestock,,Rural,,,91
+2020,Livestock,TORBA,,,VU01,91
+2020,Livestock,SANMA,,,VU02,86
+2020,Livestock,PENAMA,,,VU03,98
+2020,Livestock,MALAMPA,,,VU04,92
+2020,Livestock,SHEFA,,,VU05,59
+2020,Livestock,TAFEA,,,VU06,97
+2010,Livestock,,,,,86
+2010,Livestock,,Urban,,,56
+2010,Livestock,,Rural,,,90
+2010,Livestock,TORBA,,,VU01,87
+2010,Livestock,SANMA Rural,,,VU02,94
+2010,Livestock,PENAMA,,,VU03,94
+2010,Livestock,MALAMPA,,,VU04,98
+2010,Livestock,SHEFA Rural,,,VU05,67
+2010,Livestock,TAFEA,,,VU06,92
+2012,Livestock,,,,,81
+2012,Livestock,,Urban,,,49
+2012,Livestock,,Rural,,,93

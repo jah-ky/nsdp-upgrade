@@ -1,0 +1,15 @@
+Year,Province,Region,Sex,GeoCode,Value
+2020,,,,,70
+2020,,,Male,,70
+2020,,,Female,,69
+2020,,Urban,,,34
+2020,,Rural,,,83
+2020,TORBA,,,VU01,91
+2020,SANMA,,,VU02,61
+2020,PENAMA,,,VU03,91
+2020,MALAMPA,,,VU04,87
+2020,SHEFA,,,VU05,55
+2020,TAFEA,,,VU06,86
+2012,,,,,72
+2012,,Urban,,,52
+2012,,Rural,,,85

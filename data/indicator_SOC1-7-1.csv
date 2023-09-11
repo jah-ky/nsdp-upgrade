@@ -1,0 +1,62 @@
+Year,Series,Province,Region,Sex,GeoCode,Value
+2020,Indigenous land access,,,,,85
+2020,Indigenous land access,,,Male,,85
+2020,Indigenous land access,,,Female,,85
+2020,Indigenous land access,,Urban,,,65
+2020,Indigenous land access,,Rural,,,92
+2020,Indigenous land access,TORBA,,,VU01,98
+2020,Indigenous land access,SANMA,,,VU02,79
+2020,Indigenous land access,PENAMA,,,VU03,97
+2020,Indigenous land access,MALAMPA,,,VU04,93
+2020,Indigenous land access,SHEFA,,,VU05,75
+2020,Indigenous land access,TAFEA,,,VU06,98
+2010,Indigenous land access,,,,,79
+2010,Indigenous land access,,Urban,,,41
+2010,Indigenous land access,,Rural,,,92
+2010,Indigenous land access,TORBA,,,VU01,91
+2010,Indigenous land access,PENAMA,,,VU03,96
+2010,Indigenous land access,MALAMPA,,,VU04,98
+2010,Indigenous land access,TAFEA,,,VU06,98
+2012,Indigenous land access,,,,,87
+2012,Indigenous land access,,Urban,,,64
+2012,Indigenous land access,,Rural,,,100
+2020,Marine resources,,,,,85
+2020,Marine resources,,,Male,,85
+2020,Marine resources,,,Female,,85
+2020,Marine resources,,Urban,,,65
+2020,Marine resources,,Rural,,,92
+2020,Marine resources,TORBA,,,VU01,98
+2020,Marine resources,SANMA,,,VU02,79
+2020,Marine resources,PENAMA,,,VU03,97
+2020,Marine resources,MALAMPA,,,VU04,93
+2020,Marine resources,SHEFA,,,VU05,75
+2020,Marine resources,TAFEA,,,VU06,98
+2010,Marine resources,,,,,79
+2010,Marine resources,,Urban,,,41
+2010,Marine resources,,Rural,,,92
+2010,Marine resources,TORBA,,,VU01,91
+2010,Marine resources,PENAMA,,,VU03,96
+2010,Marine resources,MALAMPA,,,VU04,98
+2010,Marine resources,TAFEA,,,VU06,98
+2012,Marine resources,,,,,87
+2012,Marine resources,,Urban,,,64
+2012,Marine resources,,Rural,,,100
+2020,Forest resources,,,,,93
+2020,Forest resources,,,Male,,93
+2020,Forest resources,,,Female,,93
+2020,Forest resources,,Urban,,,75
+2020,Forest resources,,Rural,,,100
+2020,Forest resources,TORBA,,,VU01,98
+2020,Forest resources,SANMA,,,VU02,98
+2020,Forest resources,PENAMA,,,VU03,100
+2020,Forest resources,MALAMPA,,,VU04,100
+2020,Forest resources,SHEFA,,,VU05,83
+2020,Forest resources,TAFEA,,,VU06,100
+2010,Forest resources,,,,,93
+2010,Forest resources,TORBA,,,VU01,100
+2010,Forest resources,PENAMA,,,VU03,100
+2010,Forest resources,MALAMPA,,,VU04,100
+2010,Forest resources,TAFEA,,,VU06,100
+2012,Forest resources,,,,,86
+2012,Forest resources,,Urban,,,61
+2012,Forest resources,,Rural,,,100
