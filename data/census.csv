@@ -1,0 +1,133 @@
+Year,Province,Area council,Sex,GeoCode,Value
+2016,Torba,torres,Male,VU01055,505
+2016,Torba,ureparapara,Male,VU01066,239
+2016,Torba,motalava,Male,VU01063,810
+2016,Torba,vanua lava,Male,VU01054,1634
+2016,Torba,mota,Male,VU01064,362
+2016,Torba,gaua,Male,VU01053,1324
+2016,Torba,merelava,Male,VU01065,279
+2016,Sanma,north west santo,Male,,844
+2016,Sanma,north santo,Male,,2472
+2016,Sanma,west santo,Male,,1536
+2016,Sanma,south santo,Male,,4363
+2016,Sanma,east santo,Male,,2382
+2016,Sanma,south east santo,Male,,3086
+2016,Sanma,canal - fanafo,Male,,2618
+2016,Sanma,luganville,Male,,8344
+2016,Sanma,west malo,Male,,1208
+2016,Sanma,east malo,Male,VU02042,1048
+2016,Penama,west ambae,Male,,2039
+2016,Penama,north ambae,Male,,1944
+2016,Penama,east ambae,Male,,1227
+2016,Penama,south ambae,Male,,783
+2016,Penama,north maewo,Male,,1216
+2016,Penama,south maewo,Male,,660
+2016,Penama,north pentecost,Male,,3079
+2016,Penama,central pentecost 1,Male,,1357
+2016,Penama,central pentecost 2,Male,,1892
+2016,Penama,south pentecost,Male,,2352
+2016,Malampa,north west malekula,Male,,2816
+2016,Malampa,north east malekula,Male,,3614
+2016,Malampa,central malekula,Male,,3125
+2016,Malampa,south west malekula,Male,,1858
+2016,Malampa,south east malekula,Male,,2657
+2016,Malampa,south malekula,Male,,1934
+2016,Malampa,north ambrym,Male,,1529
+2016,Malampa,west ambrym,Male,,1495
+2016,Malampa,south east ambrym,Male,,794
+2016,Malampa,paama,Male,,867
+2016,Shefa,vermali,Male,,1012
+2016,Shefa,vermaul,Male,,725
+2016,Shefa,varisu,Male,,816
+2016,Shefa,south epi,Male,,761
+2016,Shefa,north tongoa,Male,,835
+2016,Shefa,tongariki,Male,,519
+2016,Shefa,makimae,Male,,623
+2016,Shefa,nguna,Male,,864
+2016,Shefa,emau,Male,,344
+2016,Shefa,malorua,Male,,1528
+2016,Shefa,north efate,Male,,1483
+2016,Shefa,mele,Male,,2349
+2016,Shefa,port vila,Male,,26162
+2016,Shefa,ifira,Male,,582
+2016,Shefa,pango,Male,,1161
+2016,Shefa,erakor,Male,,4491
+2016,Shefa,eratap,Male,,3456
+2016,Shefa,eton,Male,,1830
+2016,Tafea,north erromango,Male,,756
+2016,Tafea,south erromango,Male,,299
+2016,Tafea,aniwa,Male,,200
+2016,Tafea,north tanna,Male,,2046
+2016,Tafea,west tanna,Male,VU06023,4255
+2016,Tafea,middle bush tanna,Male,,3001
+2016,Tafea,south west tanna,Male,,2763
+2016,Tafea,whitesands,Male,,3361
+2016,Tafea,south tanna,Male,,670
+2016,Tafea,futuna,Male,,336
+2016,Tafea,aneityum,Male,,745
+2016,Torba,torres,female,VU01055,517
+2016,Torba,ureparapara,female,VU01066,217
+2016,Torba,motalava,female,VU01063,868
+2016,Torba,vanua lava,female,VU01054,1525
+2016,Torba,mota,female,VU01064,320
+2016,Torba,gaua,female,VU01053,1252
+2016,Torba,merelava,female,VU01065,309
+2016,Sanma,north west santo,female,,853
+2016,Sanma,north santo,female,,2275
+2016,Sanma,west santo,female,,1536
+2016,Sanma,south santo,female,,4071
+2016,Sanma,east santo,female,,2303
+2016,Sanma,south east santo,female,,2870
+2016,Sanma,canal - fanafo,female,,2298
+2016,Sanma,luganville,female,,7968
+2016,Sanma,west malo,female,,1145
+2016,Sanma,east malo,female,,964
+2016,Penama,west ambae,female,,1945
+2016,Penama,north ambae,female,,1979
+2016,Penama,east ambae,female,,1019
+2016,Penama,south ambae,female,,734
+2016,Penama,north maewo,female,,1146
+2016,Penama,south maewo,female,,641
+2016,Penama,north pentecost,female,,2844
+2016,Penama,central pentecost 1,female,,1290
+2016,Penama,central pentecost 2,female,,1970
+2016,Penama,south pentecost,female,,2417
+2016,Malampa,north west malekula,female,,2699
+2016,Malampa,north east malekula,female,,3548
+2016,Malampa,central malekula,female,,3141
+2016,Malampa,south west malekula,female,,1708
+2016,Malampa,south east malekula,female,,2483
+2016,Malampa,south malekula,female,,1973
+2016,Malampa,north ambrym,female,,1627
+2016,Malampa,west ambrym,female,,1449
+2016,Malampa,south east ambrym,female,,758
+2016,Malampa,paama,female,,853
+2016,Shefa,vermali,female,,1068
+2016,Shefa,vermaul,female,,736
+2016,Shefa,varisu,female,,802
+2016,Shefa,south epi,female,,688
+2016,Shefa,north tongoa,female,,853
+2016,Shefa,tongariki,female,,468
+2016,Shefa,makimae,female,,584
+2016,Shefa,nguna,female,,864
+2016,Shefa,emau,female,,341
+2016,Shefa,malorua,female,,1388
+2016,Shefa,north efate,female,,1504
+2016,Shefa,mele,female,,2389
+2016,Shefa,port vila,female,,25275
+2016,Shefa,ifira,female,,604
+2016,Shefa,pango,female,,1198
+2016,Shefa,erakor,female,,4427
+2016,Shefa,eratap,female,,3184
+2016,Shefa,eton,female,,1688
+2016,Tafea,north erromango,female,,735
+2016,Tafea,south erromango,female,,319
+2016,Tafea,aniwa,female,,220
+2016,Tafea,north tanna,female,,2140
+2016,Tafea,west tanna,female,,4312
+2016,Tafea,middle bush tanna,female,,3006
+2016,Tafea,south west tanna,female,VU06023,2830
+2016,Tafea,whitesands,female,,3381
+2016,Tafea,south tanna,female,,662
+2016,Tafea,futuna,female,,325
+2016,Tafea,aneityum,female,,688

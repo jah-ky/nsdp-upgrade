@@ -1,0 +1,155 @@
+﻿Year,Technology,Urban/Rural,Region,Unit of measurement,Value
+2020,Cell Phone,,,Percentage of private households (%),59.7
+2020,Laptpop,,,Percentage of private households (%),8.9
+2020,Tablet,,,Percentage of private households (%),6
+2020,Internet,,,Percentage of private households (%),2.2
+2020,Desktop,,,Percentage of private households (%),0.6
+2020,Landline,,,Percentage of private households (%),0.26
+2020,Satelite Phone,,,Percentage of private households (%),0.16
+2020,Cell Phone,Urban,,Percentage of private households (%),59.5
+2020,Laptpop,Urban,,Percentage of private households (%),17.9
+2020,Tablet,Urban,,Percentage of private households (%),8.1
+2020,Internet,Urban,,Percentage of private households (%),4.2
+2020,Desktop,Urban,,Percentage of private households (%),1.9
+2020,Landline,Urban,,Percentage of private households (%),0.37
+2020,Satelite Phone,Urban,,Percentage of private households (%),0.07
+2020,Cell Phone,Rural,,Percentage of private households (%),59.7
+2020,Laptpop,Rural,,Percentage of private households (%),6.2
+2020,Tablet,Rural,,Percentage of private households (%),5.4
+2020,Internet,Rural,,Percentage of private households (%),1.6
+2020,Desktop,Rural,,Percentage of private households (%),0.3
+2020,Landline,Rural,,Percentage of private households (%),0.22
+2020,Satelite Phone,Rural,,Percentage of private households (%),0.2
+2020,Cell Phone,,Port Vila,Percentage of private households (%),58.66
+2020,Laptpop,,Port Vila,Percentage of private households (%),18.99
+2020,Tablet,,Port Vila,Percentage of private households (%),7.71
+2020,Internet,,Port Vila,Percentage of private households (%),4.94
+2020,Desktop,,Port Vila,Percentage of private households (%),2.12
+2020,Landline,,Port Vila,Percentage of private households (%),0.41
+2020,Satelite Phone,,Port Vila,Percentage of private households (%),0.08
+2020,Cell Phone,,Luganville,Percentage of private households (%),62.26
+2020,Laptpop,,Luganville,Percentage of private households (%),14.91
+2020,Tablet,,Luganville,Percentage of private households (%),9.22
+2020,Internet,,Luganville,Percentage of private households (%),2.11
+2020,Desktop,,Luganville,Percentage of private households (%),1.3
+2020,Landline,,Luganville,Percentage of private households (%),0.23
+2020,Satelite Phone,,Luganville,Percentage of private households (%),0.06
+2020,Cell Phone,,Torba,Percentage of private households (%),57.4
+2020,Laptpop,,Torba,Percentage of private households (%),5.9
+2020,Tablet,,Torba,Percentage of private households (%),4.9
+2020,Internet,,Torba,Percentage of private households (%),2.1
+2020,Desktop,,Torba,Percentage of private households (%),0.1
+2020,Landline,,Torba,Percentage of private households (%),0
+2020,Satelite Phone,,Torba,Percentage of private households (%),0.04
+2020,Cell Phone,,Sanma,Percentage of private households (%),63
+2020,Laptpop,,Sanma,Percentage of private households (%),4.9
+2020,Tablet,,Sanma,Percentage of private households (%),5.3
+2020,Internet,,Sanma,Percentage of private households (%),1.2
+2020,Desktop,,Sanma,Percentage of private households (%),0.3
+2020,Landline,,Sanma,Percentage of private households (%),0.21
+2020,Satelite Phone,,Sanma,Percentage of private households (%),0.03
+2020,Cell Phone,,Penama,Percentage of private households (%),60.9
+2020,Laptpop,,Penama,Percentage of private households (%),2.9
+2020,Tablet,,Penama,Percentage of private households (%),3.2
+2020,Internet,,Penama,Percentage of private households (%),2.1
+2020,Desktop,,Penama,Percentage of private households (%),0.06
+2020,Landline,,Penama,Percentage of private households (%),0.05
+2020,Satelite Phone,,Penama,Percentage of private households (%),0.07
+2020,Cell Phone,,Malampa,Percentage of private households (%),63.3
+2020,Laptpop,,Malampa,Percentage of private households (%),5
+2020,Tablet,,Malampa,Percentage of private households (%),4.8
+2020,Internet,,Malampa,Percentage of private households (%),1.6
+2020,Desktop,,Malampa,Percentage of private households (%),0.14
+2020,Landline,,Malampa,Percentage of private households (%),0.14
+2020,Satelite Phone,,Malampa,Percentage of private households (%),0.3
+2020,Cell Phone,,Shefa,Percentage of private households (%),61.8
+2020,Laptpop,,Shefa,Percentage of private households (%),11.5
+2020,Tablet,,Shefa,Percentage of private households (%),9.2
+2020,Internet,,Shefa,Percentage of private households (%),12.8
+2020,Desktop,,Shefa,Percentage of private households (%),0.61
+2020,Landline,,Shefa,Percentage of private households (%),0.6
+2020,Satelite Phone,,Shefa,Percentage of private households (%),0.3
+2020,Cell Phone,,Tafea,Percentage of private households (%),48.6
+2020,Laptpop,,Tafea,Percentage of private households (%),4.8
+2020,Tablet,,Tafea,Percentage of private households (%),3.4
+2020,Internet,,Tafea,Percentage of private households (%),0.7
+2020,Desktop,,Tafea,Percentage of private households (%),0.13
+2020,Landline,,Tafea,Percentage of private households (%),0.07
+2020,Satelite Phone,,Tafea,Percentage of private households (%),0.3
+2020,Cell Phone,,,Total number technologies convey early warnings,37820
+2020,Laptpop,,,Total number technologies convey early warnings,5649
+2020,Tablet,,,Total number technologies convey early warnings,3827
+2020,Internet,,,Total number technologies convey early warnings,1426
+2020,Desktop,,,Total number technologies convey early warnings,408
+2020,Landline,,,Total number technologies convey early warnings,162
+2020,Satelite Phone,,,Total number technologies convey early warnings,102
+2020,Cell Phone,Urban,,Total number technologies convey early warnings,8754
+2020,Laptpop,Urban,,Total number technologies convey early warnings,2646
+2020,Tablet,Urban,,Total number technologies convey early warnings,1187
+2020,Internet,Urban,,Total number technologies convey early warnings,625
+2020,Desktop,Urban,,Total number technologies convey early warnings,282
+2020,Landline,Urban,,Total number technologies convey early warnings,54
+2020,Satelite Phone,Urban,,Total number technologies convey early warnings,11
+2020,Cell Phone,Rural,,Total number technologies convey early warnings,29066
+2020,Laptpop,Rural,,Total number technologies convey early warnings,3003
+2020,Tablet,Rural,,Total number technologies convey early warnings,2639
+2020,Internet,Rural,,Total number technologies convey early warnings,801
+2020,Desktop,Rural,,Total number technologies convey early warnings,126
+2020,Landline,Rural,,Total number technologies convey early warnings,108
+2020,Satelite Phone,Rural,,Total number technologies convey early warnings,91
+2020,Cell Phone,,Port Vila,Total number technologies convey early warnings,6522
+2020,Laptpop,,Port Vila,Total number technologies convey early warnings,2112
+2020,Tablet,,Port Vila,Total number technologies convey early warnings,857
+2020,Internet,,Port Vila,Total number technologies convey early warnings,549
+2020,Desktop,,Port Vila,Total number technologies convey early warnings,235
+2020,Landline,,Port Vila,Total number technologies convey early warnings,46
+2020,Satelite Phone,,Port Vila,Total number technologies convey early warnings,9
+2020,Cell Phone,,Luganville,Total number technologies convey early warnings,2231
+2020,Laptpop,,Luganville,Total number technologies convey early warnings,534
+2020,Tablet,,Luganville,Total number technologies convey early warnings,330
+2020,Internet,,Luganville,Total number technologies convey early warnings,76
+2020,Desktop,,Luganville,Total number technologies convey early warnings,46
+2020,Landline,,Luganville,Total number technologies convey early warnings,8
+2020,Satelite Phone,,Luganville,Total number technologies convey early warnings,2
+2020,Cell Phone,,Torba,Total number technologies convey early warnings,1374
+2020,Laptpop,,Torba,Total number technologies convey early warnings,142
+2020,Tablet,,Torba,Total number technologies convey early warnings,118
+2020,Internet,,Torba,Total number technologies convey early warnings,51
+2020,Desktop,,Torba,Total number technologies convey early warnings,3
+2020,Landline,,Torba,Total number technologies convey early warnings,0
+2020,Satelite Phone,,Torba,Total number technologies convey early warnings,1
+2020,Cell Phone,,Sanma,Total number technologies convey early warnings,5860
+2020,Laptpop,,Sanma,Total number technologies convey early warnings,461
+2020,Tablet,,Sanma,Total number technologies convey early warnings,494
+2020,Internet,,Sanma,Total number technologies convey early warnings,116
+2020,Desktop,,Sanma,Total number technologies convey early warnings,25
+2020,Landline,,Sanma,Total number technologies convey early warnings,20
+2020,Satelite Phone,,Sanma,Total number technologies convey early warnings,3
+2020,Cell Phone,,Penama,Total number technologies convey early warnings,4787
+2020,Laptpop,,Penama,Total number technologies convey early warnings,230
+2020,Tablet,,Penama,Total number technologies convey early warnings,254
+2020,Internet,,Penama,Total number technologies convey early warnings,167
+2020,Desktop,,Penama,Total number technologies convey early warnings,5
+2020,Landline,,Penama,Total number technologies convey early warnings,4
+2020,Satelite Phone,,Penama,Total number technologies convey early warnings,6
+2020,Cell Phone,,Malampa,Total number technologies convey early warnings,6153
+2020,Laptpop,,Malampa,Total number technologies convey early warnings,491
+2020,Tablet,,Malampa,Total number technologies convey early warnings,466
+2020,Internet,,Malampa,Total number technologies convey early warnings,154
+2020,Desktop,,Malampa,Total number technologies convey early warnings,14
+2020,Landline,,Malampa,Total number technologies convey early warnings,14
+2020,Satelite Phone,,Malampa,Total number technologies convey early warnings,29
+2020,Cell Phone,,Shefa,Total number technologies convey early warnings,6888
+2020,Laptpop,,Shefa,Total number technologies convey early warnings,1285
+2020,Tablet,,Shefa,Total number technologies convey early warnings,1029
+2020,Internet,,Shefa,Total number technologies convey early warnings,256
+2020,Desktop,,Shefa,Total number technologies convey early warnings,68
+2020,Landline,,Shefa,Total number technologies convey early warnings,63
+2020,Satelite Phone,,Shefa,Total number technologies convey early warnings,29
+2020,Cell Phone,,Tafea,Total number technologies convey early warnings,4004
+2020,Laptpop,,Tafea,Total number technologies convey early warnings,393
+2020,Tablet,,Tafea,Total number technologies convey early warnings,278
+2020,Internet,,Tafea,Total number technologies convey early warnings,57
+2020,Desktop,,Tafea,Total number technologies convey early warnings,11
+2020,Landline,,Tafea,Total number technologies convey early warnings,6
+2020,Satelite Phone,,Tafea,Total number technologies convey early warnings,23

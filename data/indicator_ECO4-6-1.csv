@@ -1,0 +1,119 @@
+﻿Year,Series,Region,Sectors,Sub-Sectors,Value
+2020,,,,,46.3
+2020,"Agriculture, Forestry and Fishery",,"Agriculture, Forestry and Fishery",,37.3
+2020,"Agriculture, Forestry and Fishery",Port Vila,"Agriculture, Forestry and Fishery",,3.6
+2020,"Agriculture, Forestry and Fishery",Luganville,"Agriculture, Forestry and Fishery",,10.4
+2020,"Agriculture, Forestry and Fishery",Torba,"Agriculture, Forestry and Fishery",,61.4
+2020,"Agriculture, Forestry and Fishery",Sanma,"Agriculture, Forestry and Fishery",,62.7
+2020,"Agriculture, Forestry and Fishery",Penama,"Agriculture, Forestry and Fishery",,69.7
+2020,"Agriculture, Forestry and Fishery",Malampa,"Agriculture, Forestry and Fishery",,71.7
+2020,"Agriculture, Forestry and Fishery",Shefa,"Agriculture, Forestry and Fishery",,36.4
+2020,"Agriculture, Forestry and Fishery",Tafea,"Agriculture, Forestry and Fishery",,52.4
+2020,Industry,,Industry,,8.9
+2020,Industry,Port Vila,Industry,,12.1
+2020,Industry,Luganville,Industry,,14.6
+2020,Industry,Torba,Industry,,8.1
+2020,Industry,Sanma,Industry,,3
+2020,Industry,Penama,Industry,,5.8
+2020,Industry,Malampa,Industry,,2.6
+2020,Industry,Shefa,Industry,,10.1
+2020,Industry,Tafea,Industry,,11.1
+2020,Industry,,Industry,Manufacturing,4.5
+2020,Industry,Port Vila,Industry,Manufacturing,6.2
+2020,Industry,Luganville,Industry,Manufacturing,8.6
+2020,Industry,Torba,Industry,Manufacturing,3.9
+2020,Industry,Sanma,Industry,Manufacturing,1.6
+2020,Industry,Penama,Industry,Manufacturing,3.1
+2020,Industry,Malampa,Industry,Manufacturing,1.4
+2020,Industry,Shefa,Industry,Manufacturing,56.5
+2020,Industry,Tafea,Industry,Manufacturing,3.1
+2020,Industry,,Industry,Construction,3.9
+2020,Industry,Port Vila,Industry,Construction,5.2
+2020,Industry,Luganville,Industry,Construction,4.9
+2020,Industry,Torba,Industry,Construction,4
+2020,Industry,Sanma,Industry,Construction,1.1
+2020,Industry,Penama,Industry,Construction,2.7
+2020,Industry,Malampa,Industry,Construction,0.9
+2020,Industry,Shefa,Industry,Construction,4.3
+2020,Industry,Tafea,Industry,Construction,7.6
+2020,Industry,,Industry,"MiningandQuarrying;Electricity,GasandWaterSupply",0.5
+2020,Industry,Port Vila,Industry,"MiningandQuarrying;Electricity,GasandWaterSupply",0.7
+2020,Industry,Luganville,Industry,"MiningandQuarrying;Electricity,GasandWaterSupply",1.1
+2020,Industry,Torba,Industry,"MiningandQuarrying;Electricity,GasandWaterSupply",0.2
+2020,Industry,Sanma,Industry,"MiningandQuarrying;Electricity,GasandWaterSupply",0.2
+2020,Industry,Penama,Industry,"MiningandQuarrying;Electricity,GasandWaterSupply",0
+2020,Industry,Malampa,Industry,"MiningandQuarrying;Electricity,GasandWaterSupply",0.4
+2020,Industry,Shefa,Industry,"MiningandQuarrying;Electricity,GasandWaterSupply",0.3
+2020,Industry,Tafea,Industry,"MiningandQuarrying;Electricity,GasandWaterSupply",0.4
+2020,Service,,Service,,49.4
+2020,Service,Port Vila,Service,,80.8
+2020,Service,Luganville,Service,,73.6
+2020,Service,Torba,Service,,27.2
+2020,Service,Sanma,Service,,29.3
+2020,Service,Penama,Service,,18.5
+2020,Service,Malampa,Service,,22.1
+2020,Service,Shefa,Service,,47.5
+2020,Service,Tafea,Service,,30.8
+2020,Service,,Service,WholesaleandRetailTrade,13.2
+2020,Service,Port Vila,Service,WholesaleandRetailTrade,20.6
+2020,Service,Luganville,Service,WholesaleandRetailTrade,22.8
+2020,Service,Torba,Service,WholesaleandRetailTrade,7.1
+2020,Service,Sanma,Service,WholesaleandRetailTrade,5
+2020,Service,Penama,Service,WholesaleandRetailTrade,6.6
+2020,Service,Malampa,Service,WholesaleandRetailTrade,6.6
+2020,Service,Shefa,Service,WholesaleandRetailTrade,13
+2020,Service,Tafea,Service,WholesaleandRetailTrade,8.7
+2020,Service,,Service,HotelsandAccomodations,49.4
+2020,Service,Port Vila,Service,HotelsandAccomodations,80.8
+2020,Service,Luganville,Service,HotelsandAccomodations,73.6
+2020,Service,Torba,Service,HotelsandAccomodations,27.2
+2020,Service,Sanma,Service,HotelsandAccomodations,29.3
+2020,Service,Penama,Service,HotelsandAccomodations,18.5
+2020,Service,Malampa,Service,HotelsandAccomodations,22.1
+2020,Service,Shefa,Service,HotelsandAccomodations,47.5
+2020,Service,Tafea,Service,HotelsandAccomodations,30.8
+2020,Service,,Service,"Restaurants,FoodandBeverageServices",5.6
+2020,Service,Port Vila,Service,"Restaurants,FoodandBeverageServices",10.4
+2020,Service,Luganville,Service,"Restaurants,FoodandBeverageServices",7.9
+2020,Service,Torba,Service,"Restaurants,FoodandBeverageServices",2.2
+2020,Service,Sanma,Service,"Restaurants,FoodandBeverageServices",1.8
+2020,Service,Penama,Service,"Restaurants,FoodandBeverageServices",2
+2020,Service,Malampa,Service,"Restaurants,FoodandBeverageServices",2.6
+2020,Service,Shefa,Service,"Restaurants,FoodandBeverageServices",5.6
+2020,Service,Tafea,Service,"Restaurants,FoodandBeverageServices",1
+2020,Service,,Service,AdministrativeandSupportServices,3.9
+2020,Service,Port Vila,Service,AdministrativeandSupportServices,6.4
+2020,Service,Luganville,Service,AdministrativeandSupportServices,7.9
+2020,Service,Torba,Service,AdministrativeandSupportServices,0.7
+2020,Service,Sanma,Service,AdministrativeandSupportServices,2.3
+2020,Service,Penama,Service,AdministrativeandSupportServices,0
+2020,Service,Malampa,Service,AdministrativeandSupportServices,0.8
+2020,Service,Shefa,Service,AdministrativeandSupportServices,4.8
+2020,Service,Tafea,Service,AdministrativeandSupportServices,1.8
+2020,Service,,Service,Education,5.6
+2020,Service,Port Vila,Service,Education,5.2
+2020,Service,Luganville,Service,Education,6.5
+2020,Service,Torba,Service,Education,8.2
+2020,Service,Sanma,Service,Education,9.4
+2020,Service,Penama,Service,Education,4.4
+2020,Service,Malampa,Service,Education,5.4
+2020,Service,Shefa,Service,Education,4.8
+2020,Service,Tafea,Service,Education,4.8
+2020,Service,,Service,OtherServices,15
+2020,Service,Port Vila,Service,OtherServices,27.2
+2020,Service,Luganville,Service,OtherServices,21.4
+2020,Service,Torba,Service,OtherServices,4.9
+2020,Service,Sanma,Service,OtherServices,8.4
+2020,Service,Penama,Service,OtherServices,4.3
+2020,Service,Malampa,Service,OtherServices,4.6
+2020,Service,Shefa,Service,OtherServices,13.3
+2020,Service,Tafea,Service,OtherServices,10.2
+2020,Economic Activity not Classified,,Economic Activity not Classified,,4.4
+2020,Economic Activity not Classified,Port Vila,Economic Activity not Classified,,3.5
+2020,Economic Activity not Classified,Luganville,Economic Activity not Classified,,1.5
+2020,Economic Activity not Classified,Torba,Economic Activity not Classified,,3.4
+2020,Economic Activity not Classified,Sanma,Economic Activity not Classified,,5.2
+2020,Economic Activity not Classified,Penama,Economic Activity not Classified,,6
+2020,Economic Activity not Classified,Malampa,Economic Activity not Classified,,3.6
+2020,Economic Activity not Classified,Shefa,Economic Activity not Classified,,6
+2020,Economic Activity not Classified,Tafea,Economic Activity not Classified,,5.7
