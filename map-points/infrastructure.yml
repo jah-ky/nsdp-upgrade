@@ -1,0 +1,4 @@
+map_points:
+  - input: geojson/points/households-mapped.csv
+    output: infrastructure-locations.geojson
+    label: infrastrucure location

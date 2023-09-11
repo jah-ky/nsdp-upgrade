@@ -1,0 +1,4 @@
+map_points:
+  - input: geojson/points/schools.csv
+    output: school-attendance-locations.geojson
+    label: Schools
