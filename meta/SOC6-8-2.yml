@@ -1,0 +1,46 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: Number of aids for the government sectors using Vanuatu government
+  PFM systems.
+ComputationUnit: Total Count
+Concept: "PFM systems\_are essential for effective and sustainable economic management\
+  \ and public service delivery"
+DataSource: "* National Aid Agency (Administrative Data)\n* Ministry of Foreign Affairs\
+  \ \n*Department of Finance & Treasury"
+Definition: "Public Financial Management\_(PFM) is the\_system\_whereby financial\
+  \ resources are planned, directed and monitored for the efficient and effective\
+  \ implementation of public service objectives"
+Dissaggregation: '* National Level'
+FrequencyOfCollection: ''
+FrequencyofCollection: null
+GoalDescription: 'A dynamic public sector with good governance principles and strong
+  institutions delivering the support and services expected by all citizens of Vanuatu  '
+GoalId: SOC 6
+IndicatorDescription: Percentage of aid for the government sector using Vanuatu government
+  PFM systems
+IndicatorId: SOC 6.8.2
+IndicatorShortName: Foreign Aid to Government Using PFM Systems
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: SOC 6.8.2
+OtherDemandSources: null
+PillarDescription: Social
+PillarName: Society
+PolicyLinkage: null
+PolicyObjectiveDescription: Coordinate donor resources to align with national objectives
+PolicyObjectiveId: SOC 6.8
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: "Effective delivery of public services is closely associated with poverty\
+  \ reduction and growth, and countries with strong, transparent, accountable\_PFM\_\
+  systems tend to deliver services more effectively and equitably and regulate markets\
+  \ more efficiently and fairly."
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: '16.6.1 (Tier 1) '
+SourceTag: null
+TargetDescription: "By 2030 \u2013 65%"

@@ -1,0 +1,48 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: "Collect total number of eligible voters who voted in the last\
+  \ election through the electoral office biometric voters registration systems. Approved\
+  \ through MoA\u2019s & MoU\u2019s."
+ComputationUnit: total count
+Concept: Voters turnout will indicate whether or not political reforms are being implemented
+  to promote stability accountability, constituency representation and civic engagement.
+DataSource: NSDP Baseline Survey
+Definition: Vote turnout is the percentage of eligible voters who cast a ballot in
+  an election. Eligibility varies by country, and the voting-eligible population should
+  not be confused with the total adult population.
+Dissaggregation: Rural/Urban, Area council, province, national
+FrequencyOfCollection: Four years
+FrequencyofCollection: null
+GoalDescription: A dynamic public sector with good governance principles and strong
+  institutions delivering the support and services expected by all citizens of Vanuatu.
+GoalId: 6
+IndicatorDescription: Proportion of eligible population reporting to have voted in
+  last election.
+IndicatorId: SOC6.3.1
+IndicatorShortName: Self-Reported Electoral Participation Rate
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: SOC 6.3.1
+OtherDemandSources: null
+PillarDescription: Society
+PillarName: Society
+PolicyLinkage: null
+PolicyObjectiveDescription: Enact political reforms that promote stability, accountability,
+  constituency representation and civic engagement.
+PolicyObjectiveId: SOC 6.3
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: To depict the total number of eligible voters that voted in the last election
+  in relation to the political reforms that are already put in placed and whether
+  it is proactive or not.
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 16.7.2 (Tier 3)
+SourceTag: null
+TargetDescription: Target TBD after baseline established
+source_active_1: true
+source_organisation_1: 2016 Mini Census, VNSO

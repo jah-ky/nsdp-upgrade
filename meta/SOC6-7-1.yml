@@ -1,0 +1,27 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+Definition: null
+FrequencyofCollection: null
+IndicatorShortName: Population Use of Radio
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: SOC 6.7.1
+OtherDemandSources: null
+PillarName: Society
+PolicyLinkage: null
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Purpose/Rationale: null
+Range: null
+RelatedLinks: null
+ResponsibleAgency: null
+SourceTag: null
+source_active_1: true
+source_active_2: true
+source_active_3: true
+source_active_4: true
+source_organisation_1: 2016 Mini Census, VNSO
+source_organisation_2: 2009 Population and Housing Census, VNSO
+source_organisation_3: 2010 HIES (p68), VNSO, Household Proportion with mobile phones
+source_organisation_4: 2010 HIES (p68), VNSO

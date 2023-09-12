@@ -1,0 +1,59 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: (number of data information collect from request acted from request
+  acted upon by RTI in each government agencies) / (total number of information) x
+  100
+ComputationUnit: Percentage (%)
+Concept: The rights to Information Act, gives legal basis to the right to information
+  and requires all government agencies to release information upon request by the
+  public. The rights to Information Act also establishes a complaint mechanism if
+  agencies do not release information to the general public upon request under the
+  RTI Act.
+DataSource: Government Agencies
+Definition: All information collected by government agencies are to be made available
+  to the general public.
+Dissaggregation: 'Government agencies
+
+  Rural/Urban
+
+  Province
+
+  National'
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: A dynamic public sector with good governance and principles and strong
+  institutions delivering the support and services expected by all citizens of Vanuatu
+GoalId: 6
+IndicatorDescription: Proportion of data collected from requested acted upon by RTI
+  officers in each government agency
+IndicatorId: SOC 6.7.2
+IndicatorShortName: Data Requests Actioned by RTI Officers
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: SOC 6.7.2
+OtherDemandSources: null
+PillarDescription: Society
+PillarName: Society
+PolicyLinkage: null
+PolicyObjectiveDescription: Guarantee the public rights to information
+PolicyObjectiveId: SOC 6.7
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: '* Depicts how much information is provided to the general public.
+
+  * Making information available to the public and clear understanding of what the
+  government agencies are doing (roles, duties & responsibilities).
+
+  *Indicates how much the information is important and is used by the general public
+  and other data/information users
+
+  '
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: ''
+SourceTag: null
+TargetDescription: By 2030 13 ministries

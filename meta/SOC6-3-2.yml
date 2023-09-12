@@ -1,0 +1,49 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: "\u2022\tp = x / n\nWhere:\n\u201Cx\u201D is the number of items\
+  \ you\u2019re interested in, and\n\u201Cn\u201D is the total number of items in\
+  \ the population\nNote: While \u201Cp\u201D is usually used as the symbol for the\
+  \ population proportion, you might also see the letter pi(\u03C0) used instead."
+ComputationUnit: fraction, percentages(%)
+Concept: Communities or people who assess their local elected officials, contributes
+  to providing practical resource to municipal officials, local administrators, political
+  parties at the local level, traditional and civic leaders, academia, civil society
+  organizations, community groups, media and other key local actors as they conduct
+  self-evaluations of democratic life in their locality, identify democratic strengths
+  and weaknesses, and translate these into local reform and development priorities.
+DataSource: NSDP Baseline Survey
+Definition: Assessments is the art of breaking down a leader/official into basic psychological
+  components for study and use by academics and practitioners.
+Dissaggregation: Rural/Urban, Area council, province, national
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: A dynamic public sector with good governance principles and strong
+  institutions delivering the support and services expected by all citizens of Vanuatu.
+GoalId: 6
+IndicatorDescription: Proportion of population with an overall positive assessment
+  of their local elected officials.
+IndicatorId: SOC6.3.2
+IndicatorShortName: Positive Assessments of Elected Officials
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: SOC 6.3.2
+OtherDemandSources: null
+PillarDescription: Society
+PillarName: Society
+PolicyLinkage: null
+PolicyObjectiveDescription: Enact political reforms that promote stability, accountability,
+  constituency representation and civic engagement.
+PolicyObjectiveId: SOC 6.3
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: 'To depict the total number of people in the general population who provide
+  only positive assessment for their local elected officials. '
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: ''
+SourceTag: null
+TargetDescription: Target TBD after baseline established

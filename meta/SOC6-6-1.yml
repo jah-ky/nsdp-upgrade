@@ -1,0 +1,57 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: (Number of declared physical planning areas that have a physical
+  plan) / (Total number of physical planning area) *100
+ComputationUnit: Percentage (%)
+Concept: Physical planning is concerned with the general pattern of land-use, the
+  character and location of public buildings and structures, the design of streets,
+  the location and development of transit and transportation systems, and all other
+  physical facilities which are necessary or desirable to promote the economic betterment,
+  comfort, convenience, and the general welfare.
+DataSource: Department of Local Authorities (DLA)
+Definition: A design exercise that uses the land use plan as a framework to propose
+  the optimal physical infrastructure for a settlement or area, including infrastructure
+  for public services, transport, economic activities, recreation, and environmental
+  protection.
+Dissaggregation: 'Area council
+
+  Urban/Rural
+
+  Province
+
+  National'
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: A dynamic public sector with good governance principles and strong
+  institutions delivering the support and services expected by all citizens of Vanuatu
+GoalId: 6
+IndicatorDescription: Proportion of declared physical planning areas that have a physical
+  plan
+IndicatorId: SOC 6.6.1
+IndicatorShortName: Physical Plans in Physical Planning Areas
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: SOC 6.6.1
+OtherDemandSources: null
+PillarDescription: Society
+PillarName: Society
+PolicyLinkage: null
+PolicyObjectiveDescription: Strengthen physical planning and management to meet the
+  service delivery needs of a growing population.
+PolicyObjectiveId: SOC 6.6
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: '* important for policy planning of the country
+
+  * important for urban planning
+
+  * promote a more desirable & better develoment for the need of the public'
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 11.a.1 (Tier 3), 11.b.1 (Tier 3)
+SourceTag: null
+TargetDescription: By 2030 1 planner in each area

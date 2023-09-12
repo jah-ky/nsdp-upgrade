@@ -1,0 +1,52 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: "\u2022\tCollect data through data request forms from department\
+  \ of local authorities.\n\u2022\t p = x / n\nWhere:\n\u201Cx\u201D is the number\
+  \ of items you\u2019re interested in, and\n\u201Cn\u201D is the total number of\
+  \ items in the population\nNote: While \u201Cp\u201D is usually used as the symbol\
+  \ for the population proportion, you might also see the letter pi(\u03C0) used instead."
+ComputationUnit: fraction, percentages(%)
+Concept: "\u2022\tA province that is growing and hopes to sustain that growth needs\
+  \ a set of strategies to guide its program development, build a solid financial\
+  \ foundation, and prepare for challenges that lie ahead. In other words, it needs\
+  \ a strategic plan that will effectively strengthens decentralised service delivery\
+  \ by 100% by the year 20230 in all provinces throughout Vanuatu."
+DataSource: DLA
+Definition: "A three up-to-date plan is a vision of Provincial government\u2019s future\
+  \ and the basic steps required to achieve that future. A good plan should include\
+  \ goals and objectives, desired outcomes, metrics for measuring the progress, timelines,\
+  \ and budgets."
+Dissaggregation: ' province level'
+FrequencyOfCollection: 3 years
+FrequencyofCollection: null
+GoalDescription: A dynamic public sector with good governance principles and strong
+  institutions delivering the support and services expected by all citizens of Vanuatu.
+GoalId: 6
+IndicatorDescription: "Proportion of provinces with up-to-date three year \u201Crolling\u201D\
+  \ plans submitted to DLA"
+IndicatorId: SOC6.5.2
+IndicatorShortName: Provincial Three-Year Rolling Plans Submitted to DLA
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: SOC 6.5.2
+OtherDemandSources: null
+PillarDescription: Society
+PillarName: Society
+PolicyLinkage: null
+PolicyObjectiveDescription: Strengthen local authorities and municipal institutions
+  to enable decentralised service delivery
+PolicyObjectiveId: SOC 6.5
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: to depict the provinces that have already submitted their up-to-date three-year
+  rolling plans to Department of Local Authorities (DLA).
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 16.6.1 (Tier 1)
+SourceTag: null
+TargetDescription: By 2030 100% strengthening of local authorities and municipal institutions
+  to enable decentralised service delivery.

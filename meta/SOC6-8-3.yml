@@ -1,0 +1,56 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: (Amount of aid for the government sector using vanatu procurement
+  system) / (total amount of aid for the government sector) x 100
+ComputationUnit: Percentage (%)
+Concept: '
+
+  The action of obtaining or procuring something'
+DataSource: MFEM ( Ministry of Finance and Economic Management)
+Definition: Procurement process or system allows the government to make proper selection
+  on vendors, establish payment terms, strategic vetting, and selections, negotiate
+  contracts and actual purchasing of goods and services that are provided from donor
+  partners.
+Dissaggregation: 'Government agencies
+
+  Rural/Urban
+
+  Province
+
+  National'
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: A dynamic public sector with good governance and principles and strong
+  institutions delivering the support and services expected by all citizens of Vanuatu
+GoalId: 6
+IndicatorDescription: Percentage of aid for the government sector using Vanuatu government
+  procurement systems
+IndicatorId: SOC 6.8.3
+IndicatorShortName: Foreign Aid to Government Pusing Procurement Systems
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: SOC 6.8.3
+OtherDemandSources: null
+PillarDescription: Society
+PillarName: Society
+PolicyLinkage: null
+PolicyObjectiveDescription: Coordinate donor resources to align with national objectives
+PolicyObjectiveId: SOC 6.8
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: "* Controls over funds that come in from aid R\n* Ensure transparency within\
+  \ the government system and that donor resources are aligned with the government\
+  \ objectives and are achieved \n* Improves the government procurement system \u2013\
+  \ especially in terms of procuring goods and services, works from external sources\
+  \ often via tendering and competitive bidding."
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: '16.6.1
+
+  (Tier 1)'
+SourceTag: null
+TargetDescription: By 2030 - 65%

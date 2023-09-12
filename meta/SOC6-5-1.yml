@@ -1,0 +1,47 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: "Province=Total annual budget to Province \u2013 Budget annually\
+  \ used by Province\n Municipal= Total annual budget to Municipal \u2013 Budget annually\
+  \ used by municipal\nLeft over province budget + left over municipal budget"
+ComputationUnit: percentage (%) & total count
+Concept: Devolution is the statutory delegation of powers from the central government
+  of a sovereign state to govern at a subnational level, such as a regional or local
+  level. It is a form of administrative decentralization.
+DataSource: Vanuatu Department of Local Authorities.
+Definition: The transfer or delegation of power to a lower level, especially by central
+  government to local or regional administration.
+Dissaggregation: Province level, National level, Rural/Urban
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: ' A dynamic public sectors with good governance principles and strong
+  institutions delivering the support and services expected by all citizens of Vanuatu.'
+GoalId: 6
+IndicatorDescription: Change in annual budget going to Provinces, Municipalities towards
+  operations/programs (Devolution of funding authority)
+IndicatorId: 'SOC 6.5.1 '
+IndicatorShortName: Change in Annual Operational Budget Awarded Provinces
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: SOC 6.5.1
+OtherDemandSources: null
+PillarDescription: Society
+PillarName: Society
+PolicyLinkage: null
+PolicyObjectiveDescription: Strengthen local authorities and municipal institutions
+  to enable decentralised service delivery.
+PolicyObjectiveId: SOC 6.5
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: It is important because it ensures that decisions are made closer to the
+  local people, communities and businesses they affect. Devolution will provide greater
+  freedoms and flexibilities at a local level, meaning councils can work more effectively
+  to improve public services for their area.
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 12.7.1 (Tier 3)
+SourceTag: null
+TargetDescription: By 2030 increase by 10%
