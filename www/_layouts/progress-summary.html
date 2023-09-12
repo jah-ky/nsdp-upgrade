@@ -1,0 +1,34 @@
+{% include head.html %}
+{% include header.html %}
+
+<div id="main-content" class="container" role="main">
+
+    <h1>Progress summary</h1>
+
+    {{ content }}
+
+    {% comment %} SOC pillar {% endcomment %}
+    {% for goal in page.goals %}
+        {% assign pillar = goal.number | slice: 0, 3 %}
+        {% if pillar == 'SOC' %}
+            {% include components/progress/goal.html goal=goal %}
+        {% endif %}
+    {% endfor %}
+    {% comment %} ENV pillar {% endcomment %}
+    {% for goal in page.goals %}
+        {% assign pillar = goal.number | slice: 0, 3 %}
+        {% if pillar == 'ENV' %}
+            {% include components/progress/goal.html goal=goal %}
+        {% endif %}
+    {% endfor %}
+    {% comment %} ECO pillar {% endcomment %}
+    {% for goal in page.goals %}
+        {% assign pillar = goal.number | slice: 0, 3 %}
+        {% if pillar == 'ECO' %}
+            {% include components/progress/goal.html goal=goal %}
+        {% endif %}
+    {% endfor %}
+
+</div>
+
+{% include footer.html %}

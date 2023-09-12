@@ -1,0 +1,37 @@
+<div class="goal-tiles">
+    <div class="row g-2">
+        {% comment %} SOC pillar {% endcomment %}
+        {% for goal in page.goals %}
+        {% assign pillar = goal.number | slice: 0, 3 %}
+        {% if pillar == 'SOC' %}
+        <div class="col-4 col-md-2 col-lg-1 goal-tile">
+            <a href="{{ goal.url }}">
+                <img src="{{ goal.icon }}" id="goal-{{ goal.number }}" alt="{{ goal.short | escape }} - {{ page.t.general.goal }} {{ goal.number }}" class="goal-icon-image goal-icon-image-{{ site.goal_image_extension }}"/>
+            </a>
+        </div>
+        {% endif %}
+        {% endfor %}
+        {% comment %} ENV pillar {% endcomment %}
+        {% for goal in page.goals %}
+        {% assign pillar = goal.number | slice: 0, 3 %}
+        {% if pillar == 'ENV' %}
+        <div class="col-4 col-md-2 col-lg-1 goal-tile">
+            <a href="{{ goal.url }}">
+                <img src="{{ goal.icon }}" id="goal-{{ goal.number }}" alt="{{ goal.short | escape }} - {{ page.t.general.goal }} {{ goal.number }}" class="goal-icon-image goal-icon-image-{{ site.goal_image_extension }}"/>
+            </a>
+        </div>
+        {% endif %}
+        {% endfor %}
+        {% comment %} ECO pillar {% endcomment %}
+        {% for goal in page.goals %}
+        {% assign pillar = goal.number | slice: 0, 3 %}
+        {% if pillar == 'ECO' %}
+        <div class="col-4 col-md-2 col-lg-1 goal-tile">
+            <a href="{{ goal.url }}">
+                <img src="{{ goal.icon }}" id="goal-{{ goal.number }}" alt="{{ goal.short | escape }} - {{ page.t.general.goal }} {{ goal.number }}" class="goal-icon-image goal-icon-image-{{ site.goal_image_extension }}"/>
+            </a>
+        </div>
+        {% endif %}
+        {% endfor %}
+    </div>
+</div>

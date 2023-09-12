@@ -1,0 +1,307 @@
+﻿analytics:
+  ua: ''
+  gtag: ''
+  gtm: ''
+  ga_prod: ''
+breadcrumbs:
+  goal:
+    - path: /
+      label: general.home
+  indicator:
+    - path: /
+      label: general.home
+  post:
+    - path: /
+      label: general.home
+    - path: /news/
+      label: menu.updates
+cookie_consent_form:
+  enabled: false
+country:
+  name: Vanuatu
+  adjective: Vanuatuan
+create_goals:
+  previous_next_links: true
+  goals: []
+create_indicators:
+  previous_next_links: true
+create_pages:
+  - filename: ''
+    folder: /reporting-status
+    layout: reportingstatus
+    title: Reporting status
+  - filename: ''
+    folder: /search
+    layout: search
+    title: Search
+custom_css: []
+custom_js:
+  - /assets/js/custom.js
+data_edit_url: data
+data_fields:
+  units: ''
+  series: ''
+date_formats: []
+disclaimer:
+  phase: Beta
+  message: ''
+  hidden: false
+email_contacts:
+  questions: jnandrew@vanuatu.gov.vu
+  suggestions: jnandrew@vanuatu.gov.vu
+  functional: jnandrew@vanuatu.gov.vu
+environment: staging
+footer_language_toggle: none
+footer_menu:
+  - path: /contact/
+    translation_key: menu.contact_us
+  - path: 'https://twitter.com/vnso_stats'
+    translation_key: general.twitter
+  - path: 'https://www.facebook.com/vanuatunationalstatisticsoffice'
+    translation_key: general.facebook
+  - path: /about/cookies-and-privacy/
+    translation_key: menu.cookies
+frontpage_cards:
+  - title: frontpage.download_all
+    content: ''
+    include: components/download-all-data.html
+    button_label: ''
+    button_link: ''
+    rule_color: ''
+  - title: Vanuatu Bureau of Statistics
+    content: ''
+    include: vnso-card.html
+    button_label: VNSO Website
+    button_link: 'https://vnso.gov.vu'
+    rule_color: ''
+  - title: 'Department of Strategic Policy, Planning & Aid Coordination'
+    content: ''
+    include: dsppac-card.html
+    button_label: DSPPAC Website
+    button_link: 'https://dsppac.gov.vu/'
+    rule_color: ''
+  - title: 'Install the app'
+    content: ''
+    include: app-install-card.html
+    button_label: ''
+    button_link: ''
+    rule_color: ''
+frontpage_goals_grid:
+  title: Indicators of the National Sustainable Development Plan
+  description: >-
+    Click on each goal for Vanuatu National Sustainable Development Plan
+    indicator data.
+frontpage_introduction_banner:
+  title: frontpage.nsdp_title
+  description: frontpage.nsdp_description
+goal_image_base: /vnso-nsdp-platform/assets/img/goals
+goal_image_extension: jpg
+goals_page:
+  title: ''
+  description: ''
+graph_color_headline: '#004466'
+graph_color_headline_high_contrast: '#55a6e5'
+graph_color_set: accessible
+graph_color_list: []
+graph_color_number: 0
+graph_title_from_series: false
+header_language_toggle: dropdown
+hide_empty_metadata: true
+hide_single_series: false
+hide_single_unit: false
+indicator_config_form:
+  enabled: true
+  dropdowns: []
+  repository_link: >-
+    https://github.com/Vanuatu-National-Statistics-Office/vnso-nsdp-platform/tree/develop/indicators
+  translation_link: ''
+indicator_data_form:
+  enabled: true
+  repository_link: >-
+    https://github.com/Vanuatu-National-Statistics-Office/vnso-nsdp-platform/tree/develop/data
+indicator_metadata_form:
+  enabled: true
+  dropdowns: []
+  repository_link: >-
+    https://github.com/Vanuatu-National-Statistics-Office/vnso-nsdp-platform/tree/develop/meta
+  translation_link: ''
+  language: ''
+  scopes:
+    - national
+    - global
+    - source_1
+    - source_2
+    - source_3
+  exclude_fields: []
+  translated: true
+indicator_tabs:
+  tab_1: ''
+  tab_2: ''
+  tab_3: ''
+  tab_4: ''
+languages:
+  - en
+languages_public: []
+logos:
+  - language: ''
+    src: assets/img/logo title.png
+    alt: National Development Goals 2030
+map_layers:
+  - subfolder: provinces
+    label: Provinces
+    min_zoom: 6
+    max_zoom: 7
+    staticBorders: false
+  - subfolder: area-councils
+    label: Area councils
+    min_zoom: 8
+    max_zoom: 15
+    staticBorders: false
+map_options:
+  disaggregation_controls: false
+  minZoom: 6
+  maxZoom: 15
+  tileURL: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
+  tileOptions:
+    id: ''
+    accessToken: ''
+    attribution: >-
+      &copy; <a href="https://openstreetmap.org/copyright">OpenStreetMap
+      contributors</a>
+  colorRange: chroma.brewer.BuGn
+  noValueColor: '#f0f0f0'
+  styleNormal:
+    weight: 1
+    opacity: 1
+    fillOpacity: 0.7
+    color: '#888888'
+    dashArray: ''
+  styleHighlighted:
+    weight: 1
+    opacity: 1
+    fillOpacity: 0.7
+    color: '#111111'
+    dashArray: ''
+  styleStatic:
+    weight: 2
+    opacity: 1
+    fillOpacity: 0
+    color: '#172d44'
+    dashArray: '5,5'
+menu:
+  - path: /reporting-status/
+    translation_key: INFORMATION
+    dropdown:
+      - path: /about/
+        translation_key: NSPD ONLINE PLATFORM
+      - path: /reporting-status/
+        translation_key: DATA AVAILABILITY
+      - path: /indicator-overview/
+        translation_key: INDICATOR OVERVIEW
+      - path: /methodology/
+        translation_key: METHODOLOGY
+  - path: /2030-agenda/
+    translation_key: FINANCE
+    dropdown:
+      - path: /government-financial-statistics/
+        translation_key: GOVERNMENT
+      - path: /donor/
+        translation_key: DONOR
+      - path: /vat/
+        translation_key: VAT
+      - path: /business
+        translation_key: BUSINESSES
+  - path: /trades/
+    translation_key: TRADES
+    dropdown:
+      - path: /exports/
+        translation_key: EXPORTS
+      - path: /imports/
+        translation_key: IMPORTS
+  - path: /education/
+    translation_key: EDUCATION
+    dropdown:
+      - path: /enrolments/
+        translation_key: ENROLMENTS
+      - path: /grades/
+        translation_key: GRADES
+      - path: /vocational/
+        translation_key: VOCATIONAL
+      - path: /usp/
+        translation_key: USP
+  - path: /2030-agenda/
+    translation_key: DISASTER
+    dropdown:
+      - path: /population/
+        translation_key: POPULATION
+      - path: /health/
+        translation_key: HEALTH
+      - path: /labor/
+        translation_key: LABOR
+      - path: /agriculture/
+        translation_key: AGRICULTURE
+      - path: /infrastructure/
+        translation_key: INFRASTRUCTURE
+      - path: /shelter/
+        translation_key: SHELTER
+      - path: /watersanitation&hygiene/
+        translation_key: WATER SANITATION & HYGIENE
+      - path: /income/
+        translation_key: INCOME
+metadata_edit_url: metadata
+metadata_tabs:
+  - scope: national
+    title: indicator.national_metadata
+    description: indicator.national_metadata_blurb
+  - scope: sources
+    title: indicator.sources
+    description: ''
+news:
+  category_links: false
+progress_status:
+  status_heading: ''
+  status_types: []
+progressive_web_app:
+  enabled: true
+  name: Indicators of the National Sustainable Development Plan
+  short_name: NSDP Indicators
+  precaching: true
+remote_data_prefix: _build
+reporting_status:
+  title: Reporting Status
+  description: >-
+    The reporting status gives you an overview of how many [National Sustainable
+    Development Plan
+    Indicators](https://www.gov.vu/index.php/resources/vanuatu-2030) of
+    Vanuatu’s 2030 People’s Plan can currently be calculated. The time series
+    for the calculation of the indicators are mainly based on data from official
+    statistics, but also use data collected by many other institutions. Where
+    data are available, the indicator is marked as **Reported online**. When a
+    suitable data source is still being sought for other indicators, these are
+    marked as **Exploring data sources**.
+  disaggregation_tabs: false
+  status_types:
+    - value: complete
+      label: status.reported_online
+      hide_on_goal_pages: false
+    - value: notstarted
+      label: status.exploring_data_sources
+      hide_on_goal_pages: false
+repository_url_data: ''
+repository_url_site: ''
+search_index_boost: []
+search_index_extra_fields: []
+site_config_form:
+  enabled: true
+  dropdowns: []
+  repository_link: >-
+    https://github.com/Vanuatu-National-Statistics-Office/vnso-nsdp-platform/tree/develop/www/_data
+  translation_link: ''
+time_series_attributes:
+  - field: COMMENT_TS
+    label: indicator.footnote
+  - field: DATA_LAST_UPDATE
+    label: metadata_fields.national_data_update_url
+validate_indicator_config: false
+validate_site_config: false
+x_axis_label: ''

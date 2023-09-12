@@ -1,0 +1,40 @@
+{% assign goal = include.goal %}
+{% assign goal_indicators = page.indicators | where: 'goal_number', goal.number %}
+{% assign progress_indicators = goal_indicators | where_exp: 'indicator', 'indicator.progress' %}
+{% assign num_indicators = progress_indicators | size %}
+{% if num_indicators > 0 %}
+<div class="row">
+    <div class="col-md-3 col-xs-3 col-sm-3">
+        <a href="{{ goal.url }}">
+            <img class="progress-goal-icon" src="{{ goal.icon }}" alt="{{ goal.name }}" />
+        </a>
+    </div>
+    <div class="col-md-9 col-xs-9 col-sm-9">
+        {% for indicator in progress_indicators %}
+            {% for progress in indicator.progress %}
+                <dl class="progress-item">
+                    <dt>Indicator</dt>
+                    <dd><a href="{{ indicator.url }}">{{ indicator.number }} {{ indicator.name }}</a></dd>
+                    <dt>Target</dt>
+                    <dd>{{ progress.target }}</dd>
+                    <dt>Progress</dt>
+                    <dd>
+                        {% assign sorted_years = progress.years | sort: "year" %}
+                        {% for year in sorted_years %}
+                            <div class="progress-item-year">
+                                <div class="progress-item-year-year">
+                                    {{ year.year }}
+                                </div>
+                                {% assign status_css_class = year.status | replace: '.', '-' %}
+                                <div class="progress-item-year-status {{ status_css_class }}">
+                                    <img src="{{ site.baseurl }}/assets/img/{{ year.image }}" alt="{{ year.status | t }}" />
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </dd>
+                </dl>
+            {% endfor %}
+        {% endfor %}
+    </div>
+</div>
+{% endif %}
