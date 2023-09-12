@@ -1,0 +1,59 @@
+﻿composite_breakdown_label: ''
+computation_units: ''
+copyright: ''
+data_footnote: ''
+data_non_statistical: false
+data_notice_class: ''
+data_notice_heading: ''
+data_notice_text: ''
+data_show_map: false
+data_start_values: []
+embedded_feature_footer: ''
+embedded_feature_html: ''
+embedded_feature_tab_title: ''
+embedded_feature_title: ''
+embedded_feature_url: ''
+expected_disaggregations: []
+footer_fields: []
+graph_annotations: []
+graph_limits: []
+graph_series_breaks: []
+graph_stacked_disaggregation: ''
+graph_target_lines: []
+graph_title: value added tax in Vanuatu on goods and services
+graph_titles: []
+graph_type: line
+indicator_available: ''
+indicator_name: Value added tax on goods and services in Vanuatu
+indicator_number: vat
+indicator_tabs:
+  override: false
+  tab_1: ''
+  tab_2: ''
+  tab_3: ''
+  tab_4: ''
+national_geographical_coverage: Vanuatu
+page_content: >+
+  VAT is an indirect consumption tax imposed at the rate of 15% on most goods
+  and services supplied in Vanuatu by registered persons in the course of a
+  taxable activity. 
+
+
+  It is also imposed on most goods imported into Vanuatu.  Some supplies are
+  specifically exempted from VAT, while others are zero-rated (i.e. treated as
+  taxable supplies but at a rate of 0%).
+
+permalink: ''
+placeholder: ''
+precision: []
+progress_status: not_available
+proxy: ''
+proxy_series: []
+publications: []
+related_indicators: []
+reporting_status: notstarted
+sort: ''
+sources: []
+standalone: true
+tags: []
+x_axis_label: ''
