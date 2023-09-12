@@ -1,0 +1,60 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: "p = x / n\nWhere:\n\u201Cx\u201D is the number of items you\u2019\
+  re interested in, and\n\u201Cn\u201D is the total number of items in the population\n\
+  Note: While \u201Cp\u201D is usually used as the symbol for the population proportion,\
+  \ you might also see the letter pi(\u03C0) used instead."
+ComputationUnit: Percentage (%)
+Concept: An international environmental agreement or sometimes environmental protocol,
+  is a type of treaty binding in international law, allowing them to reach an environmental
+  goal. In other words, it is "an intergovernmental document intended as legally binding
+  with a primary stated purpose of preventing or managing human impacts on natural
+  resources
+DataSource: Department of Environmental Protection & Conservation data records
+Definition: The Real Environmental Obligation (ORE) is an instrument created by the
+  French Biodiversity Law of 2016. It allows a landowner to voluntarily implement
+  legally-binding environmental protection measures on their land via a contract with
+  a legal person who becomes the guarantor of the environmental interest. In addition,
+  as these protection measures are directly attached to the parcel of land, they are
+  lasting, remaining in effect beyond future changes in ownership of the property
+  (e.g., sale or succession)
+Dissaggregation: National Level
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: 'An economy which fosters sustainable growth and development through
+  low impact industries and modern technologies to ensure the wellbeing of future
+  generations. '
+GoalId: 2
+IndicatorDescription: Proportion of environmental obligations within international
+  conventions and treaties met
+IndicatorId: ENV2.5.2
+IndicatorShortName: Meeting Environmental Obligations of International Conventions
+  and Treaties
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 2.5.2
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Strengthen environmental institutions and governance to
+  meet national and international obligations.
+PolicyObjectiveId: ENV 2.5
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: "This Study will try to depict the proportion of environmental obligations\
+  \ within the international convention and treaties that are being met inside Vanuatu.\
+  \ The data collected will be analysed to measure the progress of environmental institutions\
+  \ and its governance towards meeting national and international standards. To determine\
+  \ whether or not Vanuatu\u2019s economy can foster sustainable growth and development\
+  \ through low impact industries and modern technologies to ensure the well-being\
+  \ of future generations."
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: ''
+SourceTag: null
+TargetDescription: ''

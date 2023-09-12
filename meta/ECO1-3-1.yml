@@ -1,0 +1,63 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: 'Total revenue:
+
+  (taxes of; goods&services, property, value added product, import, international
+  transaction, others.Grants. Other revenues.)
+
+
+  Total expenses:
+
+  (compensation of employees, use of goods & services, interest, grants, social benefits,other
+  benefits, other expenses).
+
+
+  * sum of all total revenues components subtract the sum of all total expenses components
+  will give the position of the national budget.'
+ComputationUnit: sum & difference of count, percentage (%)
+Concept: 'Annual Government budget and allocation within the different government
+  ministries. Allocation spending either exceeds or is less compared to its allocated
+  budget.  Whether the ministries make revenue for the government and is measured
+  through increase in surplus '
+DataSource: FMIS
+Definition: "* Government Budget for the year. How the budget is used, either spending\
+  \ is within the budget line or exceeds the budget line.\n\n* Budget Deficit \u2013\
+  \ changes that occur when expenses exceed revenue and indicate the financial health\
+  \ of the country.\n\n* Budget surplus \u2013 government income which come from taxes\
+  \ and duties exceeding its total expenditures\n"
+Dissaggregation: National
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: A stable and prosperous economy, encouraging trade, investment and
+  providing economic opportunities for all members of society throughout Vanuatu
+GoalId: 1
+IndicatorDescription: Change in national budget position (deficit/surplus) (GFS Tables)
+IndicatorId: ECO1.3.1
+IndicatorShortName: Change in National Budget
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ECO 1.3.1
+OtherDemandSources: null
+PillarDescription: Economy
+PillarName: Economy
+PolicyLinkage: null
+PolicyObjectiveDescription: Ensure public debt is sustainably managed and finances
+  are directed towards projects with positive economic returns
+PolicyObjectiveId: ECO 1.3
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: '* Captures the expenses of the government over the year.
+
+
+  * Depicts the government revenue.
+
+  '
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 17.4.1 (Tier 1)
+SourceTag: null
+TargetDescription: By 2030 increase by 15%

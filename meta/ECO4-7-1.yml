@@ -1,0 +1,67 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: '* Conducting Labour force survey.
+
+  * Population & Housing Census
+
+  * NSDP Baseline Survey'
+ComputationUnit: Total Count
+Concept: "Australian Government\u2019s seasonal worker Programme assists employers\
+  \ from selected Pacific island countries including Vanuatu in the form of agriculture\
+  \ in terms of different farming and accommodation sector to fill employment gaps\
+  \ unable to be met by local Australian workforce. It also contributes to the economic\
+  \ development of the employee. "
+DataSource: '* Department of Labour
+
+  * Vanuatu National Statistics Office'
+Definition: 'This measures the number of individuals participating in Australian seasonal
+  work programme (SWP). '
+Dissaggregation: '* Sex
+
+  *Age
+
+  * Area Council
+
+  * Rural & Urban
+
+  * Provincial Level
+
+  * National Level'
+FrequencyOfCollection: '* Census & NSDP Baseline survey (10 years)
+
+  * Reserve Bank of Vanuatu quarterly report.'
+FrequencyofCollection: null
+GoalDescription: An enabling business environment, creating opportunities and employment
+  for entrepreneurs throughout Vanuatu
+GoalId: 4
+IndicatorDescription: Change in total number of individuals participating in seasonal
+  work programmes
+IndicatorId: ECO 4.7.1
+IndicatorShortName: Change in Total Participation in Seasonal Work Programmes
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ECO 4.7.1
+OtherDemandSources: null
+PillarDescription: Economy
+PillarName: Economy
+PolicyLinkage: null
+PolicyObjectiveDescription: Increase labour mobility nationally and internationally,
+  including through the collection and analysis of comprehensive labour market data
+PolicyObjectiveId: ECO 4.7
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: "* To determine which province, islands & villages are gaining access to\
+  \ this program.\n\n* Information collected will determine future research on the\
+  \ impacts of labour mobility in Vanuatu.\n \n* To assist future decisions on labour\
+  \ mobility policy and development outcome assessments."
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 8.8.2
+SourceTag: null
+TargetDescription: By 2020 increase 10%
+source_active_1: true
+source_organisation_1: 2016 Mini Census (p145-147), VNSO

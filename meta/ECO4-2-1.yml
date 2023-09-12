@@ -1,0 +1,67 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: (Number of rural households engaged in trade/Total number of rural
+  households) * 100
+ComputationUnit: Percentage (%)
+Concept: "* Economists refer to a system or network that allows trade as a market.\
+  \ Thus, allowing rural households who involved more in agricultural production for\
+  \ commercial activities to easily bring their produce to urban markets to sell their\
+  \ goods for those in urban areas who do not have access to free land to plant their\
+  \ own food.\n* Early form of trade is barter where there is direct exchange of goods\
+  \ and services for other goods and services \u2013 trading without the use of money\n\
+  * Countries trade with each other or their own when they do not have the resources,\
+  \ or capacity to satisfy their own needs and wants. "
+DataSource: '* Department of Trades
+
+  *Department of industry
+
+  * Department of Labour
+
+  '
+Definition: "\xB7\_\_\_\_\_ Trade involves the transfer of goods or services from\
+  \ one person or entity to another, often in exchange for money.\n\xB7\_\_\_\_\_\
+  \ Trade also can be explained as the exchange of goods between those who produce\
+  \ them (the producers) and those who come them (the consumers)."
+Dissaggregation: National Level
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: An enabling business environment, creating opportunities and employment
+  for entrepreneurs throughout Vanuatu
+GoalId: 4
+IndicatorDescription: Proportion of rural households engaged in trade with family
+  in urban centres
+IndicatorId: ECO 4.2.1
+IndicatorShortName: Rural Households Engaged in Trade with Urban Family
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ECO 4.2.1
+OtherDemandSources: null
+PillarDescription: Economy
+PillarName: Economy
+PolicyLinkage: null
+PolicyObjectiveDescription: Strengthen strong linkages between urban and rural business
+  and trade between islands
+PolicyObjectiveId: ECO 4.2
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: "Proportion of rural households engaged in Trade with family in urban centres\
+  \ will determine whether there is actually strengthening of linkages between urban\
+  \ and rural business and trade between islands or not. If by 2020 there is a proportion\
+  \ increase by 10 % then it is indicating that Vanuatu has a potential enabling business\
+  \ environment, creating opportunities and employment for entrepreneurs throughout\
+  \ Vanuatu. If there aren\u2019t any increase by 2020 then this indicator is under\
+  \ reported, meaning weak linkages between urban and rural business and trade between\
+  \ islands thus resulting in less opportunities and employment for entrepreneurs\
+  \ throughout Vanuatu."
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 11.a.1
+SourceTag: null
+TargetDescription: By 2020 increase 10% in proportion
+source_active_1: true
+source_organisation_1: 2012 Melanesian Well-being Indicators Pilot Study Report -
+  VNSO

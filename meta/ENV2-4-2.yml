@@ -1,0 +1,69 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: "p = x/n multiply 100\nWhere:\n\u201Cx\u201D is the total count\
+  \ of vehicles that comply with emission standards \n\u201Cn\u201D is the total number\
+  \ of vehicles registered in the country\nNote: While \u201Cp\u201D is usually used\
+  \ as the symbol for the population proportion, you might also see the letter pi(\u03C0\
+  ) used instead."
+ComputationUnit: Percentage (%)
+Concept: proportion of vehicles complying with emission standards is a very important
+  indicator as it measures the extent of the waste and pollution control measures,
+  put in place to combat the rise of waste and pollution impacts on the environment
+  and the wellbeing of the future generations.
+DataSource: Roadworthy inspections records as administrative data from Municipalities
+  and Provincial area government.
+Definition: '* Vehicle emissions - Cars, SUVs, and light duty trucks that are fuelled
+  by gasoline, diesel, and E85 emit both greenhouse gases and smog-forming pollutants
+  from their tailpipes
+
+  * Emission Standards - Emission standards are the legal requirements governing air
+  pollutants released into the atmosphere. Emission standards set quantitative limits
+  on the permissible amount of specific air pollutants that may be released from specific
+  sources over specific timeframes'
+Dissaggregation: 'Area Council Level
+
+  , Provincial Level, National Level'
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: 'An economy which fosters sustainable growth and development through
+  low impact industries and modern technologies to ensure the wellbeing of future
+  generations. '
+GoalId: 2
+IndicatorDescription: Proportion of Vehicles that comply with emission standards.
+IndicatorId: ENV2.4.2
+IndicatorShortName: Vehicular Compliance with Emissions Standards
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 2.4.2
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Reduce waste and pollution through effective waste management
+  and pollution control.
+PolicyObjectiveId: ENV 2.4
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: Depict the total number of vehicles with approved emission standards out
+  of all the registered vehicles in the country. Basically, to establish and review
+  the waste and pollution policies in order to foster sustainable growth and development
+  through low impacts technologies and modern technologies to ensure the well-being
+  of future generations.
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 11.6.2 (Tier 1)
+SourceTag: null
+TargetDescription: To assist in Annual report and 6 monthly report supported by sector
+  production data VNS
+source_active_1: true
+source_active_2: true
+source_active_3: true
+source_active_4: true
+source_organisation_1: 2018 QSI December (p26), VNSO
+source_organisation_2: 2009 QSI December (p26), VNSO
+source_organisation_3: 2017 QSI December (p26), VNSO
+source_organisation_4: 2013 QSI December (p30), VNSO

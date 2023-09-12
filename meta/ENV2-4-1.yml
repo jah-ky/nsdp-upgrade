@@ -1,0 +1,58 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: '* Collecting updated records of the number of waste disposal facilities
+  in the country.
+
+  * Collect GPS coordinates for geospatial mapping of the Geographical locations throughout
+  Vanuatu.'
+ComputationUnit: GPS Coordinates, Total Count
+Concept: '*Controlled waste disposal facilities are put in place to combat the growing
+  source and extent of pollution and waste disposal throughout the urban areas and
+  the six other provinces.
+
+  *Without these facilities, Vanuatu efforts to maintain healthy societies, to stimulate
+  tourism, development and new investment and a sustainable future for its people
+  may be severely undermined.  '
+DataSource: Municipal and Provincial Administrative records
+Definition: Waste management (or waste disposal) are the activities and actions required
+  to manage waste from its inception to its final disposal. This includes the collection,
+  transport, treatment and disposal of waste, together with monitoring and regulation
+  of the waste management process.
+Dissaggregation: Rural/Urban, Provincial, National
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: 'An economy which fosters sustainable growth and development through
+  low impact industries and modern technologies to ensure the wellbeing of future
+  generations. '
+GoalId: 2
+IndicatorDescription: Number of controlled wasted disposal facilities
+IndicatorId: ENV2.4.1
+IndicatorShortName: Controlled Waste Disposal Facilities
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 2.4.1
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Reduce waste and pollution through effective waste management
+  and pollution control.
+PolicyObjectiveId: ENV 2.4
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: 'The purpose of this study is to depict the precise number of waste disposal
+  facilities throughout the provinces or islands of Vanuatu aside from the two facilities
+  found in Port Vila and Luganville. So that we can be able to identify the reduction
+  of waste and pollution are reduce to what extent? This study will also indicate
+  whether Vanuatu do really foster sustainable growth and development through low
+  impact industries and modern technologies which ensures the wellbeing of future
+  generations or not. '
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 11.6.1 (Tier 2)
+SourceTag: null
+TargetDescription: At least three provinces have a controlled waste disposal

@@ -1,0 +1,55 @@
+﻿Proxy: ''
+Definition: >
+  The change in underlying inflation rate refers to the difference in the rate
+  of inflation when certain volatile or temporary factors are excluded from the
+  calculation. The purpose of analyzing underlying inflation is to get a clearer
+  picture of the long-term trend in prices by removing the effects of short-term
+  fluctuations that may not reflect the true underlying inflationary pressures
+  in the economy.
+
+
+  Underlying inflation is often calculated by excluding certain volatile
+  components from the inflation index, such as food and energy prices, which can
+  be subject to significant fluctuations due to factors like weather conditions,
+  geopolitical events, or supply disruptions. By excluding these components,
+  economists and policymakers aim to identify the core inflation rate, which
+  provides a more stable measure of price changes.
+
+
+  The change in underlying inflation rate, therefore, refers to the difference
+  in the core inflation rate over a specific period. It could indicate whether
+  inflationary pressures are increasing or decreasing when the effects of
+  volatile factors are removed. This information is valuable for policymakers
+  when formulating monetary policy and for businesses and consumers in their
+  decision-making processes, as it provides insights into the broader trend of
+  price changes in an economy.
+Concept: >-
+  The "change in underlying inflation rate" refers to the difference in the rate
+  of inflation after removing volatile or temporary factors from the
+  calculation. It helps identify the long-term trend in prices by excluding
+  fluctuations caused by items like food and energy prices. This indicator
+  focuses on core inflation, which provides a more stable measure of price
+  changes. By analyzing the change in underlying inflation rate, economists,
+  policymakers, businesses, and consumers can understand whether inflationary
+  pressures are increasing or decreasing without the influence of volatile
+  components. This information is valuable for decision-making processes, such
+  as formulating monetary policy or making informed financial and economic
+  choices.
+Disaggregation: National
+Rationale: >-
+  Monitoring change in inflation rate is crucial because it provides insights
+  into the purchasing power of money, helps anticipate future price movements,
+  and informs economic policy decisions.
+MethodOfComputation: >-
+  The basic methodology for calculating the change in inflation rate involves
+  comparing the price levels of a basket of goods and services over two
+  different time periods and determining the percentage difference between them.
+SDGAlignment: |-
+  8.1
+  8.1.1 (R)
+  (Tier 1)
+UnitOfMeasurement: percentage (%)
+FrequencyOfCollection: Quarterly
+source_organisation_1: 'December Quarter Statistical Update 2021 : CPI, VBOS'
+source_organisation_2: ''
+source_organisation_3: ''

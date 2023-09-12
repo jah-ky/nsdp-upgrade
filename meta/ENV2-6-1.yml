@@ -1,0 +1,68 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: New project proposals developed by the Department f Environment
+  under the Ministry of Climate Change and Adaptation (MoCCA), reviewed by the executive
+  of MoCCA for submission to the NPP committee for their review and approval.
+ComputationUnit: Monetary figures(vt), percentage (%)
+Concept: "* The idea of creating new environmental initiatives is increasing to support\
+  \ our sustainable environment development aspirations. For instance, \u201CBan of\
+  \ Plastic Bags\u201D this is an initiative that DEPC has requested the Government\
+  \ for its support through NPP\u2019s to support the ban and at the same time promote\
+  \ a clean Environment for all. Such initiatives require the governments input through\
+  \ funding to successfully implement the activities especially in the Environmental\
+  \ sector.\n\n* Innovative thinking for sustainability \u2013 meeting the needs of\
+  \ the present without compromising the ability of the future generations to meet\
+  \ their needs \u2013 environmentally, socially, economically: (Planet, People, Profits). "
+DataSource: 'Ministry of Finance & Economic Management
+
+  Ministry of Climate Change & Adaptation
+
+  '
+Definition: '* Part or share of funding that is requested by the Department of Environmental
+  Protection and Conservation (DEPC) to the government budget through New Project
+  Proposals (NPP) and is approved by the government (NPP Committee) for implementation
+  of Environmental activities to promote a sustainable environment for the country.
+
+
+  * New initiatives that are requested by DEPC to the government as part of environmental
+  sustainability activities is considered by the government to promote a clean environment
+  and to support sustainable development aspirations'
+Dissaggregation: Rural/Urban, Provincial, National
+FrequencyOfCollection: ''
+FrequencyofCollection: null
+GoalDescription: An economy which fosters sustainable growth and development through
+  low impact industries and modern technologies to ensure the wellbeing of future
+  generations
+GoalId: 2
+IndicatorDescription: Proportion of funding requested by DEPC in support of sustainable
+  development approved through NPP/percentage of government expenditure for environmental
+  activities
+IndicatorId: ENV 2.6.1
+IndicatorShortName: Sustainable Development Funding Through NPP / Government Expenditure
+  on Environmental Activities
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 2.6.1
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Ensure adequate financial resources to support our sustainable
+  development aspirations
+PolicyObjectiveId: ENV 2.6
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: "* Promote a sustainable and clean Environment for all\n* Promote management\
+  \ of environment resources and other natural resources for future utilisation \n\
+  * Depicts the risk of environmental degradation if resources are not managed well\
+  \ and poor environmental management"
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 13.a.1 (R) (Tier 3) , 17.7.1 (Tier 3)
+SourceTag: null
+TargetDescription: Government expenditure for environmental activities has increased
+  by at least 15 million vatu from the 2016 baseline

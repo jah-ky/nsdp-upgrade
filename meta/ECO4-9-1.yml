@@ -1,0 +1,45 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: Total number of public/private joint ventures in operation
+ComputationUnit: Total Count
+Concept: "In a joint venture, each of the participants is responsible for profits,\
+  \ losses, and costs associated with it. However, the venture is its own entity,\
+  \ separate from the participants\u2019 other business interests. "
+DataSource: ' MTTCNVB reports'
+Definition: 'A commercial enterprise undertaken jointly by two or more parties which
+  otherwise retain their distinct identities.
+
+  A business arrangement in which two or more parties agree to pool their resources
+  for the purpose of accomplishing a specific task.'
+Dissaggregation: "*Area counsil \n*province\n* National \n"
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: An enabling business environment, creating opportunities and employment
+  for entrepreneurs throughout Vanuatu.
+GoalId: 4
+IndicatorDescription: Total number of public/private joint ventures in operation
+IndicatorId: ECO 4.9.1
+IndicatorShortName: Operational Public/Private Joint Ventures
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ECO 4.9.1
+OtherDemandSources: null
+PillarDescription: Economy
+PillarName: Economy
+PolicyLinkage: null
+PolicyObjectiveDescription: Strength dialogue between government and the private sector,
+  and enact a robust government framework for effective partnership.
+PolicyObjectiveId: ECO 4.9
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: 'To improve the effectiveness of policies, programs and community initiatives,
+  especially as they affect vulnerable evaluations of existing initiatives. '
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 17.17.1 (Tier 3)
+SourceTag: null
+TargetDescription: ' By 2020 increase 10%'

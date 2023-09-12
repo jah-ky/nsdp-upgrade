@@ -1,0 +1,29 @@
+﻿Proxy: ''
+Definition: >-
+  Annual Change in the number of incoming flights (Air) and boats (Sea) for
+  tourism purposes 
+Concept: >-
+  * Boats: incoming cruise ships
+
+  * International flights coming in through two international airports (Pekoa &
+  Baurfield airport)
+Disaggregation: transport type.
+Rationale: >-
+  * Indicates the impact of tourism on the economy
+
+  * Depicts the development of tourism sector in Vanuatu (Tourism activities
+  developed)
+MethodOfComputation: >+
+  Annual Change (Air Tourism) = ((Air Arrivals for Year 2020 - Air Arrivals for
+  Year N-2019) / Air Arrivals for Year 2019) * 100
+
+
+  Annual Change (Sea Tourism) = ((Sea Arrivals for Year 2020 - Sea Arrivals for
+  Year 2019) / Sea Arrivals for Year 2019) * 100
+
+SDGAlignment: ''
+UnitOfMeasurement: total count
+FrequencyOfCollection: Annually
+source_organisation_1: '2020 value from fourth quarter 2020 QSI,'
+source_organisation_2: ''
+source_organisation_3: ''

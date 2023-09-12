@@ -1,0 +1,55 @@
+﻿Proxy: ''
+Definition: >-
+  The "Proportion of population with reliable access to safe drinking water" is
+  an indicator that measures the percentage of a population that has consistent
+  and dependable access to clean and safe drinking water. It assesses the extent
+  to which people have access to water sources that meet quality standards and
+  are reliable for their daily drinking and domestic needs.
+
+
+  This indicator reflects the availability and accessibility of safe drinking
+  water, which is essential for maintaining good health, preventing waterborne
+  diseases, and ensuring overall well-being. It takes into account both the
+  quality and reliability of the water supply.
+Concept: >-
+  The concept behind this indicator is to assess the progress and effectiveness
+  of efforts to provide safe drinking water to the population. It considers
+  factors such as the availability of water sources, the quality of water, the
+  functionality and sustainability of water supply systems, and the regularity
+  of access.
+
+
+  The significance of this indicator lies in its contribution to public health,
+  human development, and overall quality of life. Access to safe drinking water
+  is a fundamental human right and a crucial element for achieving the United
+  Nations Sustainable Development Goals (SDGs). It has a direct impact on
+  reducing waterborne diseases, improving sanitation, empowering communities,
+  and promoting gender equality.
+Disaggregation: region
+Rationale: >-
+  Monitoring the proportion of the population with reliable access to safe
+  drinking water helps policymakers, governments, and organizations identify
+  areas or populations that lack access and prioritize interventions to improve
+  water supply infrastructure, water treatment processes, and water management
+  practices. It also helps track progress towards national and international
+  targets for ensuring universal access to safe and clean drinking water for
+  all.
+
+
+  In summary, the "Proportion of population with reliable access to safe
+  drinking water" indicator serves as a measure of the extent to which a
+  population has consistent access to clean and safe drinking water,
+  highlighting the importance of water quality, availability, and reliability
+  for promoting public health and sustainable development.
+MethodOfComputation: >-
+  share of population with reliable access to safe drinking water divide the
+  total number of population recorded in censuses multiply by 100 will give the
+  value in percentage 
+SDGAlignment: |-
+  6.1
+  6.1.1 (R)(Tier 1)
+UnitOfMeasurement: percentage (%)
+FrequencyOfCollection: 1o years
+source_organisation_1: '2009, 2016, 2020 censuses, VBOS'
+source_organisation_2: '2013 DHS (p21), VNSO'
+source_organisation_3: ''

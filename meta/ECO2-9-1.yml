@@ -1,0 +1,24 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+Definition: null
+FrequencyofCollection: null
+IndicatorShortName: Access to Internet
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ECO 2.9.1
+OtherDemandSources: null
+PillarName: Economy
+PolicyLinkage: null
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Purpose/Rationale: null
+Range: null
+RelatedLinks: null
+ResponsibleAgency: null
+SourceTag: null
+source_active_1: true
+source_active_2: true
+source_organisation_1: 2009 Population and Household Census (p106, individuals aged
+  15 +), VNSO
+source_organisation_2: 2016 Mini Census (p225, proportion of households), VNSO

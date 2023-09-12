@@ -1,0 +1,54 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: "p = x / n\nWhere:\n\u201Cx\u201D is the number of targets being\
+  \ met in National Environment Policy and Implementation Plan 2016-2030 and\n\u201C\
+  n\u201D is the total number of overall targets being met or not at all in NEPIP\
+  \ 2016-2030\nNote: While \u201Cp\u201D is usually used as the symbol for the population\
+  \ proportion, you might also see the letter pi(\u03C0) used instead."
+ComputationUnit: total count, percentage (%)
+Concept: The NEPIP is also part of a wider policy framework and addresses those matters
+  included in the environment pillar of the National Sustainable Development Plan.
+  It is also an indication by the Government in keeping with its commitments on the
+  SAMOA Pathway, Sustainable Development Agenda 2030 and the Sustainable Development
+  Goals.
+DataSource: Department of Environmental Protection & Conservation data records
+Definition: "The Vanuatu National Environment Policy and Implementation Plan 2016\u2013\
+  2030 (NEPIP) is an overarching policy for the sustainable conservation, development\
+  \ and management of the environment of Vanuatu. ... The NEPIP links the NSDP and\
+  \ the various sectors under the environment pillar "
+Dissaggregation: National Level
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: 'An economy which fosters sustainable growth and development through
+  low impact industries and modern technologies to ensure the wellbeing of future
+  generations. '
+GoalId: 2
+IndicatorDescription: Proportion of targets met in National Environment Policy and
+  Implementation Plan 2016-2030
+IndicatorId: ENV2.5.1
+IndicatorShortName: Meeting National Environment Policy Targets
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 2.5.1
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Strengthen environmental institutions and governance to
+  meet national and international obligations.
+PolicyObjectiveId: ENV 2.5
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: 'To depict the actual proportion of targets that have been already achieved
+  in the National Environment Policy and Implementation Plan 2016-2030 and to what
+  extent are the environmental institutions and governance doing so far in trying
+  to meet national and international obligations.  '
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 13.2.1 (R) (Tier 3)
+SourceTag: null
+TargetDescription: ''

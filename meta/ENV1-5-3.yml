@@ -1,0 +1,52 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: Number of farmers involved in integrated farming practices divided
+  by total number of farmers multiply by 100
+ComputationUnit: Percentage (%)
+Concept: 'This include income from crop production, livestock production, fisheries
+  and aquaculture production, and from forestry production.  '
+DataSource: 'Ministry of Agriculture, Livestock, Fisheries, Forestry and Biosecurity. '
+Definition: Integrated Farming practise is a whole farm  system which aims to deliver
+  more sustainable agriculture
+Dissaggregation: '* types of farmers
+
+  * Area Council level
+
+  * Provincial Level
+
+  * National Level'
+FrequencyOfCollection: ''
+FrequencyofCollection: null
+GoalDescription: A nation that ensures our food and nutrition security needs are adequately
+  met for all people through increasing sustainable food production systems and improving
+  household production.
+GoalId: ENV 1
+IndicatorDescription: Proportion of farmers involved in integrated farming practices.
+IndicatorId: ENV 1.5.3
+IndicatorShortName: Integrated Farming Practices in Productive Sector
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 1.5.3
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Enhance traditional agricultural practices, focusing on
+  disaster risk reduction and climate change adaptation.
+PolicyObjectiveId: ENV 1.5
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: It is a dynamic approach which can be applied to any farming system around
+  the world. It involves attention to detail and continuous improvement in all areas
+  of a farming business through informed management processes. Integrated Farming
+  combines the best of modern tools and technologies with traditional practices according
+  to a given site and situation
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: ''
+SourceTag: null
+TargetDescription: Agriculture Census information required.

@@ -1,0 +1,77 @@
+﻿Proxy: 'No '
+Definition: >-
+  Balance of trade is the difference between the value of a country's exports
+  and the value of a country's imports for a given period. 
+Concept: >-
+  A country that imports more goods and services that it exports in terms of
+  value has a trade deficit or a negative trade balance. Conversely, a country
+  that exports more goods and services than it imports has a trade surplus or a
+  psoitive trade balance.
+Disaggregation: country
+Rationale: >-
+  Economists use the Balance of Trade to measure the relative strength of a
+  country's economy. The rationale behind analyzing the balance of trade
+  includes the following points:
+
+
+  1. Trade Surplus or Deficit: The balance of trade reveals whether a country
+  has a trade surplus or a trade deficit. A trade surplus occurs when a
+  country's exports exceed its imports, indicating that it is earning more
+  foreign currency than it is spending. A trade deficit, on the other hand,
+  occurs when imports exceed exports, suggesting that the country is spending
+  more foreign currency than it is earning. The balance of trade helps assess
+  the competitiveness of a nation's industries and its ability to generate
+  wealth through exports.
+
+
+  2. Economic Competitiveness: Analyzing the balance of trade allows
+  policymakers and economists to gauge a country's economic competitiveness in
+  global markets. A consistently positive balance of trade indicates that a
+  country's goods and services are in demand internationally, potentially
+  reflecting its competitive advantage in certain industries. Conversely, a
+  persistent trade deficit may raise concerns about a country's competitiveness
+  and its ability to sustain economic growth.
+
+
+  3. Domestic Production and Consumption: The balance of trade provides insights
+  into the domestic production and consumption patterns of a country. A trade
+  surplus suggests that the country's domestic industries are productive and can
+  meet domestic demand while exporting the surplus. In contrast, a trade deficit
+  might indicate that the country relies heavily on imports to meet domestic
+  consumption, which could have implications for domestic industries and
+  employment.
+
+
+  4. Foreign Exchange Reserves: The balance of trade affects a country's foreign
+  exchange reserves, which are crucial for maintaining currency stability and
+  covering external obligations. A trade surplus leads to an inflow of foreign
+  currency, bolstering a country's foreign exchange reserves and providing
+  greater flexibility in managing its currency. Conversely, a trade deficit
+  implies an outflow of foreign currency, potentially depleting foreign exchange
+  reserves and exposing the country to currency risks.
+
+
+  5. Policy Implications: The balance of trade influences policy decisions. A
+  trade surplus might suggest the need to focus on export promotion, support
+  domestic industries, and potentially implement policies to address currency
+  appreciation. In contrast, a trade deficit may lead to considerations such as
+  import substitution policies, efforts to boost domestic production, or
+  initiatives to enhance export competitiveness.
+
+
+  Understanding the balance of trade helps policymakers, economists, and
+  analysts assess a country's economic performance, identify trade patterns,
+  determine areas of strength or weakness, and formulate appropriate policies to
+  address trade imbalances and promote sustainable economic growth.
+MethodOfComputation: >-
+  The formula for calculating the Balance of Trade can be simplified as the
+  total value of exports minus the total value of its imports.
+SDGAlignment: |-
+  17.11
+  17.11.1
+  (Tier 1)
+UnitOfMeasurement: Millions of Vatu (VT)
+FrequencyOfCollection: Annual
+source_organisation_1: 'VBOS, trade statistics'
+source_organisation_2: ''
+source_organisation_3: ''

@@ -1,0 +1,50 @@
+﻿Proxy: ''
+Definition: >-
+  Change in government revenue refers to the difference or variation in the
+  amount of money collected by the government through various sources such as
+  taxes, fees, fines, and other forms of revenue generation, typically measured
+  over a specific period of time. It represents the increase or decrease in the
+  total funds received by the government, which can have implications for
+  budgetary planning, fiscal policy decisions, and the overall financial health
+  of the government.
+Concept: >-
+  The concept behind the indicator "change in government revenue" is to assess
+  the variation in the total amount of funds collected by the government from
+  various sources. It helps track the growth or decline in government income,
+  which is essential for understanding the financial health of the government,
+  evaluating the effectiveness of revenue policies, and making informed
+  decisions regarding budget allocation, public spending, and fiscal planning.
+  Monitoring changes in government revenue provides insights into the overall
+  revenue generation capacity of the government and its ability to meet its
+  financial obligations and support public services and programs.
+Disaggregation: >-
+  By revenue sources: taxes, value added, excise, taxes on inter-trade &
+  transactions, and other
+Rationale: >-
+  The rationale behind monitoring the indicator "change in government revenue"
+  is to understand the trends and fluctuations in the total funds collected by
+  the government over time. It provides crucial information on the government's
+  ability to generate income, sustain public services, meet financial
+  obligations, and make informed decisions on budgetary allocations, tax
+  policies, and expenditure planning. Monitoring changes in government revenue
+  helps assess the financial health of the government and its capacity to
+  support economic growth and address societal needs.
+MethodOfComputation: >-
+  Percentage Change in Government Revenue = ((Revenue in the current period -
+  Revenue in the previous period) / Revenue in the previous period) * 100
+
+
+  This formula determines the percentage difference between the revenue
+  collected in the current period and the revenue collected in the previous
+  period, relative to the revenue in the previous period. The result indicates
+  the percentage increase or decrease in government revenue over the specified
+  time frame.
+SDGAlignment: |-
+  17.1
+  17.1.1(Tier 1)
+  17.1.2 (Tier 1)
+UnitOfMeasurement: Vatu in Millions
+FrequencyOfCollection: Annual
+source_organisation_1: '2019 and 2020 Total Revenue from QSI fourth quarter, VBOS'
+source_organisation_2: ''
+source_organisation_3: ''

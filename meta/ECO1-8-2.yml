@@ -1,0 +1,52 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: "I/Pt = r  \nI- interest amount paid in specific time periode.\n\
+  P: Principle Amount \nt: Time periode involve\nr: Interest rate"
+ComputationUnit: rate of percentage(%)
+Concept: "\xB7\_\_\_\_\_ Interest rate is the rate at which interest is paid by a\
+  \ borrower for the use of money that they borrow from a lender. \xB7\_\_\_\_\_ A\
+  \ rental payment for the use of credit by borrowers."
+DataSource: Reserve Bank of Vanuatu
+Definition: "\xB7\_\_\_\_\_ The proportion of an amount loaned which a lender charges\
+  \ as interest to the borrower, normally expressed as an annual percentage.\n\n \xB7\
+  \_\_\_\_\_ It is the rate a bank or other lender charges to borrow its money, or\
+  \ the rate a bank pays its savers for keeping money in an account.A bank rate is\
+  \ the interest rate at which a nation\u2019s central bank lends money to domestic\
+  \ banks, often in the form of very short-term loans."
+Dissaggregation: "* National Level\n* Savings account \n* term deposit account,\n\
+  * Loan"
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: A stable and prosperous economy, encouraging trade, investment and
+  providing economic opportunities for all members of society throughout Vanuatu.
+GoalId: 1
+IndicatorDescription: Interest Rate level (average bank rate)
+IndicatorId: ECO1.8.2
+IndicatorShortName: Interest Rate (Average Bank Rate)
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ECO 1.8.2
+OtherDemandSources: null
+PillarDescription: Economy
+PillarName: Economy
+PolicyLinkage: null
+PolicyObjectiveDescription: Ensure financial sector stability and make financial services
+  affordable and accessible for all through pursuing financial inclusion strategies
+PolicyObjectiveId: ECO1.8
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: "\xB7\_\_\_\_\_ Interest rate guides economic because it is a vital tool\
+  \ of monetary policy.\n\n\xB7\_\_\_\_\_ Interest rate directly impacts economic\
+  \ choices such as spending, investment, and consumption. When interest rates decrease,\
+  \ investment and spending increase. When interest rates increase, investments decrease\
+  \ which causes the national income to fall.\n\n\xB7\_\_\_\_\_ It determines the\
+  \ strength of an economy and the economic well-being of its citizen."
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 8.10.1 (tier1), 8.10.2(tier2)
+SourceTag: null
+TargetDescription: By 2030 less than 15% interest rate

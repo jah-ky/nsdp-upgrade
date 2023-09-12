@@ -1,0 +1,59 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: "\u2022Collect information from DARD\n\u2022Data cleaning and analysis\
+  \ using excel\n\u2022Calculate percentage proportion of each primary production\
+  \ whether in agriculture, livestock, forestry, Etc\u2026 \n\u2022Use Excel to produce\
+  \ graphs and charts as well"
+ComputationUnit: percentage (%) & total count
+Concept: The concept will be to collect update data on primary production in agriculture,
+  livestock, forestry, fisheries and biosecurity to analysis the data to see if there
+  is an increase in agricultural and fisheries food production using sustainable practices
+  to ensure sufficient access to affordable and nutritious food. If the target is
+  achieved then we know that the NSDP goal is achieved which is A nation that ensures
+  our food and nutrition security needs are adequately met for all people through
+  increasing sustainable food production systems and improving household production
+DataSource: Ministry of Agriculture, Livestock and Fisheries
+Definition: Primary Production -The primary sector of the economy which includes any
+  industry involved in primary production that is the extraction and collection of
+  natural resources; such as farming, forestry, hunting, fishing and mining.
+Dissaggregation: National Level,Provincial Level Type of Primary Sectors E.g., agriculture,
+  livestock, forestry, fisheries, and biosecurity
+FrequencyOfCollection: Annually & half yearly
+FrequencyofCollection: null
+GoalDescription: ' A nation that ensures our food and nutrition security needs are
+  adequately met for all people through increasing sustainable food production systems
+  and improving household production'
+GoalId: 1
+IndicatorDescription: Up to date data on primary production (agriculture, livestock,
+  forestry, fisheries, biosecurity) available for analysis and informed decision making
+  and reporting.
+IndicatorId: ENV 1.1.2
+IndicatorShortName: Primary Sector Annual Report Completed
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 1.1.2
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Increase agricultural and fisheries food production using
+  sustainable practices to ensure sufficient access to affordable and nutritious food.
+PolicyObjectiveId: 'ENV 1.1 '
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: The purpose of this indicator study is to identify patterns and trends
+  on the primary production in Vanuatu particularly in agriculture, livestock, forestry,
+  fisheries, and biosecurity to measure increasing or decreasing primary production
+  using sustainable practices which to ensure sufficient access to affordable and
+  nutritious food for the Vanuatu population.
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: '2.4.1
+
+  (Tier 3)'
+SourceTag: null
+TargetDescription: 'To assist in Annual report and 6 monthly report supported by sector '

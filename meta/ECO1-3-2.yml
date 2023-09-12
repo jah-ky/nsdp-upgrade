@@ -1,0 +1,63 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: "* Determine from your accounting records the amount of your current\
+  \ liabilities\n* List each item and the amount in the current liabilities\u2019\
+  \ subsection of the liabilities section on.\n* Calculate the sum of your current\
+  \ liabilities, and list the total at the bottom of the subsection\n\nDept to GDP=\
+  \  (Total dept of country)/(Total   GDP of the country)"
+ComputationUnit: ratio, sum of count
+Concept: "The debt-to-GDP ratio is the metric comparing a country's public debt to\
+  \ its gross domestic product (GDP). By comparing what a country owes with what it\
+  \ produces, the debt-to-GDP ratio reliably indicates that particular country\u2019\
+  s ability to pay back its debts. Often expressed as a percentage, this ratio can\
+  \ also be interpreted as the number of years needed to pay back debt, if GDP is\
+  \ dedicated entirely to debt repayment.\nA country able to continue paying interest\
+  \ on its debt--without refinancing, and without hampering economic growth, is generally\
+  \ considered to be stable. A country with a high debt-to-GDP ratio typically has\
+  \ trouble paying off external trades (also called \u201Cpublic debts\u201D), which\
+  \ are any balances owed to outside lenders. In such scenarios, creditors are apt\
+  \ to seek higher interest rates when lending. Extravagantly high debt-to-GDP ratios\
+  \ may deter creditors from lending money altogether."
+DataSource: Ministry of Finance & Economic Management (MFEM)
+Definition: "Dept ratio to GDP is the ratio between a country\u2019s government dept\
+  \ (measured in units of currency) and its gross domestic product (GDP) (Measured\
+  \ in units of currency per year). A low dept \u2013 to \u2013 GDP ratio indicates\
+  \ an economy that produces and sells goods and services sufficient to pay back its\
+  \ depts without incurring further dept."
+Dissaggregation: National
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: A stable and prosperous economy, encouraging trade, investment and
+  providing economic opportunities for all members of society throughout Vanuatu
+GoalId: 1
+IndicatorDescription: Debt ratio to GDP (inclusive of SOE generated debt)
+IndicatorId: ECO1.3.2
+IndicatorShortName: Dept to GDP Ratio
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ECO 1.3.2
+OtherDemandSources: null
+PillarDescription: Economy
+PillarName: Economy
+PolicyLinkage: null
+PolicyObjectiveDescription: Ensure public debt is sustainably managed and finances
+  are directed towards projects with positive economic returns
+PolicyObjectiveId: ECO 1.3
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: '* Depicts the proper management of use of public funds and that funds
+  are directed for its purposes.
+
+
+  * Determines the GDP of the country
+
+  * Depicts the dept the country has to pay off'
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: ''
+SourceTag: null
+TargetDescription: By 2030 fall by 30%

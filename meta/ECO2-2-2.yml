@@ -1,0 +1,60 @@
+﻿Proxy: 'NO'
+Definition: >-
+  The "Proportion of population with reliable access to improved sanitation
+  facilities" is an indicator that measures the percentage of a population that
+  has consistent and dependable access to improved sanitation facilities. It
+  assesses the extent to which people have access to adequate sanitation
+  services that protect human health and dignity.
+
+
+  This indicator takes into account the availability, accessibility, and
+  usability of sanitation facilities that meet certain standards of hygiene and
+  privacy. Improved sanitation facilities include flush toilets, piped sewer
+  systems, septic tanks, ventilated improved pit latrines, composting toilets,
+  or other sanitation technologies that effectively separate human waste from
+  human contact and prevent its contamination of the environment.
+Concept: >-
+  The concept behind this indicator is to assess the progress and effectiveness
+  of efforts to provide adequate sanitation services to the population. It
+  considers factors such as the availability of improved sanitation facilities,
+  their functionality, accessibility, and the practices and behaviors
+  surrounding sanitation and hygiene.
+
+
+  The significance of this indicator lies in its contribution to public health,
+  hygiene promotion, and human well-being. Access to improved sanitation
+  facilities plays a vital role in preventing the spread of waterborne diseases,
+  reducing exposure to health risks, and maintaining a clean and healthy
+  environment.
+Disaggregation: 'urban, rural, province'
+Rationale: >-
+  Monitoring the proportion of the population with reliable access to improved
+  sanitation facilities helps policymakers, governments, and organizations
+  identify areas or populations that lack access and prioritize interventions to
+  improve sanitation infrastructure, promote hygiene education, and foster
+  behavior change. It also helps track progress towards national and
+  international targets for ensuring universal access to adequate sanitation for
+  all.
+
+
+  In summary, the "Proportion of population with reliable access to improved
+  sanitation facilities" indicator serves as a measure of the extent to which a
+  population has access to sanitation facilities that meet standards of hygiene
+  and dignity. It emphasizes the importance of providing adequate sanitation
+  services to protect public health, promote hygiene practices, and enhance the
+  overall well-being of individuals and communities.
+MethodOfComputation: >-
+  To calculate this indicator, data is collected through surveys, censuses, or
+  other data collection methods that specifically inquire about the availability
+  and usage of improved sanitation facilities. The number of people with access
+  to reliable and improved sanitation facilities is divided by the total
+  population surveyed or considered, and the result is expressed as a
+  percentage.
+SDGAlignment: |-
+  6.2
+  6.2.1(R) (Tier 1)
+UnitOfMeasurement: percentage
+FrequencyOfCollection: 10 year census
+source_organisation_1: VBOS 2009 & 2020 Census
+source_organisation_2: ''
+source_organisation_3: ''

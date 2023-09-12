@@ -1,0 +1,52 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: 'Number of Business licenses issued to Ni-Vanuatu '
+ComputationUnit: Total Count
+Concept: It is the authorization to start a business issued by the local government.
+DataSource: '* Provincial Head -Quarters (Malampa, Shefa, Torba, Tafea, Sanma, Penama)
+
+  * Ni-Van Business Holders.
+
+  * VNSO- Economic Section'
+Definition: Business licenses are permits issued by government agencies that allow
+  individuals or companies to conduct business within the government's geographical
+  jurisdiction
+Dissaggregation: '* Area Council Level
+
+  * Provincial Level
+
+  * National Level
+
+  * Type of Business'
+FrequencyOfCollection: Annual
+FrequencyofCollection: null
+GoalDescription: ' A stable and prosperous economy, encouraging trade, investment
+  and providing economic opportunities for all members of society throughout Vanuatu '
+GoalId: ECO 1
+IndicatorDescription: Change in volume of business licenses issued to Ni-Vanuatu
+IndicatorId: ECO 1.7.2
+IndicatorShortName: Change in Volume of Business Licences Issued to Ni-Vanuatu
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ECO 1.7.2
+OtherDemandSources: null
+PillarDescription: Economic
+PillarName: Economy
+PolicyLinkage: null
+PolicyObjectiveDescription: 'Stimulate economic diversification to spread the benefits
+  of growth and increase economic stability '
+PolicyObjectiveId: ECO 1.7
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: License fees are a significant source of revenue for state and local governments
+  and are often imposed in lieu of taxes which require legislative approval and it
+  also develop the economic growth of the country.
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: ''
+SourceTag: null
+TargetDescription: By 2030 increase of 40% Ni-Vanuatu licenses

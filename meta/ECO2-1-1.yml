@@ -1,0 +1,56 @@
+﻿Proxy: 'No'
+Definition: >
+  The proportion of households sourcing energy for lighting from renewable
+  sources refers to the percentage of households that utilize renewable energy
+  sources for their lighting needs. It measures the extent to which households
+  rely on renewable energy, such as solar, wind, hydroelectric, biomass, or
+  geothermal energy, to meet their lighting requirements.
+
+
+  This indicator reflects the sustainability and environmental impact of a
+  household's energy consumption for lighting purposes. It provides insights
+  into the adoption and utilization of renewable energy technologies at the
+  household level, which can contribute to reducing greenhouse gas emissions,
+  mitigating climate change, and promoting a transition to cleaner and more
+  sustainable energy sources.
+Concept: >-
+  The concept behind this indicator is to assess the sustainability and
+  environmental impact of household energy consumption for lighting. By
+  analyzing the proportion of households using renewable energy sources,
+  policymakers and researchers can gain insights into the adoption and
+  utilization of clean energy technologies at the household level.
+
+
+  Households that source energy for lighting from renewable sources contribute
+  to mitigating climate change by reducing greenhouse gas emissions compared to
+  households reliant on fossil fuel-based energy sources. Renewable energy
+  sources are generally more sustainable, have lower carbon footprints, and
+  offer long-term energy cost savings.
+
+
+  The indicator's significance lies in its ability to inform policymakers,
+  energy planners, and researchers about the progress and potential for
+  renewable energy adoption at the household level. It can help identify regions
+  or communities where renewable energy penetration is high or where there is a
+  need for interventions to promote cleaner energy sources. Additionally, it
+  assists in tracking the impact of policies, incentives, and awareness
+  campaigns aimed at promoting renewable energy adoption.
+Disaggregation: 'National, Provincial level.'
+Rationale: >-
+  Monitoring the proportion of households sourcing energy for lighting from
+  renewable sources is crucial for assessing energy transition goals, promoting
+  sustainable development, and working towards a more resilient and
+  environmentally friendly energy system. It encourages the shift away from
+  fossil fuel dependency and towards a more sustainable and inclusive energy
+  future.
+MethodOfComputation: >-
+  Proportion of households sourcing energy for lighting from renewable sources =
+  ![(Total number of households sourcing energy for lighting from renewable
+  sources.)/(Total number of households  ) x
+  100](../assets/img/ECO2-1-1-computation.png)
+SDGAlignment: '7.1.1, 7.1.2 & 7.2.1'
+UnitOfMeasurement: Percentage
+FrequencyOfCollection: Every 10 years
+source_organisation_1: '2016 Mini Census (p169), VNSO'
+source_organisation_2: '2009 Population and Housing Census (p181), VNSO'
+source_organisation_3: ''

@@ -1,0 +1,28 @@
+﻿Proxy: 'No'
+Definition: >-
+  The percentage of households sourcing energy for lighting from renewable
+  sources. Renewable energy, often referred to as clean energy, comes from
+  natural sources or processes that are constantly replenished.
+Concept: >-
+  Renewable energy often provides energy in four important areas: electricity
+  generation, air and water heating/cooling, transportation, and rural
+  (off-grid) energy services. This information can be used to provide insight
+  whether the energy for lighting is derived from the main grid-based
+  electricity a non-renewable resource.
+Disaggregation: ''
+Rationale: >-
+  Renewable energy provides reliable power supplies and fuel diversification,
+  which enhance energy security, lower risk of fuel spills, and reduce the need
+  for imported fuels. Renewable energy also helps conserve the nation's natural
+  resources. 
+MethodOfComputation: >-
+  Proportion of households sourcing energy for lighting from renewable sources =
+  ![(Total number of households sourcing energy for lighting from renewable
+  sources.)/(Total number of households  ) x
+  100](../assets/img/ECO2-1-1-computation.png)
+SDGAlignment: '7.1.1, 7.1.2 & 7.2.1'
+UnitOfMeasurement: Percentage
+FrequencyOfCollection: Every 10 years
+source_organisation_1: '2016 Mini Census (p169), VNSO'
+source_organisation_2: '2009 Population and Housing Census (p181), VNSO'
+source_organisation_3: ''

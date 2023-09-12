@@ -1,0 +1,98 @@
+﻿Proxy: ''
+Definition: >-
+  The total estimated value of trade agreements as a proportion of GDP refers to
+  the value of trade covered by various agreements in relation to a country's
+  Gross Domestic Product (GDP). It is a measure that helps assess the
+  significance of trade agreements in the context of a country's overall
+  economic output.
+Concept: >-
+  The concept of the total estimated value of trade agreements as a proportion
+  of GDP is a measure that examines the value of trade covered by agreements in
+  relation to a country's Gross Domestic Product (GDP). It helps gauge the
+  significance of trade agreements in the context of a nation's overall economic
+  output.
+
+  This indicator provides insights into the potential impact of trade agreements
+  on a country's economy. A higher proportion suggests that a considerable share
+  of a country's trade is conducted under favorable conditions enabled by the
+  agreements. This can lead to increased market access, reduced barriers to
+  trade, and enhanced economic cooperation with partner countries.
+Disaggregation: 'import, export'
+Rationale: >-
+  The rationale behind considering the total estimated value of trade agreements
+  as a proportion of GDP lies in the understanding that international trade
+  plays a vital role in a country's economic development. Here are some key
+  rationales for examining this indicator:
+
+
+  1. Economic Integration: Trade agreements promote economic integration by
+  establishing preferential trade arrangements among participating countries. By
+  quantifying the value of trade covered by these agreements as a proportion of
+  GDP, policymakers and analysts can assess the extent of economic integration
+  and interdependence between countries. Higher proportions indicate a deeper
+  level of integration and collaboration.
+
+
+  2. Market Access: Trade agreements often grant participating countries
+  improved market access by reducing trade barriers such as tariffs, quotas, and
+  non-tariff barriers. The higher the proportion of trade covered by agreements
+  in relation to GDP, the greater the market access and potential for increased
+  export opportunities for businesses in the participating countries. This can
+  lead to expanded markets, increased sales, and economic growth.
+
+
+  3. Trade Diversification: Trade agreements can encourage diversification of a
+  country's export markets and sources of imports. A higher proportion of trade
+  covered by agreements implies that a significant portion of a country's trade
+  is conducted with partner countries under favorable terms. This
+  diversification helps reduce dependence on a limited number of trading
+  partners and provides resilience against economic shocks.
+
+
+  4. Investment and Economic Growth: Trade agreements often include provisions
+  to facilitate foreign direct investment (FDI) flows. When the proportion of
+  trade covered by agreements is substantial relative to GDP, it signals an
+  environment conducive to investment and economic growth. Trade agreements can
+  attract foreign investors seeking access to larger markets and a stable
+  business environment, thereby stimulating economic activity and creating job
+  opportunities.
+
+
+  5. Competitive Advantage: The total estimated value of trade agreements as a
+  proportion of GDP reflects the competitiveness of participating countries. A
+  higher proportion suggests that these countries have a comparative advantage
+  in certain sectors and industries, enabling them to capture a significant
+  share of trade under favorable terms. This competitiveness can drive
+  productivity, innovation, and specialization, enhancing overall economic
+  performance.
+
+
+  6. Economic Stability: Trade agreements can contribute to economic stability
+  by fostering predictable and transparent trading rules. When a substantial
+  portion of a country's trade is governed by stable trade agreements, it
+  reduces uncertainty and the risk of abrupt disruptions in trade flows. This
+  stability provides a conducive environment for businesses to plan investments,
+  engage in long-term contracts, and drive sustained economic growth.
+
+
+  By examining the total estimated value of trade agreements as a proportion of
+  GDP, policymakers, economists, and analysts can gain insights into the level
+  of economic integration, market access, diversification, investment potential,
+  competitiveness, and stability associated with the trade agreements. These
+  factors are essential for formulating effective trade policies, attracting
+  investments, and promoting sustainable economic development.
+MethodOfComputation: >-
+  To calculate this indicator, the total estimated value of trade covered by
+  trade agreements is divided by the country's GDP and expressed as a
+  percentage. The trade covered by agreements can include both imports and
+  exports between the participating countries, which enjoy preferential terms
+  and reduced barriers as a result of the trade agreements.
+SDGAlignment: |-
+  17.10
+  17.10.1
+  (Tier 1)
+UnitOfMeasurement: percentage (%)
+FrequencyOfCollection: Annual
+source_organisation_1: 'VBOS, trade statistics'
+source_organisation_2: ''
+source_organisation_3: ''

@@ -1,0 +1,60 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: "Distance = speed X Time\n* t = Find time taken from the nearest\
+  \ government facility to the nearest household.\n* s = Find the speed per hour from\
+  \ the nearest government facility to the nearest household\n* d = Calculate the\
+  \ average travelling distance to the nearest government service\n\n            \
+  \       d =(s x t)/2"
+ComputationUnit: 'speed per hour.
+
+  Time in either minutes or hours'
+Concept: '* Government services delivered to the provincial area are accessible to
+  all people in the provinces especially the location of government facilities and
+  distance for people to travel to and from the government services to their place
+  of stay.
+
+  * The distance taken for individuals to travel from place of residence to gain access
+  to government services such as schools and health facilities in relation to the
+  population in the area is a indicator that that government uses to build better
+  roads, and other important infrastructure that will allow easy access of that particular
+  population to utilise these services. '
+DataSource: All government departments providing services to the provincial areas.
+Definition: 'Government facilities (ie: hospitals, schools, aid posts etc.) located
+  in the provincial areas are accessible and are at convenient distance for access
+  by the people in the provinces. '
+Dissaggregation: Area council, Provincial , Rural, Urban, National
+FrequencyOfCollection: ''
+FrequencyofCollection: null
+GoalDescription: A strong rural economy that creates opportunities, enables the development
+  of rural communities and increasingly contributes to national prosperity
+GoalId: 3
+IndicatorDescription: Average travelling distance to the nearest school, health facility,
+  police post by provinces.
+IndicatorId: ECO 3.6.1
+IndicatorShortName: Traveling Distance to Nearest School, Health Facility, Police
+  Post
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ECO 3.6.1
+OtherDemandSources: null
+PillarDescription: Economy
+PillarName: Economy
+PolicyLinkage: null
+PolicyObjectiveDescription: Improve the provision of government services in the rural
+  areas
+PolicyObjectiveId: ECO 3.6
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: "* Indicates how government services are decentralised throughout the provinces.\n\
+  * Depicts the implementation of the Decentralisation Act and its impact on the people\
+  \ in the provinces.\n*Increase employment for people in the provinces. \n* Information\
+  \ is delivered from the national level through the provincial level."
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 1.4.1  (Tier 3)
+SourceTag: null
+TargetDescription: By 2030 will increase by 30%

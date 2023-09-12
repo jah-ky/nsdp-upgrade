@@ -1,0 +1,29 @@
+﻿Proxy: ''
+Definition: "1. Renewable energy technologies\_enable us to create electricity, heat and fuel from\_renewable sources. Solar, wind, hydro, wave, heat-exchange, tidal, wave and bioenergy technologies are all powered by the sun, directly or indirectly.  2. Tidal and wave energy technologies are also powered by the moon. Geothermal technologies are powered by deep heat from the Earth's core.   3.  Bioenergy technologies allow us to convert the solar energy stored in plants, food wastes, farm wastes, forest wastes, sewage, and algae into heat, electricity and fuel, using a variety of approaches                            "
+Concept: >-
+  These technologies allow us to heat and cool our buildings, generate
+  electricity, and to travel by land, sea, and potentially also by air without
+  generating dangerous greenhouse gases and other forms of pollution
+Disaggregation: 'National level, Provincial level, and two main urban areas'
+Rationale: >-
+  The main rationale behind proportion of household using renewable energy
+  technology as main source of lighting is a clear indication that more families
+  are becoming more aware of its sustainable impacts on the environment as well
+  as better understanding the renewable energy has that can really improve lives
+  and easily made affordable to the general population through the government
+  incentive programs and awareness.
+MethodOfComputation: >-
+  extract number of private households by main source of lighting by the above
+  level of disaggregation then using the calculating  formula for finding
+  percentages to calculate their percentages over the total number of households
+  recorded in the 2009 and 2020 National Population & Housing Census.
+SDGAlignment: |-
+  7.3.1 (R)
+   (Tier 1)
+UnitOfMeasurement: |-
+  number of houses
+  percentage of number of houses
+FrequencyOfCollection: 10 years
+source_organisation_1: '2020 Population and Housing Census (table 9.14, p.328)'
+source_organisation_2: '2009 Population and Housing Census (p181), VNSO'
+source_organisation_3: ''

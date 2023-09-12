@@ -1,0 +1,59 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: "Number of species in the area \xF7\_total number of individuals\
+  \ in the area = biodiversity index"
+ComputationUnit: '* Total Count
+
+  * Ratio
+
+  '
+Concept: Crop diversity loss threatens global food security, as the world's human
+  population depends on a diminishing number of varieties of a diminishing number
+  of crop species
+DataSource: 'Ministry of Agriculture, Livestock, Fisheries, Forestry and Biosecurity. '
+Definition: Crop diversity index is the average number of varieties planted of crops
+  (Fruits and vegetables) by province through traditional agricultural practices,
+  focusing on disaster rick reduction and climate change adaptation.
+Dissaggregation: '* types of cultivated crop
+
+  * Area Council Level
+
+  * Rural/Urban
+
+  * Provincial Level
+
+  * National Level'
+FrequencyOfCollection: ''
+FrequencyofCollection: null
+GoalDescription: 'A nation that ensures our food and nutrition security needs are
+  adequately met for all people through increasing sustainable food production systems
+  and improving household production. '
+GoalId: ENV 1
+IndicatorDescription: Crop diversity index with a focus on fruit and vegetables (average
+  number of varieties planted of crops by Province.
+IndicatorId: ENV 1.5.2
+IndicatorShortName: Crop Diversity Index
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 1.5.2
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Enhance traditional agricultural practices, focusing on
+  disaster risk reduction and climate change adaptation.
+PolicyObjectiveId: ENV 1.5
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: "It is central to food security. It underpins today\u2019s production and\
+  \ provides the raw material needed for ensuring continuing supplies tomorrow, in\
+  \ the face of a rapidly changing world"
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 12.8.1 (Tier 3)
+SourceTag: null
+TargetDescription: VNSO assistance required for understanding baseline on crop diversity

@@ -1,0 +1,62 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: 'current accounts balance = (X-M) + NI + NT
+
+  * "X" is the export of goods & "M" is the import of goods.
+
+  * "NI" is the net income
+
+  * "NT" is the current transfers
+
+
+  in this formula, X-M stands for trade balance. For trade balance to be positive
+  a country needs to have more exports than imports. The exports & imports include
+  both goods & services produced in the country. The Net income mainly includes income
+  from foreign countries and net transfers consists of government transfers.'
+ComputationUnit: percentage (%)
+Concept: An account balance is the amount of money present in a financial repository,
+  such as a savings or checking account at any given moment. The account balance is
+  always the net amount after factoring.
+DataSource: RBV Quarterly Report
+Definition: '* Account balance tend to change overtime as prices change, (ie: rise
+  and fall in Aid-for-Trade).
+
+  * Aid for trade - help given to developing countries to address their internal constrains
+  to trade such as cumbersome regulation, poor infrastructure and lack of workforce
+  skills (this is provided through bilateral country and regional program areas. Aid
+  for trade investments can help achieve other development objectives including the
+  economic empowerment of women financial inclusion, health and disability.'
+Dissaggregation: National
+FrequencyOfCollection: 'Quarterly '
+FrequencyofCollection: null
+GoalDescription: A stable and prosperous economy, encouraging trade, investment and
+  providing economic opportunities for all members of society throughout Vanuatu
+GoalId: 1
+IndicatorDescription: Current Accounts balance change
+IndicatorId: ECO1.4.2
+IndicatorShortName: Change in Current Accounts Balance
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ECO 1.4.2
+OtherDemandSources: null
+PillarDescription: Economy
+PillarName: Economy
+PolicyLinkage: null
+PolicyObjectiveDescription: 'Increase trade and investment opportunities and reduce
+  barriers, including through the use of Aid-for-Trade '
+PolicyObjectiveId: ECO 1.4
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: 'Indicates the increase or decrease in trades investment opportunities
+  of the country through the use of Aid for Trades.      '
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: '17.12.1
+
+  (Tier 1)'
+SourceTag: null
+TargetDescription: By 2020 improve by 20%

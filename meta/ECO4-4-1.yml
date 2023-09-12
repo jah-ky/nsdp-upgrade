@@ -1,0 +1,54 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: '(number of tourism institution using energy sufficient lightings
+  & appliances in vanuatu)/(total number of registered tourism institution) X 100
+
+  '
+ComputationUnit: percentage (%)
+Concept: Reducing the amount of energy used to provide products and services within
+  registered tourism institutions.
+DataSource: Registerd tourism institutions
+Definition: "* Energy efficiency aims to reduce the amount of energy required to provide\
+  \ products and services. Improvements in energy efficiency are generally achieved\
+  \ by adopting a more efficient technology, production processes and materials or\
+  \ applications that can be accepted and used in Vanuatu to reduce energy loss within\
+  \ registered hospitality institutions to provide services. The use of energy efficient\
+  \ appliances and methods are ways to mitigate climate change, improve energy security\
+  \ and grow economies while delivering environmental and social benefits.\n* Share\
+  \ or part of all registered hospitality institutions within the tourism sectors\
+  \ use energy efficient appliances and lightnings to provide services to the public\
+  \ and also generate income to the country\u2019s economy."
+Dissaggregation: ''
+FrequencyOfCollection: Monthly, Annually
+FrequencyofCollection: null
+GoalDescription: An enabling business environment, creating opportunities and employment
+  for entrepreneurs throughout Vanuatu
+GoalId: 4
+IndicatorDescription: Proportion of registered hospitality institutions with rooms
+  and services equipped with energy efficient lighting and appliances
+IndicatorId: 'ECO 4.4.1 '
+IndicatorShortName: Registered Hospitality Institutions Using Energy Efficient Lighting
+  and Appliances
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ECO 4.4.1
+OtherDemandSources: null
+PillarDescription: Economy
+PillarName: Economy
+PolicyLinkage: null
+PolicyObjectiveDescription: Improve and expand the range of sustainable tourism products
+  and services throughout Vanuatu and strengthen links to local production
+PolicyObjectiveId: ECO 4.4
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: Depicts the number of tourism institutions providing energy efficient services
+  throughout Vanuatu and promote climate change.
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 8.9.1 (Tier 2), 8.9.2 (Tier 2)
+SourceTag: null
+TargetDescription: By 2020 increase 20%

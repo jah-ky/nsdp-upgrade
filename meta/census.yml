@@ -1,0 +1,5 @@
+data_show_map: true
+indicator_name: Population from census
+source_active_1: true
+source_organisation_1: VNSO
+standalone: true

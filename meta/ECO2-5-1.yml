@@ -1,0 +1,54 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: '* Consult with DoFT
+
+  * Asset Listing Forms for Government departments/ Ministries '
+ComputationUnit: ''
+Concept: "An increase will definitely reduce Inconsistency in asset management budget\
+  \ \nMore variance will also conserve adequate funds in the business for replacement\
+  \ of fixed assets at the end of their useful lives. Provision for depreciation based\
+  \ on historical cost will show inflated profits and lead to payment of excessive\
+  \ dividends."
+DataSource: "* All Government Ministries\n* Government Departments \n* Projects implemented\
+  \ through the Government"
+Definition: "* Asset management, a systematic process of developing, operating, maintaining,\
+  \ upgrading, and disposing of assets in the most cost-effective manner (including\
+  \ all costs, risks and performance attributes).\n* Inconsistency in asset management\
+  \ budget \n* To conserve adequate funds in the business for replacement of fixed\
+  \ assets at the end of their useful lives. Provision for depreciation based on historical\
+  \ cost will show inflated profits and lead to payment of excessive dividends"
+Dissaggregation: 'National
+
+  Urban/Rural'
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: Sustainable and well-maintained infrastructure and services for all,
+  through inclusive and effective partnerships
+GoalId: 2
+IndicatorDescription: Variance from approved asset management budget
+IndicatorId: ECO2.5.1
+IndicatorShortName: Amount Approved for Asset Management Budget Sought
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ECO 2.5.1
+OtherDemandSources: null
+PillarDescription: Economy
+PillarName: Economy
+PolicyLinkage: null
+PolicyObjectiveDescription: Improve partnerships & costs effective use of resources
+  to ensure sustainable asset management & maintenance budget.
+PolicyObjectiveId: ECO 2.5
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: Reports that explain how the assets are tracking to the budget and, if
+  there is a variance, why it occurred? Expenses outside of the budget must be approved
+  by responsible Government minister (Finance) before utilised.
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: "\n9.a.1 \n(Tier 1)"
+SourceTag: null
+TargetDescription: Increase by VT100 bill over the next five years

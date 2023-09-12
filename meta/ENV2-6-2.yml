@@ -1,0 +1,66 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: The environment trust fund advisory board then reviews all applications
+  and makes recommendations to the minister. Once projects are approved the Minister
+  will announce the ETF awards. The environment trust fund reimburses actual costs
+  up to but not exceeding the approved amount for eligible activities.
+ComputationUnit: Monetary values
+Concept: "* National environment trust funds are independent grant \u2013 making institutions\
+  \ mobilised to managing financial resources for environmental purposes, such as\
+  \ biodiversity, conservation, protection of wild life, forests, climate change,\
+  \ adaptation and mitigation and other environmental issues.\n* This environmental\
+  \ trust funds can be used to mobilise resources from donor partners, national governments,\
+  \ private sectors by providing assurance (root of the word trust) about the effective\
+  \ allocation of resources. A well-capitalized Environment trust fund can improve\
+  \ the effectiveness of environment projects and facilitate the alignment of strategies\
+  \ among stakeholders and reduce transactional cost for donors, government entitlements\
+  \ and implementing agencies."
+DataSource: 'Ministry of Climate Change & Adaptation
+
+
+  Department of Environmental protection & conservation
+
+
+  Aid Donors & NGO''s'
+Definition: "* Independent legal entity and investment collection and allocation of\
+  \ financial resources for environmental purposes\n\n* Independent legal entity and\
+  \ investment to help mobilizing, blending, and overseeing the collection and allocation\
+  \ of financial resources for environmental purposes. It is a country\xADdriven solution\
+  \ that facilitates strategic focus, rigorous project management, solid monitoring\
+  \ and evaluation, and high levels of transparency and accountability. The term encompasses\
+  \ conservation trust funds, wildlife trusts, climate and forest funds, and other\
+  \ funds established to deliver environmental, social and economic benefits.\n"
+Dissaggregation: National
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: An economy which fosters sustainable growth and development through
+  low impact industries and modern technologies to ensure the wellbeing of future
+  generations
+GoalId: 2
+IndicatorDescription: Amount deposited in the Environmental Trust Fund
+IndicatorId: ENV 2.6.2
+IndicatorShortName: Deposits in Environmental Trust Fund
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 2.6.2
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Ensure adequate financial resources to support our sustainable
+  development aspirations
+PolicyObjectiveId: ENV 2.6
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: "* Increase in new initiatives for environmental activities\n* More funds\
+  \ coming into the country through funding agencies targeting climate change, conservation\
+  \ of wild life etc,\u2026"
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: ''
+SourceTag: null
+TargetDescription: Environmental Trust Fund is operational

@@ -1,0 +1,68 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: Total Number of Households engaged in production of food for own
+  consumption divided by total number of households multiply by 100
+ComputationUnit: 'Total Count
+
+  Percentage (%)'
+Concept: Production means growing the plants we harvest or raising the animals we
+  use for food. Most food comes from domesticated animals and plants, and their production
+  occurs on farms or ranches. Some foods are caught or harvested from the wild, such
+  as fish, pigs, cows, etc.
+DataSource: VNSO (Census, NSDP Survey, Mini-Census) , Department of Agriculture (Administrative
+  Data)
+Definition: "Food production\_is the process of transforming raw ingredients into\
+  \ prepared\_food\_products.\_Food production\_includes industries that take raw\_\
+  food\_products and convert them into marketable\_food\_items."
+Dissaggregation: '* Area Council Level
+
+  * Provincial Level
+
+  * National Level
+
+  * Type of Food Production'
+FrequencyOfCollection: '10 years (census)
+
+  5 years (minicensus)
+
+  NSDP Baseline 1st phase'
+FrequencyofCollection: null
+GoalDescription: 'A nation that ensures our food and nutrition security needs are
+  adequately met for all people through increasing sustainable food production systems
+  and improving household production '
+GoalId: ENV 1
+IndicatorDescription: Proportion of households engaged in production of food for own
+  consumption.
+IndicatorId: ENV 1.1.1
+IndicatorShortName: Household Food Production for Consumption
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 1.1.1
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Increase agricultural and fisheries food production using
+  sustainable practices to ensure sufficient access to affordable and nutritious food.
+PolicyObjectiveId: ENV 1.1
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: 'Own production of food consumption , is related to the production of food
+  and agricultural products. This includes crop production, livestock production,
+  fisheries and aquaculture production, and from forestry production. '
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 2.3.1 (Tier 3),  2.3.2 (Tier 3)
+SourceTag: null
+TargetDescription: 'Target TBD after baseline established '
+source_active_1: true
+source_active_2: true
+source_active_3: true
+source_organisation_1: 2009 Population and Housing Census, VNSO (published figure
+  in 2014 Socio-Economic Atlas p 52)
+source_organisation_2: 2014 National Accounts Annual Report Vol 4 (p29), VNSO
+source_organisation_3: 2007 Agriculture Census (p23), VNSO and DARD

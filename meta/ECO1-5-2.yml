@@ -1,0 +1,94 @@
+﻿Proxy: 'No'
+Definition: >-
+  A bilateral or trade by trade agreement is a legally binding agreement between
+  Vanuatu and other pacific island countries that aims to reduce barriers to
+  trade and promote economic cooperation. These agreements typically cover a
+  range of issues, such as the reduction or elimination of tariffs, the removal
+  of non-tariff barriers, the facilitation of customs procedures, and the
+  protection of intellectual property rights. The purpose of such agreements is
+  to promote the flow of goods and services between participating countries,
+  enhance market access, and foster economic growth and development. They are
+  often negotiated and established through rounds of negotiations and can have a
+  significant impact on international trade and economic relations.
+Concept: >2-
+   Trade by Trade agreement suggests a focus on the specific trade aspects or provisions within such agreements. It emphasizes the importance of trade-related policies, market access, tariffs, quotas, and regulations that directly impact the exchange of goods and services between participating countries.
+
+  By examining the trade provisions within a trade agreement, policymakers,
+  economists, and analysts can evaluate the potential benefits, challenges, and
+  implications for industries, consumers, and the overall economy. It allows for
+  an assessment of how the agreement affects trade flows, market opportunities,
+  and competitiveness, and provides insights into the impact on specific sectors
+  or industries. Understanding the trade provisions in a trade agreement is
+  crucial for businesses engaging in cross-border trade, as it shapes the rules
+  and conditions under which they can access foreign markets and compete
+  internationally.
+Disaggregation: |-
+  exports, imports, balance,
+  by country
+Rationale: >-
+  The rationale behind monitoring trade by trade agreements as an indicator is
+  to understand the economic relationships and trade dynamics between two or
+  more specific countries. Trade by trade agreements are established to promote
+  economic cooperation and reduce barriers to trade between the participating
+  countries. Monitoring these agreements provides insights into the objectives,
+  terms, and conditions of trade between the countries involved. It allows
+  policymakers, businesses, and economists to assess the impact of these
+  agreements on market access, tariff reductions, regulatory alignment,
+  investment flows, and other trade-related aspects. Understanding bilateral
+  trade agreements helps identify opportunities and challenges for businesses
+  operating in the involved countries, evaluate the effectiveness of trade
+  policies, and assess the potential for increased trade and economic
+  cooperation between specific trading partners.
+MethodOfComputation: >-
+  The computation methods can include the following:
+
+
+  1. Total Trade Value: Calculate the total value of exports and imports between
+  the countries involved in the multilateral trade agreement. This can be done
+  by summing up the monetary value of all traded goods and services recorded in
+  official trade statistics or trade databases.
+
+
+  2. Trade Balance: Calculate the trade balance between the countries by
+  subtracting the total value of imports from the total value of exports. A
+  positive trade balance indicates that exports exceed imports, while a negative
+  trade balance suggests that imports surpass exports.
+
+
+  3. Tariff Revenue: Assess the tariff revenue generated from trade flows
+  between the countries. This involves calculating the total amount of customs
+  duties collected on imports and exports based on the agreed tariff rates. This
+  information can be obtained from customs records or official government
+  reports.
+
+
+  4. Sector-specific Analysis: Conduct a sector-specific analysis to determine
+  the value of trade in specific industries or sectors covered by the
+  multilateral trade agreement. This can involve examining the monetary value of
+  trade in key sectors and tracking changes over time to evaluate the impact of
+  the agreement on those sectors.
+
+
+  5. Preferential Tariff Analysis: Analyze the utilization of preferential
+  tariff rates agreed upon in the multilateral trade agreement. Calculate the
+  share of imports and exports that receive preferential treatment and assess
+  the value of trade conducted at lower tariff rates as a result of the
+  agreement.
+
+
+  Monitoring multilateral trade agreements in monetary value requires access to
+  reliable trade data, such as official trade statistics, customs records, and
+  other relevant sources. Regular data collection, analysis, and comparison
+  against the commitments and objectives of the agreement help assess the
+  economic impact, trade patterns, and compliance with the agreed terms.
+SDGAlignment: |-
+  17.11
+  17.11.1
+  (Tier 1)
+UnitOfMeasurement: Vatu in millions
+FrequencyOfCollection: Annual
+source_organisation_1: |-
+  QSI December 2020, VBOS
+  QSI December 2021, VBOS
+source_organisation_2: ''
+source_organisation_3: ''

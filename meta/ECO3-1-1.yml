@@ -1,0 +1,69 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: 'total annual value = (total annual value of Tourism)/(Total GDP)
+  x100
+
+
+  * compute for infrastructure, industries and agriculture & add all the answers.'
+ComputationUnit: monetary figures(vt), percentage (%)
+Concept: "* Measure of production equal to the sum of Gross values added of all residents\
+  \ and institutional units engaged in the production and services (plus taxes & minus\
+  \ subsidies) on products not included in the value of the outputs. \n* GDP is represents\
+  \ the total dollar value of all goods and services produced over a specific time\
+  \ period \u2013 size of the economy"
+DataSource: '* Ministry of Trades (MTCIT)
+
+  * Ministry if infrastructure and public utilities (MIPU)
+
+  * Ministry of Agriculture (MALFFB)'
+Definition: "* Total value of tourism, industries, infrastructure and agriculture\
+  \ contributed to the GDP of Vanuatu. (tourism contributed about 65% of GDP, tourism\
+  \ is Vanuatu\u2019s fastest growing sector, Agriculture contributing about 20% to\
+  \ GDP.\n\n* Monetary measure of the market value of all goods and services produced\
+  \ in a specific time period (This includes Tourism industries, infrastructure and\
+  \ agriculture production annually for Vanuatu)."
+Dissaggregation: ''
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: A strong rural economy that creates opportunities, enables the development
+  of rural communities and increasingly contributes to national prosperity
+GoalId: 3
+IndicatorDescription: Total annual value of tourism industry, infrastructure, agricultural
+  production and industry as a proportion of GDP
+IndicatorId: 'ECO 3.1.1 '
+IndicatorShortName: Value of Tourism as Proportion GDP
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ECO 3.1.1
+OtherDemandSources: null
+PillarDescription: Economy
+PillarName: Economy
+PolicyLinkage: null
+PolicyObjectiveDescription: Promote broad-based growth by strengthening linkages between
+  tourism, infrastructure, agriculture and industry in rural areas and diversity the
+  rural economy
+PolicyObjectiveId: ECO 3.1
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: ' Indicates how much these sectors impact the economy and is measured through
+  their proportion of GDP'
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: "8.9.1\n (Tier 2), 8.9.2 (Tier 2)"
+SourceTag: null
+TargetDescription: By 2030 proportion increase by 40%
+source_active_1: true
+source_active_2: true
+source_active_3: true
+source_active_4: true
+source_organisation_1: '2016 Statistical Release: GDP 2016 Highlights (p7 Constant
+  Prices), VNSO'
+source_organisation_2: '2017 Statistical Release: GDP 2016 Highlights (p7 Constant
+  Prices), VNSO'
+source_organisation_3: 2014 National Accounts (p22, Constant Prices), VNSO
+source_organisation_4: '2017 Statistical Release: GDP 2017 Highlights (p7 Constant
+  Prices), VNSO'

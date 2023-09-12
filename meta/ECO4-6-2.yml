@@ -1,0 +1,60 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: Total annual number of validated complaints registered with Labour
+  Union
+ComputationUnit: Total annual count in the Labour union registry.
+Concept: A complaint arises only if user believes the department has done something
+  incorrect or failed to do something that it should have done or acted in a way that
+  may consider unfair.
+DataSource: 'Labour Market Survey  VNSO '
+Definition: The state of expressing dissatisfaction of one or more members of the
+  public concerning an action or lack of action produce by a Department or about the
+  standard of a service it produces.
+Dissaggregation: '* Sex
+
+  * Age
+
+  * Department of labour
+
+  * Valid complains
+
+  * Types of complains'
+FrequencyOfCollection: Quarterly
+FrequencyofCollection: null
+GoalDescription: An enabling business environment, creating opportunities and employment
+  for entrepreneurs throughout Vanuatu
+GoalId: 4
+IndicatorDescription: Total annual number of validated complaints registered with
+  Labour Union
+IndicatorId: ECO 4.6.2
+IndicatorShortName: Validated Complaits Registered with Labour Union
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ECO 4.6.2
+OtherDemandSources: null
+PillarDescription: Economy
+PillarName: Economy
+PolicyLinkage: null
+PolicyObjectiveDescription: Ensure the health and safety, employment rights and skills
+  development of the workforce
+PolicyObjectiveId: ECO 4.6
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: '* To help ensure that a department or a sector continues to provide a
+  quality service with highest standard of conduct.
+
+
+  * So a sector or department can assist in developing their services.
+
+
+  * To protect the interests of the employees of the department or sector in conducting
+  their work efficiently, effectively and proffesional.'
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: ''
+SourceTag: null
+TargetDescription: By 2020 increase 15%

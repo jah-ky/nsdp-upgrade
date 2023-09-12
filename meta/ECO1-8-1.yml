@@ -1,0 +1,55 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: "\xB7\_Collect total number of new users of financial services\
+  \ annually through data request form issued to the Reserve Bank of Vanuatu.\n\xB7\
+  \_\_Whether it increase by 30% or not;\nAll you need to do is subtract your current\
+  \ year earnings by last year's earnings, then divide by last year's earnings. Then,\
+  \ you multiply the resulting figure by 30, which provides you with a percentage\
+  \ figure."
+ComputationUnit: percentage (%) & total count
+Concept: 'Total number of new account open per year is a good indicator of increasing
+  population growth in the country. It also measures to the extent the stability of
+  financial sectors and the affordability and accessibility of their services to everyone.
+  Overall the aim is to ensure A stable and prosperous economy, encouraging trade,
+  investment and providing economic opportunities for all members of society throughout
+  Vanuatu '
+DataSource: Reserve Bank of Vanuatu (RBV)
+Definition: 'Financial services are the economic services provided by the finance
+  industry, which encompasses a broad range of businesses that manage money, including
+  credit unions, banks, credit-card companies, insurance companies, accountancy companies,
+  consumer-finance companies, stock brokerages, investment funds, etc... '
+Dissaggregation: "\_Gender,  Area Council, Rural/Urban, Province, National"
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: A stable and prosperous economy, encouraging trade, investment and
+  providing economic opportunities for all members of society throughout Vanuatu
+GoalId: 1
+IndicatorDescription: Total number of new users of financial services annual, acknowledging
+  pop growth (number accounts opening/year)
+IndicatorId: ECO 1.8.1
+IndicatorShortName: Growth Rate in Users of Financial Services
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ECO 1.8.1
+OtherDemandSources: null
+PillarDescription: Economy
+PillarName: Economy
+PolicyLinkage: null
+PolicyObjectiveDescription: Ensure financial sector stability and make financial services
+  affordable and accessible for all through pursuing financial inclusion strategies.
+PolicyObjectiveId: ECO 1.8
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: To depict the total number of newly accounts of financial services annually
+  showing the development population growth which leads to financial stability meaning
+  financial services can be affordable and whether or not the accessibility covers
+  all when pursuing financial inclusion strategies.
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 8.10.1 (Tier 1), 8.10.2
+SourceTag: null
+TargetDescription: By 2030 30% increase

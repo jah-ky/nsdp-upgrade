@@ -1,0 +1,56 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: '* Get the total number of processed export commodities to raw
+  exports
+
+  * To calculate the ratio of an amount we divide the amount by the total number of
+  parts in the ratio and then multiply this answer by the original ratio.'
+ComputationUnit: Percentage (%)
+Concept: "* The term commodities are generally understood as goods that are essentially\
+  \ the same no matter where they are produced. \n* Raw material extracted from the\
+  \ environment directly without further process but is export directly to other country.\n"
+DataSource: '* Department of Trade
+
+  * Department of Agriculture & Rural Development (DARD)
+
+  * Department of Customs & Inland Revenue (CIR)'
+Definition: "\xB7\_\_\_\_\_ Export commodities are substances or good that are produced\
+  \ in a country, then shipped to others for distribution and sale abroad. (processed\
+  \ export commodities include agricultural products that have been extracted and\
+  \ modify using certain chemical to alter the product to preserved the produce but\
+  \ at the same time add more value to the product)\n\xB7\_\_\_\_\_ A raw material\
+  \ is an unprocessed material, or primary commodity, it is a basic material that\
+  \ is used to produce goods or finished products."
+Dissaggregation: National Level
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: An enabling business environment, creating opportunities and employment
+  for entrepreneurs throughout Vanuatu
+GoalId: 4
+IndicatorDescription: Ratio of processed export commodities (including coconut, kava,
+  cocoa, coffee) to raw exports
+IndicatorId: ECO 4.3.2
+IndicatorShortName: Ratio of Processed Export Commodities to Raw Export, Value
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ECO 4.3.2
+OtherDemandSources: null
+PillarDescription: Economy
+PillarName: Economy
+PolicyLinkage: null
+PolicyObjectiveDescription: Increase production and processing of niche commodities,
+  and value addition to commodities in which Vanuatu enjoys a comparative advantage
+PolicyObjectiveId: ECO 4.3
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: "* To understand which two process of export has the most impact on the\
+  \ economy of Vanuatu \n* What major goods are being exported "
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 9.b.1
+SourceTag: null
+TargetDescription: By 2020 increase 15%

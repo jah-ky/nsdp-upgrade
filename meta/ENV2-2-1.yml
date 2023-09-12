@@ -1,0 +1,54 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: Number of development projects complying with EIA requirements
+ComputationUnit: Total Count
+Concept: "EIA is a proactive panning and decision \u2013making tool that has an important\
+  \ role to play in identifying impacts, assessing ricks and evaluating the costs\
+  \ and benefits of development projects before they are implemented"
+DataSource: Deparment of Environment Protection and Conservation, VIPA
+Definition: EIA is defined as Environmental Impact Assessment; it is the process for
+  identifying and managing the impacts of a project on the natural, social and custom
+  environment.
+Dissaggregation: '* types of projects
+
+  * Area Council Level
+
+  * Provincial Level
+
+  * National Level'
+FrequencyOfCollection: ''
+FrequencyofCollection: null
+GoalDescription: An economy which fosters sustainable growth and development through
+  low impact industries and modern technologies to ensure the well- being of future
+  generations.
+GoalId: ENV 2
+IndicatorDescription: Number of development projects complying with EIA requirements
+IndicatorId: ENV 2.2.1
+IndicatorShortName: Projects in Compliance with EIA Requirements
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 2.2.1
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Ensure new infrastructure development activities cause
+  minimal disturbance to the natural land and marine environment.
+PolicyObjectiveId: ENV 2.2
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: "Number of steps in EIA varies bases on the potential impacts of the project.\
+  \ While the number of steps in the process may vary, the process will always start\
+  \ with the project proponent submitting an application for an environmental permit\
+  \ and will always end with the Department of Environmental protection and Conservation\u2019\
+  s (the Department) decision to grant or refuse an environment permit under the EPC\
+  \ Act. "
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 11.c.1 (Tier 3)
+SourceTag: null
+TargetDescription: By 2030 - 50% of development projects are complying with EIA  requirements

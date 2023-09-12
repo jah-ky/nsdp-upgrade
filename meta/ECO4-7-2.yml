@@ -1,0 +1,63 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: '* Conducting Labour force survey.
+
+  * Population & Housing Census
+
+  * NSDP Baseline Survey'
+ComputationUnit: Total Count
+Concept: "A labour market in an economy functions with demand and supply of labour,\
+  \ in a market the labour demand is the firm\u2019s demand for labour and supply\
+  \ is the worker\u2019s supply of labour. "
+DataSource: '* Department of Labour
+
+  * Vanuatu National Statistics Office'
+Definition: ' - labour market flows show the movements of individuals between employment,
+  unemployment and economic inactivity.
+
+  - Labour market is the availability of employment and Labour in terms of supply
+  and demand.'
+Dissaggregation: '* Sex
+
+  *Age
+
+  * Area Council
+
+  * Rural & Urban
+
+  * Provincial Level
+
+  * National Level'
+FrequencyOfCollection: '* Census & NSDP Baseline survey (10 years)
+
+  * Reserve Bank of Vanuatu quarterly report.'
+FrequencyofCollection: null
+GoalDescription: An enabling business environment, creating opportunities and employment
+  for entrepreneurs throughout Vanuatu.
+GoalId: 4
+IndicatorDescription: Labour market flows
+IndicatorId: ECO 4.7.2
+IndicatorShortName: Labour Market Flows
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ECO 4.7.2
+OtherDemandSources: null
+PillarDescription: Economy
+PillarName: Economy
+PolicyLinkage: null
+PolicyObjectiveDescription: Increase labour mobility nationally and internationally,
+  including through the collection and analysis of comprehensive labour market data
+PolicyObjectiveId: ECO 4.7
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: Labour market flows help to understand and interpret changes in the levels
+  of labour market indicators
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: ''
+SourceTag: null
+TargetDescription: ' By 2020 increase 10%'

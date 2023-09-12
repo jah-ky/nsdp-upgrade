@@ -1,0 +1,54 @@
+﻿Proxy: ''
+Definition: >-
+  "Average annual household income from tourism" refers to the average amount of
+  money earned by households within a specific area or region as a result of
+  tourism-related activities over the course of a year. It represents the income
+  generated from various tourism-related sources, such as accommodations,
+  transportation, food and beverage services, entertainment, and other related
+  services.
+
+
+  This metric provides an indication of the economic impact of tourism on local
+  households. It takes into account the direct and indirect income derived from
+  tourism-related employment or entrepreneurial activities. The average annual
+  household income from tourism reflects the overall financial benefit received
+  by households in a particular area due to the presence and activity of
+  tourists.
+Concept: >-
+
+  The concept of "average annual household income from tourism" refers to the
+  average amount of money earned by households in a given area or region as a
+  result of their involvement in tourism-related activities over the course of a
+  year. It represents the income generated directly or indirectly from various
+  tourism-related sources, such as accommodations, transportation, food and
+  beverage services, entertainment, and other associated services.
+
+
+  This concept is used to assess the economic impact of tourism on households
+  within a specific area. It takes into account the income earned by households
+  through their participation in tourism-related employment or entrepreneurial
+  ventures. It provides insights into the financial benefits received by local
+  households due to the presence and activities of tourists.
+Disaggregation: 'urban, rural'
+Rationale: >
+  1.  Indicates how much the communities earn from tourism activities annually
+
+  2.  Depicts creativity in tourism activities within the rural communities.
+
+  3.  Indicates how much the tourism sector impacts the rural communities in
+  terms of annual income per household.
+MethodOfComputation: >-
+  To calculate the average annual household income from tourism, data is
+  collected on the income earned by individual households engaged in
+  tourism-related activities. This data is then aggregated to determine the
+  total income from tourism for all households in the area. This total is
+  divided by the number of households to derive the average income figure.
+SDGAlignment: ''
+UnitOfMeasurement: average number
+FrequencyOfCollection: Annually
+source_organisation_1: >-
+  2020 HIES using (p146) total monthly household income from handicrafts divided
+  by total project number of households (50,740) multiplied by 12 for annual
+  estimate, VBOS
+source_organisation_2: ''
+source_organisation_3: ''

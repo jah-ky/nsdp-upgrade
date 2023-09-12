@@ -1,0 +1,51 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: "\u2022Total count of people in the Training registration records\
+  \ of MALFFB & NGOs.\n\n\u2022MALFFB Food storage and preservation training participants\
+  \ \xF7\nTotal number of participants in all MALFFB & NGOs trainings"
+ComputationUnit: 'Total Count '
+Concept: "Food storage and preservation can sustain food production and improve household\
+  \ production. The skills of food storage and preservation is very important and\
+  \ finding the number of people who are trained can be helpful in strengthening the\
+  \ nation\u2019s capacity to improve its food and nutrition security needs."
+DataSource: Administrative data (MALFFB, NGOs)
+Definition: Food storage and preservation is all about caring or treating food in
+  a way that it will keep in good condition for a long period of time or for future
+  use. Food preservation usually involves preventing the growth bacteria, fungi or
+  other micro-organisms into the food.
+Dissaggregation: " Sex, Education level, \_ Income wealth, \_ Urban/rural,  Type of\
+  \ food storage & preservation, National "
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: 'A nation that ensures our food and nutrition security needs are
+  adequately met for all people through increasing sustainable food production systems
+  and improving household production '
+GoalId: 1
+IndicatorDescription: 'Total number of people receiving training in food storage and
+  preservation per year in MALFFB led, NGO or partnered initiatives.  '
+IndicatorId: ENV1.4.2
+IndicatorShortName: Food Storage and Preservation Trainings
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 1.4.2
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Improve access to appropriate technology, knowledge and
+  skills in food production, preservation and storage.
+PolicyObjectiveId: ' ENV 1.4'
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: Depicts the total number of people receiving training in food storage and
+  preservation out of all other trainings conducted by MALFFB and NGOs
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 14.4.1 (R) (Tier 1)
+SourceTag: null
+TargetDescription: Of all training conducted by MALFFB and NGOs, at least 5% has to
+  be on food preservation and storage

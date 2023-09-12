@@ -1,0 +1,24 @@
+﻿Proxy: ''
+Definition: >-
+  Number of tourist travelling to outer islands in cooperative relation to the
+  total number of tourist visitors into the country
+Concept: >-
+  Number of tourists visiting the outer islands of Vanuatu either for a day pass
+  or spend the night apart from the total number of tourist’s visitors into the
+  country.
+Disaggregation: ''
+Rationale: >-
+  * Indicates the impacts of tourism in the economy.
+
+  * Depicts the development of the tourism sector in the outer islands and the
+  rural communities. 
+MethodOfComputation: >-
+  Total number of visitors travelling to outer islands divide total number of
+  tourist coming into the country then multiply by 100 to give value in
+  percentage.
+SDGAlignment: ''
+UnitOfMeasurement: ''
+FrequencyOfCollection: 'Monthly, Annually'
+source_organisation_1: '2017 International Arrivals Statistics Monthly Report (December), VNSO'
+source_organisation_2: '2018 International Arrivals Statistics Monthly Report (December), VNSO'
+source_organisation_3: ''

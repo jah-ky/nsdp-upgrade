@@ -1,0 +1,49 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: Total annual count remittances
+ComputationUnit: Total Count
+Concept: "* Remittances usually flows to developing countries\n* Money sent home through\
+  \ remittances competes with international aid as one of the largest financial inflows\
+  \ to developing countries. Workers\u2019 remittances are a significant part of international\
+  \ capital flow, especially with regard to labour-exporting countries."
+DataSource: '* Reserve Bank of Vanuatu Quarterly Report'
+Definition: "* Remittances is the financial or in-kind transfers made by migrants\
+  \ to friends and relatives back in communities of origin. \n* It is a transfer of\
+  \ money, often by a foreign worker to an individual in their home country."
+Dissaggregation: 'National Level
+
+  '
+FrequencyOfCollection: Quarterly
+FrequencyofCollection: null
+GoalDescription: An enabling business environment, creating opportunities and employment
+  for entrepreneurs throughout Vanuatu.
+GoalId: 4
+IndicatorDescription: Total annual remittances as a proportion of GDP
+IndicatorId: ECO 4.7.3
+IndicatorShortName: Remittances as Proportion of GDP
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ECO 4.7.3
+OtherDemandSources: null
+PillarDescription: Economy
+PillarName: Economy
+PolicyLinkage: null
+PolicyObjectiveDescription: Increase labour mobility nationally and internationally,
+  including through the collection and analysis of comprehensive labour market data
+PolicyObjectiveId: ECO 4.7
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: "* Workers\u2019 remittances have become a major source of external development\
+  \ finance especially to the communities which assist government financial development\
+  \ to rural settings specially to alleviate the problem of poverty on individual\
+  \ basis.\n* This will also enable the community on how best to manage and strengthen\
+  \ their remittances."
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: ''
+SourceTag: null
+TargetDescription: ' By 2020 increase 5%'

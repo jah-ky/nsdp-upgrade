@@ -1,0 +1,63 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: coducting labour survey and other labour indicators in the NSDP
+  as well can determine the ECI
+ComputationUnit: 'hours of work
+
+  weight
+
+  price'
+Concept: The Employment Cost Index essentially measures the change in total employee
+  compensation each quarter. It is based on a survey of employer payrolls conducted
+  by the Bureau of Labour Statistics in the final month of each quarter.
+DataSource: '* National Population and Housing Census (VNSO)
+
+
+  * NSDP Baseline Survey (VNSO)'
+Definition: The Employment Cost Index (ECI) is a quarterly measure of the change in
+  the price of labour, defined as compensation per employee hour worked.
+Dissaggregation: '
+
+  Age
+
+  Sex
+
+  Rural/Urban
+
+  Provincial Level
+
+  National Level'
+FrequencyOfCollection: '*NSDP- HIES(3-5 years
+
+  *National Population & Housing Census (10 years)'
+FrequencyofCollection: null
+GoalDescription: An enabling business environment, creating opportunities and employment
+  for entrepreneurs throughout Vanuatu
+GoalId: 4
+IndicatorDescription: Employment cost index (ECI)
+IndicatorId: ECO 4.5.1
+IndicatorShortName: Employment Cost Index
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ECO 4.5.1
+OtherDemandSources: null
+PillarDescription: Economy
+PillarName: Economy
+PolicyLinkage: null
+PolicyObjectiveDescription: Increase the number of decent, productive employment opportunities,
+  particularly for young women and men, and people with disabilities.
+PolicyObjectiveId: ECO 4.5
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: While the CPI is a measure of inflation in consumer prices, the ECI is
+  vital as an indication of whether employment cost changes are rising or falling
+  and so it measures inflation of wages, and employer-paid benefits.
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 8.5.1
+SourceTag: null
+TargetDescription: By 2020 increase 15%

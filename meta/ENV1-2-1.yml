@@ -1,0 +1,57 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: Number of national food guidelines completed & operational /Total
+  number of National Food guidelines in existence x 100
+ComputationUnit: percentage (%) & total count
+Concept: "* To use the National Food Guideline to measure food security and promotional\
+  \ nutrition activities which aims to promote locally grown food which are already\
+  \ completed or still operational to see if whether or not, Vanuatu ensures that\
+  \ food and nutritional security needs are adequately met for all people through\
+  \ increasing sustainable food production systems and improving household. \n"
+DataSource: NSDP Baseline Survey
+Definition: "\u2022 A National Food Guideline is all about food security in Vanuatu,\
+  \ where every Ni-Vanuatu have physical, social and economic access to sufficient,\
+  \ safe and nutritious food to meet their dietary needs and food preferences for\
+  \ an active and healthy life."
+Dissaggregation: Area council, Province, National, Rural/Urban
+FrequencyOfCollection: ''
+FrequencyofCollection: null
+GoalDescription: 'A nation that ensures our food and nutrition security needs are
+  adequately met for all people through increasing sustainable food production systems
+  and improving household production '
+GoalId: 1
+IndicatorDescription: 'National food guidelines directing food security and nutrition
+  promotional activities (including Aelan kaikai) completed and operational '
+IndicatorId: ENV1.2.1
+IndicatorShortName: Food Security and Nutrition Guidelines
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 1.2.1
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Promote Aelan kaikai as a key part of a sustainable and
+  nutritionally balanced diet.
+PolicyObjectiveId: ENV 1.2
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: '*This indicator aims to find out in Vanuatu the level of effectiveness
+  of the National Food Guidelines which allow every Ni-Vanuatu to have physical, social
+  and economic access to sufficient, safe and nutritious food to meet their dietary
+  needs and food preferences for an active and healthy life.
+
+  *To find the proportion of household consuming island food to help policy makers
+  to create policies that promote consumption of island food.'
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: '12.8.1
+
+  (Tier 3)'
+SourceTag: null
+TargetDescription: "*\_National food guidelines  completed by 2019.\n* Proportion\
+  \ of HH consuming island food (NSDP baseline survey)."

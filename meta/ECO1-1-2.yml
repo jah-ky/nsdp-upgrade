@@ -1,0 +1,44 @@
+﻿Proxy: ''
+Definition: >-
+  GDP growth refers to the increase in the Gross Domestic Product (GDP) of a
+  country over a specific period of time, typically measured on an annual basis.
+  It represents the rate at which the total value of goods and services produced
+  within an economy is expanding. GDP growth is a key indicator of economic
+  health and is influenced by factors such as consumer spending, investment,
+  government expenditure, and net exports. Positive GDP growth generally
+  signifies economic expansion, while negative growth indicates economic
+  contraction or recession.
+Concept: >-
+  The concept behind the indicator "GDP growth" is to measure the rate at which
+  an economy is expanding or contracting over a specific period. It provides a
+  quantitative assessment of the overall economic performance of a country by
+  capturing the increase or decrease in the value of goods and services produced
+  within its borders. GDP growth is an essential tool for assessing economic
+  health, identifying trends, comparing performance across countries, and
+  informing policy decisions. It reflects the combined impact of various
+  factors, including consumer spending, business investment, government
+  expenditure, and net exports, providing an overview of the overall economic
+  activity and output of a nation.
+Disaggregation: By Sectors and Industry
+Rationale: >-
+  Monitoring GDP growth annually allows policymakers, businesses, and economists
+  to gauge the overall health and performance of an economy, identify trends,
+  make informed decisions, and assess the effectiveness of economic policies
+MethodOfComputation: >-
+  The method of computation for annual GDP growth involves comparing the GDP
+  values of an economy between two different periods (typically one year apart)
+  and calculating the percentage change in GDP over that period using the
+  formula:
+
+  GDP growth rate = ((GDP at the end of the period - GDP at the start of the
+  period) / GDP at the start of the period) * 100.
+SDGAlignment: |-
+  8.1
+  8.1.1 (R)
+  (Tier 1)
+UnitOfMeasurement: |
+  Percentage
+FrequencyOfCollection: Annual
+source_organisation_1: 'Statistical Release: Gross Domestic Product Highlights 2020'
+source_organisation_2: ''
+source_organisation_3: ''

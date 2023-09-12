@@ -1,0 +1,70 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: Trades Reports produced by the Department Of Trades & VNSO.
+ComputationUnit: ''
+Concept: 'Trade agreements are made between two or more nations that agreed on the
+  terms of trade between them. They determine the tariffs and duties that countries
+  impose on imports and exports. All trade agreements affect international trade.
+  Imports are goods and services produced in a foreign country and bought by domestic
+  residents
+
+  Trade is a basic economic concept involving the buying and selling of goods and
+  services, with compensation paid by a buyer to a seller, or the exchange of goods
+  or services between parties.'
+DataSource: 'Customs Department
+
+  Department of Trades
+
+  Productive sectors (agriculture sector)'
+Definition: "Bilateral and Multilateral agreements between states and other countries\
+  \ Vanuatu has signed concerning trade relationships. \n"
+Dissaggregation: National
+FrequencyOfCollection: monthly
+FrequencyofCollection: null
+GoalDescription: A stable and prosperous economy, encouraging trade, investment and
+  providing economic opportunities for all members of society throughout Vanuatu
+GoalId: 1
+IndicatorDescription: Trade agreement analysis reports
+IndicatorId: ECO1.6.1
+IndicatorShortName: Trade Analysis Reporting
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ECO 1.6.1
+OtherDemandSources: null
+PillarDescription: Economy
+PillarName: Economy
+PolicyLinkage: null
+PolicyObjectiveDescription: Require all new trade agreements to demonstrate tangible
+  benefits in the national interest
+PolicyObjectiveId: ECO 1.6
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: "Trade agreements aim to strike a balance between flexibility and commitments.\
+  \ If there is too much flexibility, the value of the commitment is undermined. If\
+  \ there is too little flexibility, countries may refuse to make deep commitments\
+  \ or may easily renege on such commitments. This section explores how this trade-off\
+  \ works. It reviews the economic rationale for international trade cooperation and\
+  \ explains the reason for the inclusion of flexibilities in a trade agreement. It\
+  \ is important to highlight the distinction between the initial motivations for\
+  \ introducing flexibilities and the consequences of using such flexibilities. This\
+  \ section focuses on the reasons for including flexibilities while the effects of\
+  \ specific measures are examined in Sections\n\nEconomists have identified several\
+  \ rationales for the existence of trade agreements, such as those embodied in the\
+  \ WTO, and its antecedent, the General Agreement on Tariffs and Trade (GATT). \n\
+  \nTwo main approaches can be distinguished.\n1.\tThe first states that in the absence\
+  \ of a trade agreement, a country may be tempted to manipulate the terms-of-trade\
+  \ (i.e. the price of its exports relative to its imports) in order to increase its\
+  \ national income at the expense of its trading partners.\n2.\t The economic and\
+  \ political difficulties that governments face in setting trade policies. \u201C\
+  Trade agreements allow governments to escape terms-of-trade conflicts and/ or to\
+  \ resist pressures from the private sector and special-interest groups urging the\
+  \ government to deviate from a liberal trade policy.\u201D"
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 10.a.1 (Tier 1)
+SourceTag: null
+TargetDescription: By 2030 improve by 15%

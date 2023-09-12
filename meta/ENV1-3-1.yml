@@ -1,0 +1,46 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: Total Number of Imported foods that Vanuatu can Produce domestically
+  in the Country.
+ComputationUnit: ''
+Concept: Department of Agriculture and Rural Development have to work and decrease
+  number of imported foods that Vanuatu can Produce domestically.
+DataSource: DARD-Department of Agriculture and Rural Development (Administrative Data)
+Definition: Annual Volume of imports of food and products targeted by the Department
+  of Agriculture and Rural Development (DARD) that can be produced domestically in
+  Vanuatu.
+Dissaggregation: DARD, Biosecurity, Customs, Trades
+FrequencyOfCollection: ''
+FrequencyofCollection: null
+GoalDescription: A nation that ensures our food and nutrition security needs are adequately
+  met for all people through increasing sustainable food production systems and improving
+  household production
+GoalId: ENV 1
+IndicatorDescription: Reduce reliance on food imports through import substitution
+  for food products that can be produced domestically.
+IndicatorId: ENV 1.3.1
+IndicatorShortName: Volume of Domestically Produced Food Imports
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 1.3.1
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Reduce reliance on food imports through import substitution
+  for food products that can be produced domestically.
+PolicyObjectiveId: ENV 1.3
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: Importing of food costs, the country a lot of money every year, Vanuatu
+  consumes a lot of imported food, this cause high number of Non-Communicable Disease
+  (NCD) affecting most people in the communities.
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: ', 2.b.1, 2.b.2'
+SourceTag: null
+TargetDescription: 'Target TBD after baseline established '

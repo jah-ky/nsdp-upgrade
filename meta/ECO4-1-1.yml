@@ -1,0 +1,56 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: Number of Growth in Gross Fixed Capital Formation
+ComputationUnit: 'total count
+
+  percentage (%)'
+Concept: 'Gross fixed capital formation includes spending on land improvements for
+  instance fences, drains, machinery and equipment purchases, the construction of
+  roads, railways, private residential dwellings, and commercial and industrial buildings. '
+DataSource: '* Ministry of Trades
+
+  * Ministry of Finance and Economic Management'
+Definition: "\xB7\_\_\_\_\_ Gross fixed capital formation (net investment) is the\
+  \ net amount of fixed capital accumulation.\nIt measures the increase in the capital\
+  \ stock less the disposal of fixed assets\n\n\xB7\_\_\_\_\_ GFCF measures the net\
+  \ increase in fixed capital. It is a component of the Expenditure method of calculating\
+  \ GDP"
+Dissaggregation: National Level
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: An enabling business environment, creating opportunities and employment
+  for entrepreneurs throughout Vanuatu
+GoalId: 4
+IndicatorDescription: Growth in Gross Fixed Capital Formation
+IndicatorId: ECO 4.1.1
+IndicatorShortName: Gross Fixed Capital Formation Growth
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ECO 4.1.1
+OtherDemandSources: null
+PillarDescription: Economy
+PillarName: Economy
+PolicyLinkage: null
+PolicyObjectiveDescription: Create an improved business environment with a stable
+  regulatory framework, which promotes competition, protects consumers, attracts investment
+  and reduces the costs of doing business.
+PolicyObjectiveId: ECO 4.1
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: '* Reason for capturing Gross Fixed Capital Formation, there should be
+  a way to measure the growth of capital assets as money is reinvested
+
+
+  * Capital Formation is a term used to capture the net change gain; this include
+  increases in fixed assets.'
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 8.2.1(tier1), 17.5.1
+SourceTag: 'Table 10 : Growth Rates - Constant Price GDP by Expenditure'
+TargetDescription: By 2020 10% increase (annual increase is 7%)
+source_active_1: true
+source_organisation_1: '2017 Statistical Release: GDP Highlights (p11), VNSO'

@@ -1,0 +1,60 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: ((Current /Previous)- Current) * 100 OR Follow the LASPEYRES INDEX
+  Formula
+ComputationUnit: '* Ratio of values
+
+  * Quantities
+
+  * Prices'
+Concept: Food prices refer to the average price of particular food commodities globally
+  and across countries. The Consumer Price Index, or CPI, is a tool used to measure
+  how much in dollars consumers need to spend to buy a typical assortment of goods.
+DataSource: "* VNSO (CPI regular release), \n * Department of Agriculture"
+Definition: "Food price inflation\_refers to the condition whereby there exist increase\
+  \ in wholesale price index of essential\_food\_item (defined\_as\_food\_basket)\
+  \ relative to the general\_inflation\_or the consumer price index."
+Dissaggregation: '* Types of Sellers/shops (supermarkets, wholesale & retail, hardware,
+  etc)
+
+  * Area Council level
+
+  * Rural/ Urban
+
+  * Provincial Level
+
+  * National Level'
+FrequencyOfCollection: ''
+FrequencyofCollection: null
+GoalDescription: A nation that ensures our food and nutrition security needs are adequately
+  met for all people through increasing sustainable food production systems and improving
+  household production
+GoalId: ENV 1
+IndicatorDescription: Food Price Inflation Rate or Food Price Index compared to the
+  national consumer price index (how much are prices for food going up or down, relative
+  to all prices in the country-based on VNSO data)
+IndicatorId: ENV 1.3.3
+IndicatorShortName: Food Price Inflation
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 1.3.3
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Reduce reliance on food imports through import substitution
+  for food products that can be produced domestically
+PolicyObjectiveId: ENV 1.3
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: The food price index (FPI) measures the changes in prices that households
+  pay for food.
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 2.c.1 (Tier 3)
+SourceTag: null
+TargetDescription: 'Target TBD after baseline established '

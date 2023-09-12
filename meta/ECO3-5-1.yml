@@ -1,0 +1,51 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: Number of report  Of current year/total number of report since
+  2016 until current
+ComputationUnit: total count
+Concept: Rural economics include farm and non-farm industry, economic growth, change
+  size and spatial distribution of production and household units, and development
+  occurring in rural areas.
+DataSource: department of finance and treasury.
+Definition: 'Rural economic is the study of rural production, distribution, and consumption
+  of goods & services. '
+Dissaggregation: '*National
+
+  * pervious & current year'
+FrequencyOfCollection: '*Quarterly
+
+  *Monthly
+
+  *Annually'
+FrequencyofCollection: null
+GoalDescription: A strong rural economy that creates opportunities, enables the development
+  of rural communities and increasingly contributes to national prosperity
+GoalId: 3
+IndicatorDescription: Total annual number of rural economic analysis reports published
+IndicatorId: ECO 3.5.1
+IndicatorShortName: Rural Economic Analysis Reporting
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ECO 3.5.1
+OtherDemandSources: null
+PillarDescription: Economy
+PillarName: Economy
+PolicyLinkage: null
+PolicyObjectiveDescription: ' Improve the collection, analysis and dissemination of
+  market data on the rural economy and communities'
+PolicyObjectiveId: ECO 3.5
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: "\_* Rural economy holds significant potential for creating decent and\
+  \ productive jobs and contributing to sustainable development and economic growth.\n\
+  \n* The promotion of decent work in the rural economy is the key to eradicate poverty\
+  \ and ensuring that the nutritional needs of a growing global population are met."
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 2.c.1(tier 3)
+SourceTag: null
+TargetDescription: By 2030 will increase by 15%

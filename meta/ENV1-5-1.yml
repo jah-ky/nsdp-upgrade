@@ -1,0 +1,57 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: "p = x / n\nWhere:\n\u201Cx\u201D is the number of items you\u2019\
+  re interested in, and\n\u201Cn\u201D is the total number of items in the population\n\
+  Note: While \u201Cp\u201D is usually used as the symbol for the population proportion,\
+  \ you might also see the letter pi(\u03C0) used instead.\n"
+ComputationUnit: 'Total count & percentage (%) '
+Concept: The application of meteorology to agriculture is essential, since every facet
+  of agricultural activity depends on the weather. This indicator will be studied
+  to determine the proportion of producers that have undergone Agro-Met training.
+  which is related to enhancing traditional agricultural practices that aims to address
+  disaster risk reduction and climate change adaptation.
+DataSource: Vanuatu Agriculture Census
+Definition: 'Agrometeorology is the study of weather and use of weather and climate
+  information to enhance or expand agricultural crops and/or to increase crop production.
+  Producers who undergone Agro-met training will benefit the producers a lot in terms
+  of maximising profits at the same time addressing disaster risk reduction, and climate
+  change adaptation response to global warming. '
+Dissaggregation: 'Education level, Sex, Age, Area council level, Provincial level,
+  National level
+
+  '
+FrequencyOfCollection: 10 years
+FrequencyofCollection: null
+GoalDescription: 'A nation that ensures our food and nutrition security needs are
+  adequately met for all people through increasing sustainable food production systems
+  and improving household production '
+GoalId: 1
+IndicatorDescription: Proportion of producers across the productive sector that have
+  undergone Agro-Met training.
+IndicatorId: ENV1.5.1
+IndicatorShortName: Agro-Met Training of Productive Sector
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 1.5.1
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Enhance traditional agricultural practices, focusing on
+  disaster risk reduction and climate change adaptation.
+PolicyObjectiveId: ' ENV 1.5'
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: 'The rationale is to highlight the proportion of people who have undergone
+  Agro-Met training all across the productive sector in order to promote traditional
+  agricultural practices to address the disaster risk reduction and climate change
+  adaptation. '
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: "2.3.1 \n(Tier 3) , 2.3.2 (Tier 3)"
+SourceTag: null
+TargetDescription: Agriculture Census Information required.

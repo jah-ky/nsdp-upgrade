@@ -1,0 +1,127 @@
+﻿Proxy: 'No'
+Definition: >+
+  Labor force participation measures an economy’s active labor force and refers
+  to the number of people who are either employed or are actively looking for
+  work.
+
+  It is also defined as the section of working population in the age group of
+  16-64 in the economy.
+
+
+  The working population in different sectors can be defined as follows:
+
+
+  1. Agriculture, Forestry, and Fisheries Sector: The working population in the
+  agriculture, forestry, and fisheries sector comprises individuals who are
+  employed in activities related to agricultural production, forestry, and
+  fisheries management. This includes farmers, farm laborers, agricultural
+  technicians, foresters, forest rangers, fishers, fish farmers, and other
+  workers involved in tasks specific to these sectors.
+
+
+  2. Industry Sector: The working population in the industry sector refers to
+  individuals who are engaged in activities related to manufacturing,
+  construction, mining, and other industrial processes. This sector involves the
+  conversion of raw materials into finished goods, the construction of
+  infrastructure and buildings, and the extraction of natural resources. The
+  working population in this sector includes factory workers, engineers,
+  technicians, construction workers, miners, and individuals involved in
+  manufacturing, production, assembly, and related industrial activities.
+
+
+  3. Service Sector: The working population in the service sector consists of
+  individuals employed in various service-oriented industries, which focus on
+  providing intangible services rather than tangible goods. This sector includes
+  professions such as retail, hospitality, finance, education, healthcare,
+  transportation, entertainment, and more. The working population in the service
+  sector includes retail workers, hotel staff, bankers, teachers, nurses,
+  drivers, artists, and individuals involved in customer service,
+  administration, professional services, and other service-related activities.
+
+Concept: >
+  The working population in the agriculture, forestry, and fisheries sector,
+  industry sector, and service sector plays a crucial role in creating a
+  business environment and generating employment opportunities in Vanuatu.
+  Here's a summary of how each sector contributes:
+
+
+  1. Agriculture, Forestry, and Fisheries Sector: This sector provides
+  opportunities for entrepreneurs by supporting agricultural production,
+  forestry activities, and fisheries management. Entrepreneurs can engage in
+  farming, livestock rearing, forestry management, timber production, fish
+  farming, and seafood processing. The sector offers employment to a significant
+  portion of the population, enabling entrepreneurs to establish businesses and
+  contribute to the country's food security, raw material supply, and export
+  potential.
+
+
+  2. Industry Sector: The industry sector in Vanuatu involves manufacturing,
+  construction, and mining activities. Entrepreneurs can establish factories,
+  production facilities, construction companies, and mining operations. This
+  sector creates employment opportunities for workers, engineers, technicians,
+  and skilled laborers. Entrepreneurs in industries such as manufacturing can
+  contribute to the country's economic growth by producing goods for local
+  consumption and export.
+
+
+  3. Service Sector: The service sector in Vanuatu encompasses a wide range of
+  industries, including retail, hospitality, finance, education, healthcare,
+  transportation, and entertainment. Entrepreneurs can establish businesses such
+  as retail stores, hotels, restaurants, financial services, educational
+  institutions, healthcare facilities, and tourism-related enterprises. The
+  service sector is a significant source of employment, providing opportunities
+  for entrepreneurs to offer services and cater to the needs of the local
+  population and tourists.
+
+
+  Overall, the working population in these sectors enables a vibrant business
+  environment in Vanuatu. It creates opportunities for entrepreneurs to
+  establish and grow businesses, contributing to economic development, job
+  creation, and improved livelihoods. The agriculture, forestry, and fisheries
+  sector provide essential resources, while the industry and service sectors
+  offer diverse economic activities. Entrepreneurs can leverage these sectors to
+  harness the country's natural resources, cultural heritage, and
+  service-oriented industries, driving sustainable growth and prosperity in
+  Vanuatu.
+Disaggregation: ''
+Rationale: |-
+  * To measure the wages and benefits 
+  * For policy making 
+  * For job security & protection
+MethodOfComputation: >-
+  To compute the working population in Vanuatu using census data, you can follow
+  these steps:
+
+
+  Obtain Census Data: Access the latest available census data for Vanuatu, which
+  provides information on population demographics, employment status, and
+  occupation. The census data should include details on the working population
+  and their distribution across sectors.
+
+
+  Identify Relevant Categories: Look for specific categories or variables in the
+  census data that capture employment status and occupation. These categories
+  may include "employed," "unemployed," "labor force," or similar indicators
+  that differentiate between individuals who are part of the working population
+  and those who are not.
+
+
+  Extract Sector-specific Information: Within the working population category,
+  focus on extracting data related to the agriculture, forestry, and fisheries
+  sector, the industry sector, and the service sector. This can be done by
+  identifying occupation codes or job categories that correspond to these
+  sectors in the census data.
+
+
+  Tabulate the Data: Calculate the number of individuals falling within each
+  sector by summing up the counts or percentages associated with the identified
+  categories. This will provide you with the working population figures for the
+  agriculture, forestry, and fisheries sector, the industry sector, and the
+  service sector separately.
+SDGAlignment: '8.8, 8.8.1, 8.8.2'
+UnitOfMeasurement: percentage (%)
+FrequencyOfCollection: National Population & Housing Census (10 years)
+source_organisation_1: |
+  2020 Population and Household Census , VBOS
+source_organisation_2: ''
+source_organisation_3: ''

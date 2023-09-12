@@ -1,0 +1,124 @@
+﻿Proxy: 'NO'
+Definition: >-
+  Value and volume of national trade, often referred to as merchandise trade,
+  are measures used to assess the flow of goods traded between countries.
+
+
+  1. Value of national trade: The value of national trade represents the
+  monetary worth or financial value of goods traded between countries over a
+  specific period. It is usually measured in terms of the total import and
+  export values, reflecting the prices at which goods are bought and sold in
+  international markets. The value of national trade provides insights into the
+  economic significance of trade activities and the financial impact on
+  participating countries.
+
+
+  2. Volume of national trade: The volume of national trade refers to the
+  physical quantity or quantity of goods traded between countries, irrespective
+  of their monetary value. It is often measured in terms of weight, quantity, or
+  unit of measurement (e.g., tons, barrels, units). The volume of national trade
+  helps analyze the physical scale and magnitude of trade flows, indicating the
+  actual quantities of goods exchanged between nations.
+
+
+  Both the value and volume of national trade are crucial indicators in
+  understanding the scale, dynamics, and economic impact of international trade.
+  While the value reflects the monetary worth of traded goods, the volume
+  provides insights into the physical quantities involved, allowing for a more
+  comprehensive analysis of trade patterns and their implications for economic
+  growth and development.
+Concept: >-
+  The main concept behind the indicator "value and volume of national
+  trade/merchandise trade" is to capture and analyze the flow of goods exchanged
+  between countries. It focuses on assessing the monetary value and physical
+  quantity of traded goods, providing insights into the economic significance,
+  scale, and dynamics of international trade. Monitoring the value and volume of
+  national trade helps understand the commercial relationships between nations,
+  identify trade patterns, analyze economic performance, and inform policy
+  decisions related to international trade.
+Disaggregation: Exports & Re-exports
+Rationale: >-
+  The rationale behind monitoring the indicator "value and volume of national
+  trade/merchandise trade" is to gain a comprehensive understanding of the
+  economic impact and dynamics of international trade. It serves several key
+  purposes:
+
+
+  1. Economic Performance: Tracking the value and volume of national trade helps
+  assess a country's economic performance and its integration into the global
+  economy. Increasing trade volumes and values often indicate economic growth
+  and prosperity, while declining figures can signal potential challenges.
+
+
+  2. Trade Patterns: Analyzing the value and volume of national trade enables
+  the identification of trade patterns, such as the types of goods being traded,
+  the countries involved, and the direction of trade flows. This information is
+  valuable for identifying comparative advantages, evaluating market
+  opportunities, and optimizing trade strategies.
+
+
+  3. Policy Decisions: Governments and policymakers rely on data related to the
+  value and volume of national trade to make informed decisions. It helps shape
+  trade policies, negotiate trade agreements, assess the impact of tariffs and
+  barriers, and develop strategies to promote domestic industries and exports.
+
+
+  4. Global Economic Relations: Understanding the value and volume of national
+  trade enhances the comprehension of a country's position in global economic
+  relations. It allows for benchmarking against other countries, analyzing
+  competitiveness, and identifying potential areas for cooperation or economic
+  diversification.
+
+
+  5. Economic Integration: Monitoring trade values and volumes assists in
+  assessing the degree of economic integration between countries. It provides
+  insights into the interdependencies and connections established through trade
+  relationships, contributing to the evaluation of regional economic integration
+  efforts and the overall globalization of markets.
+
+
+  By tracking the value and volume of national trade, policymakers, economists,
+  businesses, and researchers gain valuable insights into the economic health,
+  competitiveness, and opportunities associated with international trade. It
+  helps inform strategic decisions, facilitates economic growth, and promotes
+  sustainable development
+MethodOfComputation: >-
+  The methods of computation for tracking the value and volume of national
+  trade, also known as merchandise trade, involve collecting data from various
+  sources such as customs records, trade statistics, and national accounts. The
+  specific methodologies may vary across countries, but here are the general
+  approaches used:
+
+
+  1. Value of national trade: The value of national trade is calculated by
+  adding the total export values and total import values for a specific time
+  period. These values are typically obtained from customs data or trade
+  databases, where the prices of exported and imported goods are recorded. The
+  total export value represents the monetary worth of goods sold to other
+  countries, while the total import value represents the monetary worth of goods
+  purchased from other countries.
+
+
+  2. Volume of national trade: The volume of national trade refers to the
+  physical quantity or quantity of goods traded. It is often measured using
+  units such as weight (e.g., tons), quantity (e.g., number of units), or other
+  relevant metrics. The volume of trade is typically obtained through data on
+  the physical quantities of goods exported and imported. This data can be
+  derived from various sources, such as trade surveys, shipping records, or
+  official statistics.
+
+
+  To calculate the volume of national trade, the physical quantity of each
+  traded item is aggregated for a specific time period. This allows for the
+  determination of the total volume of goods exported and imported by Vanuatu.
+SDGAlignment: |-
+  8.a
+  8.a.1 (Tier 1)
+UnitOfMeasurement: Vatu in million
+FrequencyOfCollection: Annual
+source_organisation_1: |-
+  2018 QSI December (p15, added total volume reported in tonnes), VNSO
+  2020 QSI December (added total volume reported in tonnes), VBOS
+  2021 QSI December ( added total volume reported in tonnes), VBOS
+source_organisation_2: ''
+source_organisation_3: ''

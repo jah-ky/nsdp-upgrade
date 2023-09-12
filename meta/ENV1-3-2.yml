@@ -1,0 +1,60 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: The Domestic Food Price Level Index is calculated by dividing the
+  Food Purchasing Power Parity (FPPP) by the General PPP, thus providing an index
+  of the price of food in the country relative to the price of the generic consumption
+  basket
+ComputationUnit: 'Ratio
+
+  Percentage
+
+  '
+Concept: Consumer food price indices are used by variety of national labour and statistical
+  agencies, as well as large international organisations such as FAO and ILO
+DataSource: VNSO (CPI), Department of Agriculture
+Definition: This Indicator is part of the FAO Suite of Food Security indicator in
+  the dimension access.
+Dissaggregation: 'Domestic Market, Municipal Market, Rural/Island/Outer Market, VCMB '
+FrequencyOfCollection: ''
+FrequencyofCollection: null
+GoalDescription: 'A nation that ensures our food and nutrition security needs are
+  adequately met for all people through increasing sustainable food production systems
+  and improving household production '
+GoalId: ENV 1
+IndicatorDescription: Domestic food price level
+IndicatorId: ENV 1.3.2
+IndicatorShortName: Domestic Food Price Level
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 1.3.2
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: 'Reduce reliance on food imports through import substitution
+  for food products that can be produced domestically '
+PolicyObjectiveId: ENV 1.3
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: "Domestic food price level index is an important indicator for global monitoring\
+  \ of food security because it compares the relative\u2019s price of food across\
+  \ countries and over time"
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 2.3.1 (Tier 3 ),  2.3.2 (Tier 3 )
+SourceTag: null
+TargetDescription: 'Target TBD after baseline established '
+source_active_1: true
+source_active_2: true
+source_active_3: true
+source_active_4: true
+source_active_5: true
+source_organisation_1: 2012 CPI Report 4th Quarter, VNSO
+source_organisation_2: 2017 CPI Report 4th Quarter, VNSO
+source_organisation_3: 2010 CPI Report 4th Quarter, VNSO
+source_organisation_4: 2018 CPI Report 4th Quarter, VNSO
+source_organisation_5: 2008 CPI Report 4th Quarter, VNSO
