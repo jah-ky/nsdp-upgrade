@@ -1,0 +1,117 @@
+﻿Proxy: ''
+Definition: >+
+  refers to the percentage or fraction of a population that has the knowledge
+  and abilities to engage in fundamental traditional activities associated with
+  weaving, transportation, construction of housing, farming, and food
+  preparation.
+
+
+  Here's a breakdown of each component:
+
+
+  Weaving: This refers to the skill of creating fabric or textiles by
+  interlacing threads or yarns together. Traditional weaving techniques are
+  often passed down through generations and involve the use of looms or other
+  tools.
+
+
+  Transport: This encompasses the knowledge and skills related to traditional
+  methods of transportation, such as using animals, carts, boats, or other
+  non-motorized means to move people or goods from one place to another.
+
+
+  Housing: This pertains to the skills involved in constructing traditional
+  housing structures using locally available materials and techniques specific
+  to a particular region or culture.
+
+
+  Farming: This includes the basic agricultural skills required for cultivating
+  crops, raising livestock, and managing land using traditional methods and
+  practices, which often rely on manual labor and non-mechanized tools.
+
+
+  Food preparation: This refers to the abilities and knowledge needed to process
+  and prepare food using traditional techniques, such as cooking, preserving,
+  fermenting, and other methods that have been passed down through generations.
+
+Concept: >-
+  The concept behind the indicator "Proportion of population possessing common
+  and basic traditional production skills related to weaving, transport,
+  housing, farming, food preparation" is to assess the extent to which a
+  population retains and maintains traditional knowledge and skills in essential
+  areas of production. It aims to capture the level of proficiency and
+  continuity of traditional practices within a community or society.
+
+
+  This indicator recognizes the value of traditional production skills that have
+  been passed down through generations and are deeply rooted in cultural
+  heritage. It emphasizes the importance of preserving and promoting these
+  skills, as they often represent sustainable and resource-efficient methods of
+  production that have stood the test of time.
+Disaggregation: 'household, individual, national, province, region, sex.'
+Rationale: >+
+  The proportion of population possessing these common and basic traditional
+  production skills indicates the extent to which a particular society or
+  community has retained and continues to practice traditional knowledge and
+  practices in these areas. It can provide insights into cultural heritage,
+  self-sufficiency, and the sustainability of traditional ways of life.
+
+
+  By measuring the proportion of the population possessing these common and
+  basic traditional production skills, policymakers and researchers can gain
+  insights into several key aspects:
+
+
+  Cultural preservation: The indicator reflects the degree to which cultural
+  traditions, practices, and knowledge are maintained within a society. It
+  highlights the continuity of skills that have been developed and refined over
+  generations, contributing to cultural identity and heritage.
+
+
+  Self-sufficiency and resilience: Traditional production skills often embody
+  self-reliance and resilience, as they are typically adapted to local
+  environments and resources. The indicator assesses the ability of a population
+  to meet its basic needs through traditional methods, which can contribute to
+  food security, housing, and other essential aspects of life.
+
+
+  Sustainability and environmental impact: Many traditional production skills
+  are characterized by sustainable practices that minimize environmental impact.
+  For example, traditional farming techniques often prioritize organic farming,
+  agroecological principles, and water conservation. By measuring the proportion
+  of the population possessing these skills, the indicator indirectly reflects
+  the level of sustainable practices within a community.
+
+
+  Economic implications: Traditional production skills can also have economic
+  significance. They may contribute to local and traditional industries, crafts,
+  tourism, and cultural exchanges. The indicator can help identify opportunities
+  for economic development and support traditional livelihoods.
+
+
+  By monitoring changes in the proportion of the population possessing these
+  skills over time, policymakers can gauge the impact of modernization,
+  globalization, and other factors that may influence the preservation or
+  decline of traditional knowledge. It can inform the design of policies and
+  interventions aimed at preserving cultural heritage, promoting sustainable
+  practices, and supporting the well-being of communities engaged in traditional
+  production activities.
+
+
+
+
+
+
+
+MethodOfComputation: >-
+  number of people with knowledge of basic traditional production skills related
+  to weaving, transport, housing, farming, food preparation divide by the total
+  sample population surveyed then multiplied by 100 to find the percentage value
+SDGAlignment: |-
+  11.4
+  11.4.1 (Tier 3)
+UnitOfMeasurement: Percentage (%)
+FrequencyOfCollection: NSDP survey - 5 Years
+source_organisation_1: 2010 Pacific Living Conditions Survey (Hybrid) - VNSO and SPC
+source_organisation_2: 2012 Melanesian Well-being Indicators Pilot Study Report - VNSO
+source_organisation_3: 2020 NSDP Survey

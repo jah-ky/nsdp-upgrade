@@ -1,0 +1,30 @@
+﻿Proxy: ''
+Definition: >-
+  The term “first language” refers to the language a person is most familiar
+  with and most accustomed to speaking. Usually, it is the language that a
+  person hears and eventually learns in the following years after he was born.
+  The term is largely differentiated from other terms such as the “mother
+  tongue,” as this generally refers to the language of a collective group, not
+  of a person.
+Concept: >-
+  The concept of the indicator "proportion of population first language learned
+  indigenous" refers to a specific measure used to assess the percentage of a
+  population that acquired their first language from indigenous communities. 
+Disaggregation: 'National, Province, Region, Sex'
+Rationale: >-
+  This indicator focuses on tracking the linguistic heritage and cultural
+  continuity of indigenous communities within a nation. It provides insights
+  into the preservation and transmission of indigenous languages to future
+  generations.
+MethodOfComputation: >-
+  number of people who identified indigenous language as first language divide
+  by the total sample population surveyed then multiplied by 100 to find the
+  percentage value.
+SDGAlignment: |-
+  11.4
+  11.4.1 (Tier 3)
+UnitOfMeasurement: percentage (%)
+FrequencyOfCollection: NSDP Baseline Survey - 5 Years
+source_organisation_1: 2012 Melanesian Well-being Indicators Pilot Study Report - VNSO
+source_organisation_2: 2020 NSDP Baseline Survey - VBOS
+source_organisation_3: ''

@@ -1,0 +1,53 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: "To retrieve all findings and data on NAB based on;\n\u2022 Review\
+  \ of policies, guidelines and positions.\n\u2022 Provide advice on disaster risk\
+  \ reduction and climate change obligations, projects,initiatives and activities.\n\
+  \u2022 Review of audit report of the development of national climate finance processes.\n\
+  \u2022 Review of guidelines and coordination to the development of climate finance\
+  \ processes."
+ComputationUnit: ''
+Concept: "The NAB develops DRR and CC policies, guidelines and positions, advises\
+  \ on international and regional DRR and CC obligations, facilitates and endorses\
+  \ the development of new DRR & CC programs, projects, initiatives and activities,\
+  \ acts as a focal point for information \u2010 sharing and coordination on CC/DRR,\
+  \ as well as guides and coordinates the development of national climate finance\
+  \ processes."
+DataSource: Vanuatu National Advisory Board
+Definition: "Vanuatu\u2019s National Advisory Board on Climate Change & Disaster Risk\
+  \ reduction (NAB) is the supreme policy making and advisory body for all disaster\
+  \ risk reduction and climate change programs, projects, initiatives and activities."
+Dissaggregation: Area council, Rural/Urban, Provincial, National
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: A strong and resilient nation in the face of climate change and disaster
+  risks posed by natural and man-made hazards.
+GoalId: 3
+IndicatorDescription: Institutional strengthening of NAB, Department of Climate Change
+  and other MoCC departments.
+IndicatorId: ENV3.1.2
+IndicatorShortName: Government Finance Support for Staff of NAB and DoCC
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 3.1.2
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Institutionalise climate change and disaster risk governance,
+  and build institutional capacity and awareness.
+PolicyObjectiveId: ENV 3.1
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: "The study will highly address the Vanuatu\u2019s society, environment,\
+  \ and economy which are highly vulnerable to climate change and disaster risks."
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: ''
+SourceTag: null
+TargetDescription: By 2030 100% of DoCC and National Advisory Board secretariat staff
+  financed by the government.

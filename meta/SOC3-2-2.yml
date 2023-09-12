@@ -1,0 +1,34 @@
+﻿TargetDescription: |2-
+   By 2020, the incidence of TB in Vanuatu has reduced by 20% compared to 2015 
+   By 2025-50% reduction 
+   By 2030- 80% reduction
+SDGAlignment: '' 
+Definition: >-
+  The tuberculosis incidence per 100,000 population as defined as the estimated
+  number of new and relapse TB cases (all forms of TB, including cases in people
+  living with HIV) arising in a given year, expressed as a rate per 100 000
+  population.
+Concept: >-
+  Direct measurement requires high-quality surveillance systems in which
+  underreporting is negligible, and strong health systems so that
+  under-diagnosis is also negligible; otherwise indirect estimates are based on
+  notification data and estimates of levels of underreporting and
+  under-diagnosis.
+Rationale: >-
+  The overall goal is to “End the global tuberculosis epidemic”, and
+  correspondingly ambitious targets for reductions in tuberculosis deaths and
+  cases are set for 2030 (80% reduction in incidence rate compared with the
+  level of 2015) and 2035 (90% reduction in incidence rate), in the context of
+  the SDGs.
+ComputationMethod: (number of TB incidence) / (total pop) X 100
+ComputationUnit: Percentage (%)
+Proxy: 'Yes'
+Disaggregation: |-
+  •  Age
+  • Geographic location
+  • Sex
+DataSource: Health Information System  (HIS)
+FrequencyOfCollection: Monthly & Annually
+source_organisation_1: 'Vanuatu Ministry of Health - Health Data, TB/Leprosy Unit (from M&E framework)'
+source_organisation_2: ''
+source_organisation_3: ''

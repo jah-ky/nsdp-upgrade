@@ -1,0 +1,50 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: '* All you need to do is subtract your current year number by last
+  year''s number, then divide by last year''s number. Then, you multiply the resulting
+  figure by 50, which provides you with a percentage figure.'
+ComputationUnit: percentage (%)
+Concept: Annual number of public officials receiving relevant qualifications through
+  VIPAMS and other government programs will determine whether or not there is enough
+  capacity and accountability of public officials and whether or not there is impartiality
+  and effectiveness of the performance management systems.
+DataSource: VIPAM, PSC
+Definition: "VIPAM \u2013 The role and function of the Vanuatu Institute of Administration\
+  \ and the public administration management unit is to assist people connected to\
+  \ the Vanuatu Public Service build their general knowledge and skills and provide\
+  \ advice on HRD policies. PSC training courses are coordinated and managed by VIPAM\
+  \ unit"
+Dissaggregation: National level
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: A dynamic public sector with good governance principles and strong
+  institutions delivering the support and services expected by all citizens of Vanuatu.
+GoalId: 6
+IndicatorDescription: Annual number of public officials receiving relevant qualifications
+  through VIPAM and other government programs.
+IndicatorId: SOC6.1.2
+IndicatorShortName: Public Officials Trained Annually
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: SOC 6.1.2
+OtherDemandSources: null
+PillarDescription: Society
+PillarName: Society
+PolicyLinkage: null
+PolicyObjectiveDescription: Enhance the capacity and accountability of public officials,
+  and ensure the impartiality and effectiveness of performance management systems
+PolicyObjectiveId: SOC 6.1
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: To depict the total number of public officials receiving relevant qualifications
+  through VIPAM and other government programs each year to identify any increase over
+  the years or not at all.
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 16.6.2 (Tier 3)
+SourceTag: null
+TargetDescription: By 2030 reduce by 50%

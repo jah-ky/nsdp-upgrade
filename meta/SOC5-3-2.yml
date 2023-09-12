@@ -1,0 +1,50 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: 'Sum of national security forces * 100
+
+  Target number of NSF by 2020 '
+ComputationUnit: percentage (%)
+Concept: Originally conceived as protection against military attack, national security
+  is now widely understood to include also non-military dimensions, including the
+  security from terrorism, minimization of crime, economic security, energy security,
+  environmental security, food security, cyber-security etc. Similarly, national security
+  risks include, in addition to the actions of other nation states, action by violent
+  non-state actors, by narcotic cartels, and by multinational corporations, and also
+  the effects of natural disasters.
+DataSource: Vanuatu police force
+Definition: Security forces - National security or national defence is the security
+  and defence of a nation state, including its citizens, economy, and institutions,
+  which is regarded as a duty of government.
+Dissaggregation: Rural/Urban, National, Sex ,Ethinicity, Age,
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: A society where the rule of law is consistently upheld, and access
+  to     timely justice is available to everyone.
+GoalId: 5
+IndicatorDescription: Total number of national security forces per 1,000 population.
+IndicatorId: SOC5.3.2
+IndicatorShortName: National Security Forces Ratio
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: SOC 5.3.2
+OtherDemandSources: null
+PillarDescription: Society
+PillarName: Society
+PolicyLinkage: null
+PolicyObjectiveDescription: Build the institutional capacity of national security
+  forces and ensure they are adequately resourced to meet performance targets.
+PolicyObjectiveId: SOC 5.3
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: 'This study will depict the total number of national security forces per
+  1,000 people inside Vanuatu and the difference between the total number of security
+  forces and the target which is 900 by 2020. '
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: ''
+SourceTag: null
+TargetDescription: 'reach 900 by 2020. '

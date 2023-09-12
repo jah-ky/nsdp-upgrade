@@ -1,0 +1,82 @@
+﻿Proxy: ''
+Definition: >-
+  The "Proportion of population that use traditional lands for agriculture,
+  marine, forestry, and livestock for consumption or customary purposes" is an
+  indicator that measures the percentage or fraction of a population that
+  engages in traditional land-based activities for agriculture, marine resource
+  utilization, forestry, and livestock rearing for consumption or customary
+  purposes.
+
+
+  Here's a breakdown of each component:
+
+
+  1. Agriculture: This refers to the practice of cultivating crops, raising
+  livestock, and managing land for the production of food, fiber, or other
+  agricultural products. Traditional agricultural practices often involve using
+  local seeds, organic fertilizers, and traditional farming techniques suited to
+  the local environment and cultural practices.
+
+
+  2. Marine resource utilization: This encompasses the utilization of marine or
+  aquatic resources such as fish, shellfish, seaweed, and other marine organisms
+  for consumption or other traditional purposes. It includes activities like
+  traditional fishing, gathering marine resources, and utilizing coastal
+  ecosystems sustainably.
+
+
+  3. Forestry: This involves the traditional use and management of forests and
+  forest resources for various purposes, including timber, non-timber forest
+  products, and ecosystem services. Traditional forestry practices often
+  prioritize sustainable harvesting methods, selective logging, and the
+  conservation of biodiversity and cultural values associated with forests.
+
+
+  4. Livestock rearing: This refers to the traditional rearing and management of
+  livestock, such as cattle, sheep, goats, or other animals, for consumption or
+  customary purposes. Traditional livestock practices often involve herding,
+  grazing on communal lands, and utilizing traditional knowledge for animal
+  husbandry.
+
+   
+Concept: >-
+  The indicator "Proportion of population that use traditional lands for
+  agriculture, marine, forestry, and livestock for consumption or customary
+  purposes" measures the percentage or fraction of a population that engages in
+  traditional land-based activities for agriculture, marine resource
+  utilization, forestry, and livestock rearing. It focuses on the population's
+  use of traditional lands for these purposes, highlighting the importance of
+  customary practices for sustenance, cultural continuity, and traditional
+  resource management. Monitoring this indicator helps assess the prevalence of
+  traditional land use practices, the impact of modernization on traditional
+  livelihoods, and the need for policies that support sustainable practices,
+  community resilience, and the protection of indigenous rights and cultural
+  heritage.
+Disaggregation: 'National, province, & region'
+Rationale: >-
+  The indicator aims to assess the proportion of the population that engages in
+  these traditional land-based activities, indicating the level of reliance on
+  traditional practices for sustenance, cultural continuity, and customary
+  purposes. It emphasizes the importance of preserving traditional knowledge,
+  sustainable resource management practices, and the cultural significance of
+  these activities.
+
+
+  Monitoring changes in this indicator provides insights into the continuity of
+  traditional land-based practices, the impact of modernization and
+  industrialization on traditional livelihoods, and the need for policies and
+  interventions that support sustainable traditional land use, community
+  resilience, and the protection of indigenous rights and cultural heritage.
+MethodOfComputation: >-
+  number of people  that use traditional lands for agriculture, marine,
+  forestry, and livestock for consumption or customary purposes divide by the
+  total sample population surveyed then multiplied by 100 to find the percentage
+  value
+SDGAlignment: |-
+  11.4
+  11.4.1
+UnitOfMeasurement: percentage
+FrequencyOfCollection: NSDP Survey - 5 Years
+source_organisation_1: 2012 Pacific Living Conditions Survey (Hybrid) - VNSO and SPC
+source_organisation_2: 2012 Melanesian Well-being Indicators Pilot Study Report - VNSO
+source_organisation_3: 2020 NSDP Survey

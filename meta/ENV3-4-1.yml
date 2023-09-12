@@ -1,0 +1,68 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: '(# of public schools using CC & D= RR modules in National curriculum)/(total
+  # of public schools ) X100'
+ComputationUnit: Percentage (%)
+Concept: "* Pacific island countries (PIC\u2019s) are highly exposed to natural disasters\
+  \ and Vanuatu is amongst these vulnerable countries in the Pacific prone to natural\
+  \ hazards. The ministry of Education and teaching services has tried its best to\
+  \ incorporate the climate change and Disaster risk reduction modules into the curriculum\
+  \ so that it is thought in all public schools throughout Vanuatu.\n\n*Despite the\
+  \ fact that Vanuatu is amongst the vulnerable countries prone to natural hazards,\
+  \ responsible institutions (MoCCA, MoET) play a tremendous role in making sure Vanuatu\
+  \ is strong and resilient to all types of disaster by introducing modules in schools\
+  \ to educate students to know more on climate change and DRR and be disaster resilient\
+  \ citizens.\n\n* Increase in introducing and educating schools with climate change\
+  \ (CC) and Disaster risk reduction (DRR) modules by in cooperating these modules\
+  \ into the teaching curriculum in Vanuatu.                                     \
+  \                                                                              \
+  \                                                                          "
+DataSource: VEMIS
+Definition: Climate change (CC) is the change in the global and regional patterns,
+  in particular a change apparent from the mid to late 20th centuries onwards and
+  is attributed largely to the increase levels of atmismospheric carbon dioxide produced
+  by the use of fossil fuels where as Disaster Risk Reduction (DRR) is a systematic
+  approach that is used to identify, asses and reduce the risk of disaster. It aims
+  to reduce the socio-economic vulnerabilities to disaster and at the same time dealing
+  with the environmental and other hazards that trigger them.
+Dissaggregation: Schools (Vocational/Primary/Secondary/College)
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: A strong and resilient nation in the face of climate change and disaster
+  risks posed by natural and man-made hazards
+GoalId: 3
+IndicatorDescription: 'Percentage of public schools using the climate change and disaster
+  risk reduction modules in national curriculum at all levels '
+IndicatorId: ENV 3.4.1
+IndicatorShortName: Public Schools Using CC & DRR Modules in National Curriculum
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 3.4.1
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Promote and ensure strengthened resilience and adaptive
+  capacity to climate related, natural and man-made hazards
+PolicyObjectiveId: ENV 3.4
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: '
+
+  * Indicates the number of schools around Vanuatu that have access to climate change
+  & disaster risk reduction modules at all levels of education.
+
+
+  * Promotes climate change and disaster risk reduction in public schools and educate
+  students the risks and possible measures to take in fight against climate change
+  and be of disaster resilient.'
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 13.3.1 (Tier 3), 13.3.2 (Tier 3)
+SourceTag: null
+TargetDescription: 85% of public schools using the climate change and disaster risk
+  reduction modules in national curriculum at all levels

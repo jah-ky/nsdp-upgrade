@@ -1,0 +1,59 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: "\u2022\tCollect data through data request forms from department\
+  \ of local authorities.\n\u2022\t p = x / n\nWhere:\n\u201Cx\u201D is the number\
+  \ of items you\u2019re interested in, and\n\u201Cn\u201D is the total number of\
+  \ items in the population\nNote: While \u201Cp\u201D is usually used as the symbol\
+  \ for the population proportion, you might also see the letter pi(\u03C0) used instead.\n\
+  \n\u2022 Whether it increase by 100% or not;\n All you need to do is subtract your\
+  \ current year number of submissions by last year's number of submissions, then\
+  \ divide by last year's report submissions. Then, you multiply the resulting figure\
+  \ by 100, which provides you with a percentage figure."
+ComputationUnit: percentage (%)
+Concept: "\u2022\tSOE\u2019s place a heavy burden on Vanuatu\u2019s economy. They\
+  \ absorb large amounts of scarce capital on which they provide very low returns,\
+  \ at the same time divert government resources away from vital social investments\
+  \ in health and education, and drive-up the costs of doing business where they are\
+  \ the sole service providers. Therefore, it is really important to identify the\
+  \ proportion of SOE\u2019s who have already submitted their annual reports because\
+  \ it can be used as a measure for performances of the SOE\u2019s which are aligned\
+  \ to the Government priorities. And also, to help with the reforms of State-Owned\
+  \ Enterprises in relation to their performances and the delivery of the services\
+  \ and support they provide to all citizens of Vanuatu. "
+DataSource: ''
+Definition: A state-owned enterprise (SOE) is a business enterprise where the government
+  or state has significant control through full, majority, or significant minority
+  ownership.
+Dissaggregation: National level
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: A dynamic public sector with good governance principles and strong
+  institutions delivering the support and services expected by all citizens of Vanuatu.
+GoalId: 6
+IndicatorDescription: Proportion of SOEs and Statutory bodies submitting annual reports
+  to their boards of directors.
+IndicatorId: SOC6.2.1
+IndicatorShortName: SOE Annual Report Submissions to Boards
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: SOC 6.2.1
+OtherDemandSources: null
+PillarDescription: Society
+PillarName: Society
+PolicyLinkage: null
+PolicyObjectiveDescription: Reform State Owned Enterprises and statutory bodies to
+  improve performance that is aligned to government priorities
+PolicyObjectiveId: SOC 6.2
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'Yes'
+Purpose/Rationale: null
+Range: null
+Rationale: "To depict the number of SOE\u2019s who have already submitted their annual\
+  \ reports to the board of directors for monitoring and evaluation purposes."
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: ''
+SourceTag: null
+TargetDescription: "By 2030 \u2013 100%"

@@ -1,0 +1,72 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: (The number of directives of the national land use planning policy
+  implemented)/ (the total number of directives of the national land use planning
+  policy) * 100
+ComputationUnit: Percentage (%)
+Concept: '* Objective of planning land use is to influence, control or direct changes
+  in the use of land, so that it is dedicated to the most beneficial use while maintaining
+  the quality of the environment and promoting conservation of the land resources.
+
+
+  * Goals of land use planning may include environmental conservation, restraint of
+  urban sprawl, minimization of transport costs, prevention of land use conflicts,
+  and a reduction in exposure to pollutants. By and large, the uses of land determine
+  the diverse socioeconomic activities that occur in a specific area, the patterns
+  of human behaviour they produce, and their impact on the environment.'
+DataSource: 'Port vila municipal council
+
+  luganville municipal council
+
+  Provincial government authorities
+
+  department of lands & natural resources'
+Definition: '* Land use planning is the process of regulating the use of land in an
+  effort to promote more desirable social and environmental outcomes as well as a
+  more efficient use of resources.
+
+
+  * Also, the process by which optimum forms of land use and management are indicated,
+  considering the biophysical, technological, social, economic and political conditions
+  of a particular territory. '
+Dissaggregation: 'Area council
+
+  Urban/Rural
+
+  Province
+
+  National'
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: A nation which utilises and sustainably manages our land, water and
+  natural resources
+GoalId: 4
+IndicatorDescription: Proportion of directives of the national land use planning policy
+  implemented.
+IndicatorId: ENV 4.1.2
+IndicatorShortName: Implementation of National Land Use Planning Policy Directives
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 4.1.2
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Strengthen local authorities and municipal planning authorities
+  to enact and enforce land use planning laws and regulations
+PolicyObjectiveId: ENV 4.1
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: "* Planning policy are design to ensure a high quality of development is\
+  \ maintained through consistent decision making and the processing of development\
+  \ applications in fair and equitable manner. \n\n* To promote more desirable social\
+  \ and environmental outcomes as well as a more efficient use of resources."
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 11.b.1 (Tier 3), 11.b.2 (Tier 2)
+SourceTag: null
+TargetDescription: 50% of the directives to be implemented by 2025

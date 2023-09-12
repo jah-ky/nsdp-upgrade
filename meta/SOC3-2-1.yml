@@ -1,0 +1,22 @@
+﻿TargetDescription: >-
+  By 2020, the prevalence of diabetes amongst the adult population is < 23 total
+  cases (excluding digits) ? By 2025 there is no increase in the prevalence of
+  diabetes and as such in diabetic lower-limb amputations relative to 2020
+  figures (excluding digits)
+SDGAlignment: ''
+Definition: "The number of People living with\_diabetes, they have an increased risk of lower limb\_amputation.\_"
+Concept: "A nonhealing ulcer that causes severe damage to tissues and bone may require surgical removal (amputation) of a\_toe, foot or part of a leg. Some people with diabetes\_are more at risk than others. Factors that lead to an increased risk of an amputation\_include High blood sugar levels."
+Rationale: >-
+  In some cases, diabetes can lead to peripheral artery disease (PAD). PAD
+  causes your blood vessels to narrow and reduces blood flow to your legs and
+  feet. It may also cause nerve damage, known as peripheral neuropathy. The most
+  common amputations in people with diabetes are the toes, feet, and lower legs.
+ComputationMethod: (number of diabetic amputation)/(total pop) X 100
+ComputationUnit: percentage (%)
+Proxy: 'No'
+Disaggregation: "•\tAge\n•\tGeographic location\n•\tSex"
+DataSource: Health Information System Ministry of Health Vanuatu
+FrequencyOfCollection: 'Monthly & Annually '
+source_organisation_1: ''
+source_organisation_2: ''
+source_organisation_3: ''

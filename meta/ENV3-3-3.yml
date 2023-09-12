@@ -1,0 +1,62 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: 'Number of multi-hazard and risk maps to improve Post-Disaster
+  Needs Assessment '
+ComputationUnit: Total Count
+Concept: Multi-hazard and risk maps are adopted for assessing the multiple risks of
+  11 hazards-earthquake, volcano, landside, flood, storm surge, sand-dust storm, tropical
+  cyclone, drought, heat wave, cold wave and wildlife.
+DataSource: 'Natural Disaster and management Office (Administrative data), Department
+  of Environment
+
+
+
+  * Natural Disaster and management office
+
+  * Deparment of Environment *Community Disaster Committess (CDC)'
+Definition: Multi-hazard risk assessments aim at assessing the total risk of various
+  types of hazards happened in an area in a period of time.
+Dissaggregation: '* Area Council Level
+
+  * Rural/Urban
+
+  * Provincial Level
+
+  * National Level'
+FrequencyOfCollection: ''
+FrequencyofCollection: null
+GoalDescription: A strong and resilient nation in the face of climate change and disaster
+  risks posed by natural and man-made hazards.
+GoalId: ENV 3
+IndicatorDescription: Number of multi-hazard and risk maps to improve Post-Disaster
+  Needs Assessment.
+IndicatorId: ENV 3.3.3
+IndicatorShortName: Post-Disaster Needs Assment Multi-Hazard and Risk Map
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 3.3.3
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: 'Strengthen post-disaster systems in planning, preparedness,
+  response and recovery. '
+PolicyObjectiveId: ENV 3.3
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: 'The 2030 Agenda for Sustainable Development recognizes that natural disasters
+  can be a barrier to realizing the development goals. Earthquakes, landslides, floods,
+  and droughts have destructive impacts on overall country macroeconomic factors and
+  further unreasonably affect the poor and lowered groups. Therefore, it is imperative
+  to develop multi-hazard assessments that address and map both physical and social
+  vulnerabilities.  '
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: ''
+SourceTag: null
+TargetDescription: Number of multi-hazard and risk maps to improve Post-Disaster Needs
+  Assessment.

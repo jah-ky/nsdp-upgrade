@@ -1,0 +1,57 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: Total count of declared water protection zones
+ComputationUnit: Total Count
+Concept: Water protection zone are established by the government department in charge
+  which set out restrictions to the water zone protection area, these restrictions
+  are backed up by criminal penalties, thereby providing additional legal powers to
+  deal with activities which are believed to be causing pollution.
+DataSource: '* Department of Water Resources
+
+  * Department of Environmental protection  & conservation
+
+  * Unelco  & Vui'
+Definition: "* Prohibiting, or imposing conditions on specific activities which are\
+  \ thought to be causing pollution in the area concerned. \n\n* It is the obligation\
+  \ that a country or state took action to bring surface and groundwater within their\
+  \ territory into good condition, also known as to achieve good status. "
+Dissaggregation: 'Area council
+
+  Urban/Rural
+
+  Province
+
+  National'
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: A nation which utilises and sustainably manages our land, water and
+  natural resources
+GoalId: 4
+IndicatorDescription: Number of declared water protection zones.
+IndicatorId: ENV 4.2.1
+IndicatorShortName: Water Protection Zones Declared
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 4.2.1
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Protect vulnerable forests, watersheds, catchments and
+  freshwater resources, including community water sources.
+PolicyObjectiveId: ENV 4.2
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: Declaring water protection zone is very significant for protection from
+  contamination which polluted and poising water that can lead to different health
+  issues. Hence, protection Zone helps promote a clean and safe water to drink so
+  lead to a healthier population.
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 12.2.1 (Tier 2)
+SourceTag: null
+TargetDescription: 6 water protection zone declared

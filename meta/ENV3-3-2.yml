@@ -1,0 +1,59 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: (Number of climate change and disaster affected communities with
+  durable solutions divided by total number climate change and disaster affected communities)
+  x 100
+ComputationUnit: Percentage (%)
+Concept: Climate disasters occur when extreme climatic events interact with vulnerable
+  social, economic and environmental conditions leading to severe alterations in normal
+  functioning of a community or a society.
+DataSource: "* Department of NDMO \n* Department of Environment \n* Department of\
+  \ Climate Change\n* Vanuatu National Statistics Office"
+Definition: Climate Change and Natural Disasters. Many natural disasters are directly
+  linked with the climate change including floods, hurricanes, tsunami, droughts,
+  earthquake and La nina
+Dissaggregation: '* Area Council Level
+
+  * Rural/Urban
+
+  * Provincial Level
+
+  * National Level'
+FrequencyOfCollection: ''
+FrequencyofCollection: null
+GoalDescription: Strong and resilient nation in the face of climate change and disaster
+  risks posed by natural and man-made hazards.
+GoalId: ENV 3
+IndicatorDescription: percentage of climate change and disaster affected communities
+  with durable solutions.
+IndicatorId: ENV 3.3.2
+IndicatorShortName: Communities Affacted by Climate Change and Disasters with Durable
+  Solutions
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 3.3.2
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: 'Strengthen post-disaster systems in planning, preparedness,
+  response and recovery. '
+PolicyObjectiveId: ENV 3.3
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: 'Disasters affect large parts of the population, especially the poor and
+  other marginalized groups. Between 1950 and 2011 disasters in the Pacific islands
+  region affected approximately 4 million people, caused 8,693 reported deaths and
+  resulted in damage costs of around US$3.2 billion. Tropical cyclones, the major
+  cause of these losses and damage, are expected to increase in intensity, though
+  not frequency, in most parts of the Pacific over the coming decades.  '
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: ''
+SourceTag: null
+TargetDescription: 60% of climate change and disaster affected communities with durable
+  solutions

@@ -1,0 +1,55 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: Number of Integrated Coastal Zone Management Plans (ICZM)
+ComputationUnit: Total Count
+Concept: Integrated coastal zone management (ICZM) is the process for managing all
+  coastal issues in a framework integrated across biota and habitats, time and space,
+  and levels of government
+DataSource: "* Department of Environment (Administrative Data)\n * Department of Fisheries\
+  \ (Administrative Data)\n*Fisheries Department, "
+Definition: Integrated coastal zone management (ICZM) or Integrated coastal management
+  (ICM) is a process for the management of the coast using an integrated approach,
+  regarding all aspects of the coastal zone, including geographical and political
+  boundaries, in an attempt to achieve sustainability
+Dissaggregation: '* Area Council Level
+
+  * Rural/Urban
+
+  * Provincial Level
+
+  * National Level'
+FrequencyOfCollection: ''
+FrequencyofCollection: null
+GoalDescription: A nation which utilises and sustainably manages our land, water and
+  natural resources
+GoalId: ENV 4
+IndicatorDescription: Number of intergraded coastal management plans developed and
+  implemented
+IndicatorId: ENV 4.4.2
+IndicatorShortName: Development and Implementation of Integrated Coastal Management
+  Plans
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 4.4.2
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Promote the sustainable development of the fisheries sector
+  that values the protection and conservation of arine and freshwater resources.
+PolicyObjectiveId: ENV 4.4
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: ICZM is a dynamic, multidisciplinary and iterative process to promote sustainable
+  management of coastal zones. It covers the full cycle of information collection,
+  planning (in its broadest sense), decision-making, management and monitoring of
+  implementation
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: ''
+SourceTag: null
+TargetDescription: 40 integrated coastal management plans developed and operational

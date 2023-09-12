@@ -1,0 +1,56 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: 'Stakeholder programs and CC & DRM Policies and legislation reviews
+  for alignments '
+ComputationUnit: Total Count
+Concept: It is a systematic approach for identifying, assessing and reducing the risks
+  of disaster. It aims to reduce socio-economic vulnerabilities to disaster as well
+  as dealing with the environmental and other hazards that trigger them.
+DataSource: Every Government departments, ministries, state owned enterprise, & Non
+  government organisation
+Definition: A Policy to be implemented anytime there is Change in Climate over time
+  whether due to natural variability or as a result of human activity. Disaster risk
+  governance is the system of institutions, mechanisms, policy and legal frameworks
+  and other arrangements to guide, coordinate and oversee disaster risk reduction
+  and related areas of policy.
+Dissaggregation: "* Different sectors (financial sector, fishing industry, mining\
+  \ industry, agricultural sector, tourism sectors, export, reform, traditional economy)\
+  \ \n\n* National Level"
+FrequencyOfCollection: ''
+FrequencyofCollection: null
+GoalDescription: A strong and resilient nation in the face of climate change and disaster
+  risks posed by natural and man-made hazards.
+GoalId: ENV 3
+IndicatorDescription: "Alignment of sector stakeholders\u2019 programs and CC & DRM\
+  \ policies and legislation. "
+IndicatorId: ENV 3.1.3
+IndicatorShortName: Sector Stakeholders Awareness of CC & DRM Policies and Legislation
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 3.1.3
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Institutionalise climate change and disaster risk governance,
+  and build institutional capacity and awareness.
+PolicyObjectiveId: ENV 3.1
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: "It should be a policy document that will incorporates recommendations\
+  \ from the risk assessment which analysed Vanuatu\u2019s climate change and disaster\
+  \ risk governance capacity and needs at both national and local levels, and from\
+  \ local, provincial and national consultations. It aims to be accessible to and\
+  \ implemented by all government agencies and non-governmental stakeholders. The\
+  \ policy should take a practical approach, taking into consideration Vanuatu\u2019\
+  s resources, exposure to risks, and demographic situation."
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: ''
+SourceTag: null
+TargetDescription: 100% of sector stakeholders are ware of CC & DRM policies and legislation.
+  50% of sector stakeholders have formal arrangements with the government.

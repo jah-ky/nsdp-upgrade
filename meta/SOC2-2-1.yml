@@ -1,0 +1,60 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: Number of schools identified as demonstrating effective implementation
+  and management of school grants over Total Number of Schools provided with school
+  grants x 100
+ComputationUnit: Percentage (%)
+Concept: "The Department of Education\_may offer grants to organisations or individuals,\
+  \ to support the programs on early child care, childhood education, school education,\_\
+  higher education, vocational education and training, international education."
+DataSource: Vanuatu Education Management Information System - (VEMIS)
+Definition: Schools which formerly had very little say in financial management now
+  receive grants directly from the central authorities. Educational management theories
+  assume that grants will have other advantages resulting in less bureaucracy, fewer
+  leakages in the distribution of funds, and more appropriate and selective use of
+  funds by schools for their self-improvement, as well as a greater impact if more
+  money reaches disadvantaged schools. Finally, grants may influence school-community
+  relations and enhance school autonomy and capacity.
+Dissaggregation: 'Area Council, Island
+
+  Provincial, National'
+FrequencyOfCollection: half yearly
+FrequencyofCollection: null
+GoalDescription: An inclusive and equitable quality education system with life-long
+  learning for all.
+GoalId: 2
+IndicatorDescription: Percentage of schools demonstrating effective implementation
+  and management of school grants
+IndicatorId: SOC 2.2.1
+IndicatorShortName: Public Schools Receiving Grants
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: SOC 2.2.1
+OtherDemandSources: null
+PillarDescription: Society
+PillarName: Society
+PolicyLinkage: null
+PolicyObjectiveDescription: Build trust in the education system through improved performance
+  management systems, teacher training, and the reliable delivery of quality services.
+PolicyObjectiveId: SOC 2.2
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: "[1]The purpose of this School Grants Scheme is to guide the Ministry,\
+  \ Provincial Education Offices, and Education Authorities, School Councils/committees\
+  \ and schools in proper administration and accountability for government grants\
+  \ and school fees.  [2]To increase access to education for all children in Vanuatu\
+  \ in order to achieve the second Millennium Development Goal (universal primary\
+  \ education) by removing financial barriers that prevent parents from enrolling\
+  \ their children in primary school. [3]To provide funding by way of school grants\
+  \ directly to Vanuatu schools in order to reduce and over time eventually eliminate\
+  \ costs to parents of paying school fees to contribute to the costs of their children\u2019\
+  s education"
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 4.c.1 (R) (Tier 1)
+SourceTag: null
+TargetDescription: 100% of eligible schools received their grants

@@ -1,0 +1,54 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: Number of timber licensees harvesting divided by Total number of
+  Timber harvesting multiply by 100
+ComputationUnit: Total Count
+Concept: "Any person who contracts to one or more principal licensees and employs\
+  \ other persons to undertake timber harvesting operations must hold a Contractor\u2019\
+  s Licence. Principal licensees must ensure that a Contractor\u2019s Licence is issued\
+  \ to a contractor before timber harvesting operations commence"
+DataSource: '* Department of Forestry'
+Definition: All timber harvesting operations must be authorised by a Timber Licence
+  or Products Licence that contains conditions that are binding on the licensees
+Dissaggregation: '* Area Council Level
+
+  * Rural/Urban
+
+  * Provincial Level
+
+  * National Level'
+FrequencyOfCollection: ''
+FrequencyofCollection: null
+GoalDescription: 'A nation which utilises and sustainably manages our land, water
+  and natural resources '
+GoalId: ENV 4
+IndicatorDescription: Proportion of licensees harvesting within their allocated quota
+  or Proportion of licensee operations being monitored.
+IndicatorId: ENV 4.6.2
+IndicatorShortName: Licensed Foresters Harvesting Within Allocated Quotas
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 4.6.2
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Reduce deforestation and ensure rehabilitation and reforestation
+  is common in place.
+PolicyObjectiveId: ENV 4.6
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: Licences must be issued before operations commence.  Anyone who undertakes
+  or is employed in timber harvesting operations on State forests or other Crown Timber
+  Lands without having first obtained an appropriate licence commits an offence under
+  the provisions of the Forestry Act and Regulation
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: ''
+SourceTag: null
+TargetDescription: 80% compliance of licensees with maximum allowable quota or 75%
+  of forestry licensee operations being monitored to ensure compliance with quotas.

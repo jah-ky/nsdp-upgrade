@@ -1,0 +1,58 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: Number of Approved Fisheries Management Plans for designated fisheries
+ComputationUnit: Total Count
+Concept: The integrated process of information gathering, analysis, planning, consultation,
+  decision-making, allocation of resources and formulation and implementation, with
+  enforcement as necessary, of regulations or rules which govern fisheries activities
+  in order to ensure the continued productivity of the resources and the accomplishment
+  of other fisheries objectives.
+DataSource: ' * Department of Fisheries (Administrative Data)
+
+  * Vanuatu National Statistics Office'
+Definition: A fisheries management plan is a public document which clearly outlines
+  future management directions and arrangements for recreational and/or commercial
+  fishing for a given water body or species.
+Dissaggregation: '* Area Council Level
+
+  * Rural/Urban
+
+  * Provincial Level
+
+  * National Level'
+FrequencyOfCollection: ''
+FrequencyofCollection: null
+GoalDescription: A nation which utilises and sustainably manages our land, water and
+  natural resource
+GoalId: ENV 4
+IndicatorDescription: Total number of approved Fisheries Management Plans for designated
+  fisheries.
+IndicatorId: ENV 4.5.1
+IndicatorShortName: Fisheries Management Plans Approved
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 4.5.1
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Reduce and prevent the degradation and erosion of foreshore
+  and coastal areas.
+PolicyObjectiveId: ENV 4.5
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: The Fisheries management plan should be done because it is,to maintain
+  the target species at or above the levels necessary to ensure their continued productivity
+  (biological),to minimise the impacts of fishing on the physical environment and
+  on non-target (bycatch), associated and dependent species (ecological);to maximise
+  the net incomes of the participating fishers (economic); and to maximise employment
+  opportunities for those dependent on the fishery for their livelihoods (social).
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 14.5.1 (Tier 1)
+SourceTag: null
+TargetDescription: 20 approved Fisheries Management Plans for designated Fisheries.

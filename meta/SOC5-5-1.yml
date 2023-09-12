@@ -1,0 +1,70 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: ' number of activities undertaken per month X (12) months '
+ComputationUnit: count
+Concept: All people and institutions are subject to and accountable to law that is
+  fairly applied for justice and crime enforced across Vanuatu. Law enforcement officers
+  should act in a manner to enforce law by discovering, preventing, detecting, investigating
+  and punishing people who violet the rules/laws and norms within the communities.
+DataSource: Law Enforcement Units
+Definition: "This indicator focuses mainly on the rule of law (ie: our laws that are\
+  \ well defined under the constitution (Mama Law of Vanuatu), these includes any\
+  \ other laws that are made at National, Provincial and at the community level by\
+  \ the chiefs) which address justice. This indicator aims to measure the number of\
+  \ community engagement activities that are carried out by law enforcement officers\
+  \ from the national level brought down to the community level and how they can be\
+  \ linked and adapted by the communities. \n\nVanuatu has several institutions which\
+  \ deal with justice, crime and enforcement of other laws which are set by the country\
+  \ in order to address justice in a timely manner to all citizens of Vanuatu. For\
+  \ instance, Ministry of Justice, Crime unit, Vanuatu Police Force (VPF), Vanuatu\
+  \ Mobile Force (VMF), Woman Affairs, Malvatumauri council of chiefs... Etc, are\
+  \ responsible for providing activities to the community level to address these laws.\
+  \  It strengthens links between traditional (chiefs) and formal justice to make\
+  \ sure that everyone from the National level to the community level are aware of\
+  \ these laws and that justice prevails through out the country."
+Dissaggregation: 'Law enforcement Units
+
+  Area Councils
+
+  Province
+
+  National'
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: A society where the rule of law is consistently upheld, and access
+  to     timely justice is available to everyone.
+GoalId: 5
+IndicatorDescription: Total number of annual community engagement activities undertaken
+  by national law enforcement officers.
+IndicatorId: SOC 5.5.1
+IndicatorShortName: Law Enforcement Led Community Engagement Activities
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: SOC 5.5.1
+OtherDemandSources: null
+PillarDescription: Society
+PillarName: Society
+PolicyLinkage: null
+PolicyObjectiveDescription: "Strengthen links between traditional and formal  justice\
+  \ systems and role of chiefs in maintaining peace and stability.\n   "
+PolicyObjectiveId: SOC 5.5
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: "There are certain approaches that can be used to address justice in the\
+  \ community level. Respective institutions or law enforcement institutions and their\
+  \ officers, formulate programs that suit the communities level of understandings\
+  \ ( ie: Awareness programs, training programs) to help community leaders to educate\
+  \ members at the community level. \n*Traditional values and gender equality is also\
+  \ considered when enforcing laws in the community level.\n*Depicts crime rate in\
+  \ the community level and shows how much the law enforcement officers have engaged\
+  \ in community activities to ensure that the rule of law is upheld and that justice\
+  \ is prevailed"
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 16.7.2 (Tier 3)
+SourceTag: null
+TargetDescription: Maintain baseline number

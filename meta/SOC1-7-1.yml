@@ -1,0 +1,72 @@
+﻿Proxy: ''
+Definition: >+
+  The "Proportion of population with free access to traditional lands, forest,
+  and marine resources" is an indicator that measures the percentage or fraction
+  of a population that enjoys unrestricted access to ancestral or traditional
+  lands, forests, and marine resources without any legal, economic, or social
+  barriers.
+
+
+  This indicator aims to capture the level of access and rights that indigenous
+  peoples, local communities, or specific cultural groups have to their
+  traditional territories and the natural resources within them. It focuses on
+  the concept of free access, meaning that individuals or communities can
+  utilize these resources for various purposes, such as sustenance, livelihoods,
+  cultural practices, and spiritual or ceremonial activities.
+
+
+  Here are the key elements of this indicator:
+
+
+  1. Traditional lands: This refers to the territories or areas that are
+  traditionally owned, occupied, or used by indigenous peoples or local
+  communities. These lands hold cultural, historical, and spiritual significance
+  for these groups, and they often have deep connections to the surrounding
+  ecosystems and resources.
+
+
+  2. Forest resources: This includes the unrestricted access to forests and
+  their resources, such as timber, non-timber forest products (e.g., medicinal
+  plants, fruits, nuts), and ecosystem services (e.g., water regulation, carbon
+  sequestration). It recognizes the importance of forests in providing
+  livelihood opportunities and supporting cultural practices.
+
+
+  3. Marine resources: This encompasses the unrestricted access to marine
+  environments, including coastlines, seas, and oceans, along with their
+  associated resources. It includes access to fish stocks, shellfish, marine
+  plants, and other marine-based resources that support the livelihoods and
+  cultural practices of coastal or fishing communities.
+
+Concept: >-
+  The indicator "Proportion of population with free access to traditional lands,
+  forest, and marine resources" measures the percentage or fraction of a
+  population that has unrestricted rights and ability to access and utilize
+  their ancestral or traditional lands, forests, and marine resources. It
+  focuses on indigenous peoples, local communities, or specific cultural groups
+  and aims to evaluate their level of access without legal, economic, or social
+  barriers. The indicator recognizes the significance of these resources for
+  sustenance, livelihoods, cultural practices, and spiritual activities.
+  Monitoring changes in this indicator helps assess the recognition of
+  indigenous rights, land tenure systems, and the sustainability of traditional
+  resource management.
+Disaggregation: 'National, province, region, sex'
+Rationale: >-
+  Monitoring the changes in this indicator helps assess the level of recognition
+  and protection of indigenous rights, land tenure systems, and the cultural and
+  environmental sustainability of traditional resource management practices. It
+  informs policy and decision-making processes related to land and resource
+  governance, conservation, and the promotion of indigenous rights and local
+  community empowerment.
+MethodOfComputation: >-
+  number of people with free access to traditional lands, forest, and marine
+  resources  divide by the total sample population surveyed then multiplied by
+  100 to find the percentage value
+SDGAlignment: |-
+  11.4
+  11.4.1 (Tier 3)
+UnitOfMeasurement: Percentage (%)
+FrequencyOfCollection: NSDP Survey - 5 Years
+source_organisation_1: 2012 Pacific Living Conditions Survey (Hybrid) - VNSO and SPC
+source_organisation_2: 2012 Melanesian Well-being Indicators Pilot Study Report - VNSO
+source_organisation_3: 2020 NSDP Survey

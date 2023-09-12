@@ -1,0 +1,40 @@
+﻿TargetDescription: >-
+  By 2020, the annual parasitic incidence rate (API) for all cases of malaria is
+  no more than 1 per 1,000 population nationally 
+
+  By 2025, no more than 0.5 per 1,000 population
+
+  By 2030, no more than 0.5 per 1,000 population
+
+  By 2025, no more than 0.5 per 1,000 population
+
+  By 2030, no more than 0.5 per 1,000 population
+SDGAlignment: ''
+Definition: >-
+  Incidence of malaria is defined as the number of new cases of malaria per
+  1,000 people at risk each year.
+Concept: >-
+  Case of malaria is defined as the occurrence of malaria infection in a person
+  whom the presence of malaria parasites in the blood has been confirmed by a
+  diagnostic test. The population considered is the population at risk of the
+  disease.
+Rationale: >-
+  To measure trends in malaria morbidity and to identify locations where the
+  risk of disease is highest. With this information, programmes can respond to
+  unusual trends, such as epidemics, and direct resources to the populations
+  most in need. This data also serves to inform global resource allocation for
+  malaria such as when defining eligibility criteria for Global Fund finance.
+ComputationMethod: (number of Malaria annual parasite) / (total pop) X 100
+ComputationUnit: Percentages (%)
+Proxy: 'Yes'
+Disaggregation: |-
+  • Age
+  • Geographic location
+  • Sex
+DataSource: Health Information System  (HIS) | Vanuatu Ministry of Health
+FrequencyOfCollection: Annually
+source_organisation_1: >-
+  2015 Health Data, Malaria and Vector Borne Diseases Unit, MoH (from M&E
+  Framework)
+source_organisation_2: ''
+source_organisation_3: ''

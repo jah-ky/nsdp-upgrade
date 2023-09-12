@@ -1,0 +1,54 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: Total number of vocational schools that are certified and registered
+  + total number of technical schools that are certified and registered under the
+  Vanuatu Qualifications Authority to operate
+ComputationUnit: percentage (%) & total count
+Concept: 'Scholarships: Financial aid awards for individual students and contributions
+  to trainees. The beneficiary students and trainees are nationals of developing countries.
+  Financial aid awards include bilateral grants to students registered for systematic
+  instruction in private or public institutions of higher education to follow full-time
+  studies or training courses in the donor country.'
+DataSource: Vanuatu Qualification Authority (VQA)
+Definition: "Technical and Vocational Education and Training\_is an education, training\
+  \ or learning activity which provides knowledge, skills and attitudes relevant for\
+  \ employment or self-employment.It comprises all kinds of formal, non-formal and\
+  \ informal skills development wherever it occurs \u2013 in institutes, schools,\
+  \ training centers or in the workplace/sites of production."
+Dissaggregation: 'Area Council, Island
+
+  Provincial, National, type of education.'
+FrequencyOfCollection: Quarterly & Annually
+FrequencyofCollection: null
+GoalDescription: An inclusive and equitable quality education system with life-long
+  learning for all
+GoalId: 2
+IndicatorDescription: No. of technical and vocational schools that are certified and
+  registered under the Vanuatu Qualifications Authority to operate
+IndicatorId: 'SOC 2.4.1 '
+IndicatorShortName: Technical and Vocational Institutions Registered VQA
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: SOC 2.4.1
+OtherDemandSources: null
+PillarDescription: Society
+PillarName: Society
+PolicyLinkage: null
+PolicyObjectiveDescription: 'Increase higher education opportunities, including technical
+  and vocational training '
+PolicyObjectiveId: SOC 2.4
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: "|> To improve standard and Quality of education of schooling in both rural\
+  \ and urban areas.   |>\_ Is a public effort that donors provide to developing countries\
+  \ for scholarships |> To track trends from previous years."
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 4.3.1 (Tier 2) , 4.b.1 (Tier 1)
+SourceTag: null
+TargetDescription: 80 % (60 technical, vocational and post schools to be certified
+  and registered)

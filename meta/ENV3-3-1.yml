@@ -1,0 +1,61 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: "* Number of designed and approved post disaster plans by responsible\
+  \ institutions dealing with disaster responses\n\n* Disaster Risk = hazard X Vulnerability\
+  \ \u2013 Capacity"
+ComputationUnit: total count
+Concept: "* Post disaster support programmes, strategies, frameworks and plans developed\
+  \ in place by the NDMO and other humanitarian response teams like Red cross Vanuatu,\
+  \ Oxfam, to support communities after a disaster (man-made and natural disasters).\n\
+  \n* There are two basic approaches in the post-disaster reconstruction which comprise\
+  \ of the \u2018technology-based approach\u2019 and \u2018community-based approach\u2019\
+  \ [2]. Technology-based approaches are usually supported by a provider policy, with\
+  \ dependence on the import of dwellings from the developed donor countries. Community-based\
+  \ approach in the post-disaster reconstruction promotes and depends on public participation\
+  \ in reconstruction that helps build self-reliance into the affected communities\
+  \ and attempts to take advantage of the local resources in a long-term development.\
+  \ Implementations with this approach are sensitive to the needs of the community\
+  \ and do not ignore the social aspects of the process."
+DataSource: NDMO/VMDG/Climate Change office
+Definition: "* Post disasters plans or systems, strategies, frameworks that are set\
+  \ in place to address the needs of the general public that are affected by any disasters,\
+  \ either be natural or man-made disasters.\n* The indicator focuses on the number\
+  \ of plans that the responsible institutions like the National Disaster Management\
+  \ office (NDMO), humanitarian responses teams and other NGO\u2019s through the government\
+  \ have available for coordination and preparedness for response and recovery to\
+  \ support communities after disaster strike"
+Dissaggregation: National
+FrequencyOfCollection: ''
+FrequencyofCollection: null
+GoalDescription: A strong and resilient nation in the face of climate change and disaster
+  risks posed by natural and man-made hazards
+GoalId: 3
+IndicatorDescription: Number of supports plans available to communities for coordination,
+  planning, preparedness, response and recovery
+IndicatorId: 'ENV 3.3.1 '
+IndicatorShortName: Community Support Plans for Planning, Preparedness, Response and
+  Recovery
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 3.3.1
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Strengthen post disaster systems in planning, preparedness,
+  response and recovery.
+PolicyObjectiveId: ENV 3.3
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: "Indicates how the responsible government institutions (NDMO, VMDG, Climate\
+  \ Change Office) are ready and prepared to respond to any natural and man \u2013\
+  \ made disasters that may arise in the future."
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 13.b.1
+SourceTag: null
+TargetDescription: 80% of communities have access to support plans

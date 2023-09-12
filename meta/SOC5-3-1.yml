@@ -1,0 +1,51 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: "\xB7\_\_\_\_\_\_ Collect total number of community safety assessments\
+  \ of each year through the Police Information Management Systems through MoA\u2019\
+  s or MoU\u2019s."
+ComputationUnit: total count
+Concept: '*Finding the number of community safety assessments carried out annually
+  by the VPF can be seen as a way forward towards enhancing the institutional capacity
+  of Vanuatu National Security Forces. So that they could perform effectively to meet
+  their targets and at the same time promote a society where the rule of law is constantly
+  upheld and access to timely justice is available to everyone.'
+DataSource: Police Management Information System.
+Definition: "*Institutional capacity is defined as the capability of an institution\
+  \ to set and achieve social and economic goals, through knowledge, skills, systems,\
+  \ and institutions.\n*Vanuatu Security Forces will mainly refer to Vanuatu Police\
+  \ Force whose primary role is maintaining internal security, and its 300-strong\
+  \ paramilitary Vanuatu Mobile Force which makes up the country\u2019s external military\
+  \ force. "
+Dissaggregation: Area council, Rural/Urban, Provincial, National
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: A society where the rule of law is consistently upheld, and access
+  to     timely justice is available to everyone.
+GoalId: 5
+IndicatorDescription: 'Annual number of community safety assessments carried out by
+  VPF. '
+IndicatorId: SOC5.3.1
+IndicatorShortName: VPF Safety Assessments
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: SOC 5.3.1
+OtherDemandSources: null
+PillarDescription: Society
+PillarName: Society
+PolicyLinkage: null
+PolicyObjectiveDescription: Build the institutional capacity of national security
+  forces and ensure they are adequately resourced to meet performance targets.
+PolicyObjectiveId: SOC 5.3
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: '* To depict the number of community safety assessments that are carried
+  out by the Vanuatu Police Force annually.'
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: ''
+SourceTag: null
+TargetDescription: "By 2030 \u2013 1 per year"

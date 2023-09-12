@@ -1,0 +1,69 @@
+﻿Proxy: ''
+Definition: >-
+  The "Proportion of population with ability to 1: produce herbal medicines, and
+  2: massage" is an indicator that measures the percentage or fraction of a
+  population possessing the skills and knowledge to engage in two specific
+  activities: producing herbal medicines and providing massages.
+
+
+  1. Producing herbal medicines: This refers to the ability to prepare medicinal
+  remedies using traditional herbal knowledge and techniques. It involves
+  identifying, collecting, processing, and combining various plant materials to
+  create herbal remedies for medicinal purposes. This skill often includes
+  understanding the properties and uses of different plants, as well as the
+  preparation methods for extracting or infusing medicinal compounds.
+
+
+  2. Providing massages: This indicates the capacity to perform massages, which
+  involves applying pressure, manipulation, and kneading techniques on the body
+  to relieve tension, promote relaxation, and address specific health concerns.
+  Massage techniques can vary depending on cultural practices and therapeutic
+  approaches, encompassing modalities such as Swedish massage, Thai massage,
+  aromatherapy massage, and many others. The ability to provide massages
+  requires knowledge of anatomy, physiology, and specific massage techniques.
+Concept: >-
+  The proportion of the population with these abilities provides insight into
+  several factors:
+
+
+  1. Traditional healing practices: Herbal medicine production and massage often
+  have roots in traditional healing systems and cultural practices. This
+  indicator reflects the prevalence and continuity of traditional healing
+  knowledge within a population.
+
+
+  2. Healthcare access and self-care: The indicator reflects the extent to which
+  the population has access to traditional healthcare alternatives and the
+  ability to engage in self-care practices. It recognizes the potential for
+  individuals to address their health needs using traditional methods.
+
+
+  3. Cultural heritage and preservation: The indicator highlights the
+  preservation and continuation of traditional healing practices and therapeutic
+  techniques that are often deeply rooted in cultural heritage. It acknowledges
+  the importance of passing down these skills from one generation to another.
+
+
+  4. Economic implications: Traditional healing practices, including herbal
+  medicine production and massage, can have economic significance. The indicator
+  can provide insights into the potential for traditional healers and
+  practitioners to contribute to local economies and tourism.
+Disaggregation: 'National, province, region, sex'
+Rationale: >-
+  Monitoring changes in the proportion of the population with these abilities
+  can help policymakers and researchers assess the state of traditional
+  healthcare practices, identify areas where preservation efforts may be needed,
+  and inform policies that support the integration of traditional medicine into
+  healthcare systems.
+MethodOfComputation: >-
+  number of people with ability to 1: produce herbal medicines, and 2: massage
+  divide by the total sample population surveyed then multiplied by 100 to find
+  the percentage value
+SDGAlignment: |-
+  11.4
+  11.4.1 (Tier 3)
+UnitOfMeasurement: percentage (%)
+FrequencyOfCollection: NSDP Survey - 5 Years
+source_organisation_1: 2010 Pacific Living Conditions Survey (Hybrid) - VNSO and SPC
+source_organisation_2: 2012 Melanesian Well-being Indicators Pilot Study Report - VNSO
+source_organisation_3: 2020 NSDP Survey - VBOS

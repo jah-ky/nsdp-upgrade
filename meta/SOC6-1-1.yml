@@ -1,0 +1,56 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: '* Collect total number of decisions made by employment disciplinary
+  board every year starting from year (TBD) until 2030.
+
+  *  Whether it reduces by 50% or not;
+
+  All you need to do is subtract your current year number of decisions by last year''s
+  number of decisions, then divide by last year''s number of decisions made. Then,
+  you multiply the resulting figure by 50, which provides you with a percentage figure.'
+ComputationUnit: percentage (%)
+Concept: Every year employment disciplinary board has issued number of decisions of
+  its staffs according their respectful organisation, but since the NSDP objective
+  is to reduce the annual number of decisions made by employment disciplinary board
+  to 50% by 2030. There is a need to enhance the capacity and accountability of public
+  officials so that they can be able to uphold principles of good governance and strong
+  institutions that will always deliver support and services expected by all citizens
+  of Vanuatu.
+DataSource: Public service commision
+Definition: Employment Disciplinary Board is a body where group of senior officials
+  handle staff disciplinary issues and decide on the future of the particular staff
+  based on his/her misconducts or performances.
+Dissaggregation: National level
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: A dynamic public sector with good governance principles and strong
+  institutions delivering the support and services expected by all citizens of Vanuatu.
+GoalId: 6
+IndicatorDescription: Reduction in annual employment Disciplinary Board decisions.
+IndicatorId: 'SOC6.1.1 '
+IndicatorShortName: Employment Disciplinary Board Decisions
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: SOC 6.1.1
+OtherDemandSources: null
+PillarDescription: Society
+PillarName: Society
+PolicyLinkage: null
+PolicyObjectiveDescription: Enhance the capacity and accountability of public officials,
+  and ensure the impartiality and effectiveness of performance management systems
+PolicyObjectiveId: SOC 6.1
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: To depict the total number of decisions made by employment disciplinary
+  board annually concerning their employees. This study will also compare the figures
+  year by year to find any trends in the data. Whether there is an increase or decrease.
+  Plus, check to see if 50% reduction is achieved or not.
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: '16.6.1 (Tier 1) '
+SourceTag: null
+TargetDescription: By 2030 reduce by 50%

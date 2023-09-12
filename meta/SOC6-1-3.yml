@@ -1,0 +1,51 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: Subtract your current year total subsidies by last year's total
+  subsidies, then divide by last year's subsidies. Then, you multiply the resulting
+  figure by 100.
+ComputationUnit: Percentage (%)
+Concept: "A\_subsidy\_is a benefit given to a State Own Enterprise, or institution,\
+  \ usually by the government. ... The\_subsidy\_is typically given to remove some\
+  \ type of burden, and it is often considered to be in the overall interest of the\
+  \ public, given to promote a social good or an economic policy."
+DataSource: Department of Finance and Treasury
+Definition: " Government\_subsidies\_help an industry by paying for part of the cost\
+  \ of the production of a good or service by offering\_tax credits\_or reimbursements\
+  \ or by paying for part of the cost a consumer would pay to purchase a good or service."
+Dissaggregation: Years ,Type of State Own Enterprise, National
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: A dynamic public sector with good governance principles and strong
+  institutions delivering the support and services expected by all citizens of Vanuatu
+GoalId: 6
+IndicatorDescription: Reduction in level of subsidies/grants to SOEs
+IndicatorId: SOC 6.1.3
+IndicatorShortName: Total Grants and Subsidies to State Owned Enterprises
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: SOC 6.1.3
+OtherDemandSources: null
+PillarDescription: Society
+PillarName: Society
+PolicyLinkage: null
+PolicyObjectiveDescription: Enhance the capacity and accountability of public officials,
+  and ensure the impartiality and effectiveness of performance management systems
+PolicyObjectiveId: SOC 6.1
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: "On the supply side, government\_subsidies SOE\u2019s to\_help an industry\
+  \ by allowing the producers to produce more goods and services. This increases the\
+  \ overall supply of that good or service, increases the quantity demanded for that\
+  \ good or service and lowers the overall price of the good or service. Examples\
+  \ of State Own Enterprise: Airports Vanuatu LTD, Vanuatu Post LTD, Reserve Bank\
+  \ of Vanuatu, Vanuatu Agriculture Development Bank, National Bank of Vanuatu, National\
+  \ Housing, Vanuatu Broadcasting & Television Corporation, Interchange LTD."
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 16.6.1 (Tier 1) , 16.6.2 (Tier 3)
+SourceTag: null
+TargetDescription: By 2030 - 0

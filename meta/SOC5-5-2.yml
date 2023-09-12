@@ -1,0 +1,51 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: "1.\_\_\_\_\_ incidents of theft and vandalism reported annually\
+  \ to the police. 2. Number of reported Incident divided by total number of report\
+  \ and unreported incident multiply by 100."
+ComputationUnit: Percentage (%)
+Concept: Police should respond to reports of theft, suspicious activity and vandalism.
+DataSource: "* Well-being Indicators Baseline 2012 \n* Department of Vanuatu Police\
+  \  Office, Crime Unit,\n* Department of Magistrate Court"
+Definition: "Theft is the act of stealing \u2013 the wrongful taking of your personal\
+  \ goods and property to another location. Vandalism is deliberate mischievous or\
+  \ malicious destruction or damage to your goods and property."
+Dissaggregation: "* reported incidents\n * unreported incidents\n* Area Council Level\n\
+  * Rural/Urban\n* Provincial Level\n* National Level"
+FrequencyOfCollection: ''
+FrequencyofCollection: null
+GoalDescription: 'A society where the rule of law is consistently upheld, and access
+  to timely justice is available to everyone '
+GoalId: SOC 5
+IndicatorDescription: Incidents of theft and vandalism reported annually to the police
+  (and the proportion of reported incidents to unreported)
+IndicatorId: SOC 5.5.2
+IndicatorShortName: Reported Incidents of Theft and Vandalism
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: SOC 5.5.2
+OtherDemandSources: null
+PillarDescription: Social
+PillarName: Society
+PolicyLinkage: null
+PolicyObjectiveDescription: Strengthen links between traditional and formal justice
+  systems and the role of chiefs in maintaining peace and stability
+PolicyObjectiveId: SOC 5.5
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: To identify the nature of theft and vandalism on residential building sites
+  in terms of time, areas and types of items stolen, also to examine the extent of
+  security measures adopted and identify areas for improvement to reduce opportunities
+  for theft and vandalism on building sites.
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: ''
+SourceTag: null
+TargetDescription: NSDB Baseline Survey
+source_active_1: true
+source_organisation_1: 2012 Melanesian Well-being Indicators Pilot Study Report -
+  VNSO

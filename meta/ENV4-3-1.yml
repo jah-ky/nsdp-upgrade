@@ -1,0 +1,88 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: (The number of extraction activities complying with EIA requirements)/
+  (The total number of extraction activities) * 100
+ComputationUnit: Percentage (%)
+Concept: '* The process of extraction of mineral resources involves digging them out
+  to the service of the earth where the area is becoming an open pit or clearing of
+  an area for agricultural purposes which exposes the area to direct rainfall and
+  heavy washed, thus eventually eroded as the materials are washed down or wash down
+  stream.
+
+
+  * EIA procedures are designed to identify environmental problems which may be caused
+  by a development project and determine the magnitude of change in the environment.
+
+  '
+DataSource: '* Environment unit
+
+  * Department of Agriculture
+
+  * Department of Forestry
+
+  * Department of water resources
+
+  * Department of Energy
+
+  * Vanuatu Ministry of Lands and Natural Resources
+
+  * Department of Environmental protection & conservation'
+Definition: '* Extraction is the term referring to the action of extracting something
+  by effort or force, extraction activities in the envronment refer to different activites
+  done in the environment in terms of extracting or removing natural resources which
+  in fact relate to different environmental issues.
+
+
+  * Land Degradation is defined as the reduction or loss of the biological or economic
+  productivity and productivity and complexity of rain fed cropland, irrigated cropland,
+  or range, pasture, forest and woodlands resulting from a combination of pressures,
+  including land use and management practices.
+
+
+  * Downstream Environmental damage from mineral resources extracted is one way of
+  environmental damage caused by surface related to large amount of surface material
+  that humans remove during mining operation or due to erosion which is exposed of
+  hillside through clearing or drainage.'
+Dissaggregation: 'Area council
+
+  Urban/Rural
+
+  Province
+
+  National'
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: A nation which utilises and sustainably manages our land, water and
+  natural resources
+GoalId: 4
+IndicatorDescription: Proportion of extraction activities complying with EIA requirements.
+IndicatorId: ENV 4.3.1
+IndicatorShortName: EIA Compliance of Extraction Activities
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 4.3.1
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Prevent land degradation and downstream environmental
+  damage from mineral resource extraction.
+PolicyObjectiveId: ENV 4.3
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: '* When identifying environmental problems through EIA procedures allowed
+  the process of designing, locating and operating changes that can be  introduced
+  to minimize the adverse impacts of the development.
+
+
+  * EIA become important due to the increasing  environmental awareness it produces
+  to member countries.'
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: "15.3.1\n (R) (Tier 3), 15.4.1 (R) (Tier1)"
+SourceTag: null
+TargetDescription: 90 % of extraction activites are complying with EIA requirements

@@ -1,0 +1,65 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: (The number of declared physical planning areas that have a physical
+  plan)/( the total number of declared physical planning areas) * 100
+ComputationUnit: Percentage (%)
+Concept: "Key component of urban development initiatives and sets the boundaries that\
+  \ may detailed project must adhere to \u2013 such as the legal and technical guidelines\
+  \ that should be followed."
+DataSource: '* Department of Local Authorities.
+
+
+  * Vanuatu Municipal council.
+
+
+  * Ministry of Lands & Natural Resources.
+
+
+  * Department of Environment protection & conservation.'
+Definition: Set of actions aimed at improving the physical, social and economic welfare
+  of a place and its dwellers. It is the organization of land uses so that people
+  enjoy the highest achievable degree of efficiency in resource utilization, functionality
+  of places.
+Dissaggregation: 'Urban/Rural
+
+  Province
+
+  National'
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: A nation which utilises and sustainably manages our land, water and
+  natural resources
+GoalId: 4
+IndicatorDescription: Proportion of declared physical planning areas that have a physical
+  plan
+IndicatorId: ENV 4.1.1
+IndicatorShortName: Physical Plans for Physical Planning Areas
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: ENV 4.1.1
+OtherDemandSources: null
+PillarDescription: Environment
+PillarName: Environment
+PolicyLinkage: null
+PolicyObjectiveDescription: Strengthen local authorities and municipal planning authorities
+  to enact and enforce land use planning laws and regulations
+PolicyObjectiveId: ENV 4.1
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: '* Helpful in fight against urban and rural poverty
+
+
+  * Helps to address environmental problems
+
+
+  * Helps to maximize the use of land and other resources'
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 11.a.1 (Tier 3)
+SourceTag: null
+TargetDescription: 100% of all physical planning areas declared in or before 2016
+  have a physical plan in place

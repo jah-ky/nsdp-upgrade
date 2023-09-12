@@ -1,0 +1,28 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: Proportion Meeting + Proportion Exceeding year 4 literacy
+  standard, anglo.
+Definition: Proportion of students meeting or exceeding year 4 litracy standard, anglo.
+FrequencyofCollection: null
+IndicatorShortName: Literacy Standards Yr 4 Anglo
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: SOC 2.3.1
+OtherDemandSources: null
+PillarName: Society
+PolicyLinkage: null
+PreferredDataSource: Statistical Digest Report, Ministry of Education and Training.
+PrimaryCollectionSystem: null
+Purpose/Rationale: null
+Range: null
+RelatedLinks: null
+ResponsibleAgency: null
+SourceTag: null
+source_active_1: true
+source_active_2: true
+source_active_3: true
+source_organisation_1: 2016 - 2018  Annual Statistical Digest - MoE (Meeting and Exceeding
+  Standard)
+source_organisation_2: 2016 - 2018 Annual Statistical Digest (Meeting & Exceeding
+  Standard)
+source_organisation_3: 2015 Annual Statistical Digest - MoE

@@ -1,0 +1,38 @@
+﻿Proxy: ''
+Definition: >-
+  People who have rich knowledge in traditional stories, dances, songs, and
+  games play a vital role in preserving and perpetuating cultural heritage.
+  Their deep understanding and expertise in these aspects of traditional culture
+  allow them to serve as custodians and transmitters of their community's
+  history, values, and identity.
+Concept: >-
+  To measure the percentage or proportion of a population that possesses
+  knowledge and familiarity with traditional cultural elements such as stories,
+  dances, songs, and games. This indicator seeks to assess the level of cultural
+  literacy and engagement within a community or society regarding these specific
+  aspects of their cultural heritage. The indicator acknowledges the
+  significance of traditional stories, dances, songs, and games as important
+  components of a community's cultural identity and heritage. It recognizes that
+  individuals who possess knowledge and understanding of these traditional
+  practices play a crucial role in preserving and perpetuating cultural
+  traditions and values.
+Disaggregation: 'National, Province, Region, Sex'
+Rationale: >-
+  By measuring the proportion of the population with knowledge of traditional
+  stories, dances, songs, and games, this indicator aims to provide insights
+  into the level of cultural continuity, transmission, and participation within
+  a given population. It can help assess the effectiveness of cultural education
+  programs, intergenerational knowledge transfer, and the overall engagement of
+  community members with their cultural heritage.
+MethodOfComputation: >-
+  number of people with knowledge of traditional stories, dances, songs, and
+  games  divide by the total sample population surveyed then multiplied by 100
+  to find the percentage value
+SDGAlignment: |-
+  11.4
+  11.4.1(Tier 3)
+UnitOfMeasurement: percentage (%)
+FrequencyOfCollection: NSDP Survey - 5 Years
+source_organisation_1: 2010 Melanesian Well-being Indicators Pilot Study Report - VNSO
+source_organisation_2: 2020 NSDP Baseline Survey
+source_organisation_3: ''

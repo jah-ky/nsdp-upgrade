@@ -1,0 +1,52 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: "\u2022 Collect data through data request forms from Office of\
+  \ the Malvatumauri\n\n\u2022\t p = x / n\nWhere:\n\u201Cx\u201D is the number of\
+  \ items you\u2019re interested in, and\n\u201Cn\u201D is the total number of items\
+  \ in the population\nNote: While \u201Cp\u201D is usually used as the symbol for\
+  \ the population proportion, you might also see the letter pi(\u03C0) used instead."
+ComputationUnit: numeric count, percentage
+Concept: Proportion of population with positive assessment of their chief's ability
+  to resolve disputes peacefully will be used to measure the strengths of links between
+  traditional and formal justice systems with the role of chiefs in maintaining peace
+  and stability
+DataSource: ' Office of the Malvatumauri'
+Definition: "A defining characteristic of a chief is that he is \u2018entitled to\
+  \ exercise powers of social control\u2019 over members of his community (Paterson\
+  \ 2004)"
+Dissaggregation: Rural/Urban, Area council, province, national
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: A society where the rule of law is consistently upheld, and access
+  to     timely justice is available to everyone.
+GoalId: 5
+IndicatorDescription: Proportion of population with positive assessment of their chief's
+  ability to resolve disputes peacefully
+IndicatorId: SOC5.5.3
+IndicatorShortName: Assessment of Chiefs Role - Dispute Resolution
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: SOC 5.5.3
+OtherDemandSources: null
+PillarDescription: Society
+PillarName: Society
+PolicyLinkage: null
+PolicyObjectiveDescription: Proportion of population with positive assessment of their
+  chief's ability to resolve disputes peacefully
+PolicyObjectiveId: SOC 5.5
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: ''
+Purpose/Rationale: null
+Range: null
+Rationale: To depict the level of ability of chiefs to resolve disputes peacefully
+  through the positive assessments by the people in the communities.
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: ''
+SourceTag: null
+TargetDescription: maintain above 80%
+source_active_1: true
+source_organisation_1: 2012 Melanesian Well-being Indicators Pilot Study Report -
+  VNSO

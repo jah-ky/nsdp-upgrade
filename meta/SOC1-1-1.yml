@@ -1,0 +1,39 @@
+﻿Proxy: ''
+Definition: >-
+  proportion of the population who report speaking their indigenous language
+  every day. indigenous language simply means that  a language that originated
+  in a specified place and was not brought to that place from elsewhere. 
+Concept: >-
+  The concept of speaking indigenous language daily for a nation based on
+  traditional governance is rooted in recognizing the cultural identity and
+  heritage of the people. Language is a significant aspect of a community's
+  culture, and preserving and promoting indigenous languages within the daily
+  lives of the people ensures that their unique heritage is not lost.
+Disaggregation: 'National level, Provincial level, regional level, and by gender.'
+Rationale: >-
+  Traditional governance is based on cultural practices and values that have
+  been passed down through generations. the use of indigenous language aligns
+  with these cultural practices by providing a means for people to communicate
+  with each other in a way that reflects their cultural identity and values.
+
+  ultimately, speaking indigenous language daily is about valuing and preserving
+  the heritage and culture of a community. if the majority of the population
+  speaks indigenous language daily, it is a testament to the richness and
+  diversity of cultures that make up our beautiful island nation.
+MethodOfComputation: >-
+  take number of individuals who speaks indigenous language daily over total
+  population or sample population by the above level of disaggregation then
+  using the calculating formula for finding percentages to calculate their
+  percentages over the total population surveyed in the 2012 and 2020 National
+  Population & Housing Census.
+SDGAlignment: |-
+  11.4
+  11.4.1 (Tier 3)
+UnitOfMeasurement: percentage
+FrequencyOfCollection: >-
+  not applicable as the two surveys are totally different from each other. but
+  reporting the same indicator in different collections period
+source_organisation_1: |
+  2012 Pacific Living Conditions Survey (Hybrid) - VNSO and SPC
+source_organisation_2: 2020 NSDP Baseline Survey
+source_organisation_3: ''

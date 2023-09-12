@@ -1,0 +1,64 @@
+AlternativeDataSource: null
+Assumptions: null
+Calculation/Formulation: null
+ComputationMethod: human rights related conventions ratified over Total number of
+  human rights conventions x 100
+ComputationUnit: percentage (%) & total count
+Concept: Human rights are rights inherent to all human beings, regardless of race,
+  sex, nationality, ethnicity, language, religion, or any other status. Human rights
+  include the right to life and liberty, freedom from slavery and torture, freedom
+  of opinion and expression, the right to work and education, and many more. Conventions
+  are a form of agreement between countries, states, and regions around the world
+  of the types of human rights that needs to be respected, recognised or not to be
+  neglected in all forms of society around the world.
+DataSource: Permanent Mission of the Republic of Vanuatu to the United Nations in
+  New York.
+Definition: This indicator refers to the share of human rights conventions being approved,
+  recognised, and sanction formally within Vanuatu. This also indicates that not all
+  human rights conventions are not formally recognised in Vanuatu.
+Dissaggregation: National level, regional level
+FrequencyOfCollection: Annually
+FrequencyofCollection: null
+GoalDescription: An inclusive society which upholds human dignity and where the rights
+  of all Ni- Vanuatu including woman, youth, vulnerable groups and the Elderly are
+  supported, protected and promoted in our legislation and institutions
+GoalId: 4
+IndicatorDescription: Proportion of human rights related conventions ratified.
+IndicatorId: 'SOC 4.4.2 '
+IndicatorShortName: Ratified International Conventions on Human Rights
+IntendedDirection: null
+Limitations: null
+NSDPIndicatorID: SOC 4.4.2
+OtherDemandSources: null
+PillarDescription: Society
+PillarName: Society
+PolicyLinkage: null
+PolicyObjectiveDescription: Define the roles, responsibilities and relationships between
+  State, churches, traditional leaders and communities in safeguarding human rights
+  and protecting traditional values and Christian principles.
+PolicyObjectiveId: 'SOC 4.4 '
+PreferredDataSource: null
+PrimaryCollectionSystem: null
+Proxy: 'No'
+Purpose/Rationale: null
+Range: null
+Rationale: "The Constitution of Vanuatu is supreme law and sets out the legal framework,\
+  \ which deals with the respect of human rights. Vanuatu has ratified core human\
+  \ rights treaties, including:\n\u2022Convention on the Elimination of All Forms\
+  \ of  Discrimination Against Women (CEDAW),\n\u2022Convention on the Rights of Persons\
+  \ with Disabilities (CRPD), \n\u2022Convention on the Rights of the Child (CRC),\
+  \ International Convention on Civil and Political Rights (ICCPR),\n\u2022Convention\
+  \ Against Torture (CAT).\nVanuatu has also ratified a number of International Labor\
+  \ Organization (ILO):     Conventions that aim to protect and uphold the rights\
+  \ of its workers. Furthermore, the Optional Protocol to the Convention on the Rights\
+  \ of the Child on the involvement of children in armed conflict and the Optional\
+  \ Protocol to the Convention on the Rights of the Child on the sale of children,\
+  \ child prostitution and child pornography.\n\nVanuatu has been proudly participating\
+  \ in various UN Peace Keeping Missions despite its limited size and resources. \n\
+  \nThe Mission aims at promoting human rights, the rule of law, disarmament as well\
+  \ as the right of self-determination.\n"
+RelatedLinks: null
+ResponsibleAgency: null
+SDGAlignment: 16.a.1 (Tier 1)
+SourceTag: null
+TargetDescription: by 2030 70%
