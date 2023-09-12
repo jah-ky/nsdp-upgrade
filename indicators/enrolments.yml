@@ -1,0 +1,66 @@
+﻿composite_breakdown_label: ''
+computation_units: ''
+copyright: ''
+data_footnote: ''
+data_non_statistical: false
+data_notice_class: ''
+data_notice_heading: ''
+data_notice_text: ''
+data_show_map: false
+data_start_values: []
+embedded_feature_footer: ''
+embedded_feature_html: ''
+embedded_feature_tab_title: ''
+embedded_feature_title: ''
+embedded_feature_url: ''
+expected_disaggregations: []
+footer_fields: []
+graph_annotations: []
+graph_limits: []
+graph_series_breaks: []
+graph_stacked_disaggregation: ''
+graph_target_lines: []
+graph_title: 'Vanuatu School Enrollments Rates '
+graph_titles: []
+graph_type: line
+indicator_available: ''
+indicator_name: Vanuatu School Enrollments Rate
+indicator_number: school enrolment rates
+indicator_tabs:
+  override: false
+  tab_1: ''
+  tab_2: ''
+  tab_3: ''
+  tab_4: ''
+national_geographical_coverage: Vanuatu
+page_content: >+
+  With a population of around 300,000, Vanuatu is a country with a young
+  population and education is crucial for its development. However, despite
+  efforts to improve access to education, the enrollment rates remain a
+  challenge in Vanuatu. The overall enrolment rate in primary is around 82%,
+  with a slightly lower rate in secondary school at 68%. There are also
+  significant disparities in enrolments rates between urban and rural areas,
+  with urban area having higher enrolments rates. Additional, gender-based
+  disparities persist, with boys having a slightly higher enrolments than girls.
+  The reasons for low enrolment rates are complex and include financial
+  barriers, poor infrastructure, and cultural attitudes that prioritize other
+  activities over education. Addressing these challenges will require a
+  multi-pronged approach that involves investing in education infrastructure,
+  providing financial support to families, and working with communities to
+  change attitudes towards education. Ultimately, improving enrolment rates in
+  Vanuatu is essential for its economic, social and environment development.
+
+permalink: ''
+placeholder: ''
+precision: []
+progress_status: not_available
+proxy: ''
+proxy_series: []
+publications: []
+related_indicators: []
+reporting_status: notstarted
+sort: ''
+sources: []
+standalone: true
+tags: []
+x_axis_label: ''
