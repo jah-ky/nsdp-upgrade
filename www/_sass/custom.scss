@@ -1,0 +1,175 @@
+// Enter any custom Sass in this file.
+.layout-frontpage .goal-tiles .goal-tile,
+.layout-goals .goal-tiles .goal-tile {
+    width: 100%;
+    max-width: 188px;
+    max-height: 180px;
+    @media screen and (min-width: 1024px) {
+        max-width: 215px;
+        max-height: 211px;
+    }
+}
+
+#main-content .goal-tiles .pillar img {
+    width: calc(100% - 10px);
+}
+body.contrast-default {
+    background: white url("../img/SDG_watermark-logo.png") center center no-repeat;
+}
+#main-content {
+    background: transparent;
+}
+
+.card {
+    background-color: transparent;
+}
+
+.card .dsppac-image {
+    max-width: 150px;
+}
+
+.layout-progress-summary {
+    .progress-goal-icon {
+        max-width: 100%;
+    }
+    .progress-item {
+        display: flex;
+        flex-flow: row wrap;
+        dt {
+            flex-basis: 20%;
+            padding: 2px 4px;
+            text-align: right;
+        }
+        dt::after {
+            content: ":";
+        }
+        dd {
+            flex-basis: 70%;
+            flex-grow: 1;
+            margin: 0;
+            padding: 2px 4px;
+        }
+        .progress-item-year {
+            float: left;
+            margin-right: 10px;
+            border: 1px solid #ddd;
+            padding: 5px;
+        }
+    }
+}
+
+$pillar-color-SOC: #D7B629;
+$pillar-color-ECO: #CF1C32;
+$pillar-color-ENV: #6EAC47;
+
+.goal-number-SOC1,
+.goal-number-SOC2,
+.goal-number-SOC3,
+.goal-number-SOC4,
+.goal-number-SOC5,
+.goal-number-SOC6 {
+    .previous-next-links {
+        .btn-primary {
+            background-color: $pillar-color-SOC;
+            border-color: $pillar-color-SOC;
+            padding-left: 40px;
+            padding-right: 40px;
+        }
+    }
+    .goal-banner {
+        border-top: 10px solid $pillar-color-SOC;
+        margin-top: 10px;
+        border-bottom: 10px solid $pillar-color-SOC;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        margin-bottom: 10px;
+        h1 {
+            color: $pillar-color-SOC;
+        }
+    }
+}
+.goal-number-ENV1,
+.goal-number-ENV2,
+.goal-number-ENV3,
+.goal-number-ENV4,
+.goal-number-ENV5 {
+    .previous-next-links {
+        .btn-primary {
+            background-color: $pillar-color-ENV;
+            border-color: $pillar-color-ENV;
+            padding-left: 40px;
+            padding-right: 40px;
+        }
+    }
+    .goal-banner {
+        border-top: 10px solid $pillar-color-ENV;
+        margin-top: 10px;
+        border-bottom: 10px solid $pillar-color-ENV;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        margin-bottom: 10px;
+        h1 {
+            color: $pillar-color-ENV;
+        }
+    }
+}
+.goal-number-ECO1,
+.goal-number-ECO2,
+.goal-number-ECO3,
+.goal-number-ECO4 {
+    .previous-next-links {
+        .btn-primary {
+            background-color: $pillar-color-ECO;
+            border-color: $pillar-color-ECO;
+            padding-left: 40px;
+            padding-right: 40px;
+        }
+    }
+    .goal-banner {
+        border-top: 10px solid $pillar-color-ECO;
+        margin-top: 10px;
+        border-bottom: 10px solid $pillar-color-ECO;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        margin-bottom: 10px;
+        h1 {
+            color: $pillar-color-ECO;
+        }
+    }
+}
+
+.layout-goal {
+    .container {
+        h3, h4 {
+            margin: 0;
+            font-size: $fontSize;
+            &:after {
+                content: "";
+                display: block;
+                border-bottom: 1px solid $color-dark;
+                margin-top: 5px;
+                margin-bottom: 5px;
+            }
+        }
+        .row {
+            margin-bottom: 20px;
+        }
+        .goal-page-indicator-progress {
+            margin-left: 0px;
+        }
+    }
+}
+
+.site-intro p {
+   text-align: justify;
+}
+
+@media all and (display-mode: standalone) {
+    .hide-after-install {
+        display: none;
+    }
+}
+
+.already-installed {
+    color: green;
+}
