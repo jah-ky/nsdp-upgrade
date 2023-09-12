@@ -14,7 +14,7 @@ remote_theme: open-sdg/open-sdg@2.2.0-beta1
 # Replace this title as needed.
 title: Indicators of The National Sustainable Development Plan
 # Replace the baseurl with the name of this repository.
-baseurl: "/vnso-nsdp-platform"
+baseurl: "/nsdp-upgrade"
 source: www
 
 # Pages
