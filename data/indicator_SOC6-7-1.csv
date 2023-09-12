@@ -1,0 +1,217 @@
+﻿Year,Series,Region,Media Outlets,Unit of measurement,Value
+2020,houses,vanuatu,,total count,59654
+2016,houses,vanuatu,,total count,103887
+2020,houses,urban,,total count,26291
+2020,houses,rural,,total count,33363
+2020,houses,torba,,total count,1074
+2020,houses,sanma,,total count,5653
+2020,houses,penama,,total count,3399
+2020,houses,malampa,,total count,11444
+2020,houses,shefa,,total count,14129
+2020,houses,tafea,,total count,3385
+2020,houses,vanuatu,internet,total count,29064
+2020,houses,urban,internet,total count,14580
+2020,houses,rural,internet,total count,14484
+2020,houses,torba,internet,total count,274
+2020,houses,sanma,internet,total count,1899
+2020,houses,penama,internet,total count,1495
+2020,houses,malampa,internet,total count,2680
+2020,houses,shefa,internet,total count,6675
+2020,houses,tafea,internet,total count,1460
+2020,houses,vanuatu,mobile phone,total count,15827
+2020,houses,urban,mobile phone,total count,3482
+2020,houses,rural,mobile phone,total count,12345
+2020,houses,torba,mobile phone,total count,743
+2020,houses,sanma,mobile phone,total count,2597
+2020,houses,penama,mobile phone,total count,1721
+2020,houses,malampa,mobile phone,total count,2590
+2020,houses,shefa,mobile phone,total count,3191
+2020,houses,tafea,mobile phone,total count,1503
+2020,houses,vanuatu,tv,total count,8006
+2020,houses,urban,tv,total count,5246
+2020,houses,rural,tv,total count,2760
+2020,houses,torba,tv,total count,2
+2020,houses,sanma,tv,total count,128
+2020,houses,penama,tv,total count,2
+2020,houses,malampa,tv,total count,129
+2020,houses,shefa,tv,total count,2324
+2020,houses,tafea,tv,total count,175
+2020,houses,vanuatu,radio,total count,5974
+2020,houses,urban,radio,total count,2462
+2020,houses,rural,radio,total count,3512
+2020,houses,torba,radio,total count,44
+2020,houses,sanma,radio,total count,990
+2020,houses,penama,radio,total count,172
+2020,houses,malampa,radio,total count,319
+2020,houses,shefa,radio,total count,1757
+2020,houses,tafea,radio,total count,230
+2020,houses,vanuatu,newspaper,total count,783
+2020,houses,urban,newspaper,total count,521
+2020,houses,rural,newspaper,total count,262
+2020,houses,torba,newspaper,total count,11
+2020,houses,sanma,newspaper,total count,39
+2020,houses,penama,newspaper,total count,10
+2020,houses,malampa,newspaper,total count,4
+2020,houses,shefa,newspaper,total count,182
+2020,houses,tafea,newspaper,total count,17
+2016,houses,urban,,total count,40186
+2016,houses,rural,,total count,63691
+2016,houses,torba,,total count,2534
+2016,houses,sanma,,total count,18239
+2016,houses,penama,,total count,10965
+2016,houses,malampa,,total count,14083
+2016,houses,shefa,,total count,50772
+2016,houses,tafea,,total count,7284
+2016,houses,vanuatu,internet,total count,4429
+2016,houses,urban,internet,total count,2967
+2016,houses,rural,internet,total count,1462
+2016,houses,torba,internet,total count,73
+2016,houses,sanma,internet,total count,849
+2016,houses,penama,internet,total count,141
+2016,houses,malampa,internet,total count,229
+2016,houses,shefa,internet,total count,3001
+2016,houses,tafea,internet,total count,136
+2016,houses,vanuatu,mobile phone,total count,103887
+2016,houses,urban,mobile phone,total count,40186
+2016,houses,rural,mobile phone,total count,63691
+2016,houses,torba,mobile phone,total count,2534
+2016,houses,sanma,mobile phone,total count,18239
+2016,houses,penama,mobile phone,total count,10965
+2016,houses,malampa,mobile phone,total count,14083
+2016,houses,shefa,mobile phone,total count,50772
+2016,houses,tafea,mobile phone,total count,7284
+2016,houses,vanuatu,tv,total count,3776
+2016,houses,urban,tv,total count,2963
+2016,houses,rural,tv,total count,813
+2016,houses,torba,tv,total count,7
+2016,houses,sanma,tv,total count,491
+2016,houses,penama,tv,total count,25
+2016,houses,malampa,tv,total count,56
+2016,houses,shefa,tv,total count,3177
+2016,houses,tafea,tv,total count,20
+2016,houses,vanuatu,radio,total count,27946
+2016,houses,urban,radio,total count,11829
+2016,houses,rural,radio,total count,16117
+2016,houses,torba,radio,total count,637
+2016,houses,sanma,radio,total count,5193
+2016,houses,penama,radio,total count,2478
+2016,houses,malampa,radio,total count,3006
+2016,houses,shefa,radio,total count,14816
+2016,houses,tafea,radio,total count,1815
+2016,houses,vanuatu,newspaper,total count,3025
+2016,houses,urban,newspaper,total count,2206
+2016,houses,rural,newspaper,total count,819
+2016,houses,torba,newspaper,total count,4
+2016,houses,sanma,newspaper,total count,632
+2016,houses,penama,newspaper,total count,88
+2016,houses,malampa,newspaper,total count,39
+2016,houses,shefa,newspaper,total count,2222
+2016,houses,tafea,newspaper,total count,40
+2020,proportion,,,percentage,90.1
+2016,proportion,,,percentage,68.5
+2020,proportion,urban,,percentage,94.3
+2020,proportion,rural,,percentage,87
+2020,proportion,torba,,percentage,78.3
+2020,proportion,sanma,,percentage,88.5
+2020,proportion,penama,,percentage,82.1
+2020,proportion,malampa,,percentage,166.7
+2020,proportion,shefa,,percentage,91.6
+2020,proportion,tafea,,percentage,41.1
+2020,proportion,vanuatu,internet,percentage,43.9
+2020,proportion,urban,internet,percentage,52.3
+2020,proportion,rural,internet,percentage,37.8
+2020,proportion,torba,internet,percentage,20
+2020,proportion,sanma,internet,percentage,29.7
+2020,proportion,penama,internet,percentage,36.1
+2020,proportion,malampa,internet,percentage,39
+2020,proportion,shefa,internet,percentage,43.3
+2020,proportion,tafea,internet,percentage,17.7
+2020,proportion,vanuatu,mobile phone,percentage,23.9
+2020,proportion,urban,mobile phone,percentage,12.5
+2020,proportion,rural,mobile phone,percentage,32.2
+2020,proportion,torba,mobile phone,percentage,54.2
+2020,proportion,sanma,mobile phone,percentage,40.7
+2020,proportion,penama,mobile phone,percentage,41.6
+2020,proportion,malampa,mobile phone,percentage,37.7
+2020,proportion,shefa,mobile phone,percentage,20.7
+2020,proportion,tafea,mobile phone,percentage,18.2
+2020,proportion,vanuatu,tv,percentage,12.1
+2020,proportion,urban,tv,percentage,18.8
+2020,proportion,rural,tv,percentage,7.2
+2020,proportion,torba,tv,percentage,0.1
+2020,proportion,sanma,tv,percentage,2
+2020,proportion,penama,tv,percentage,0
+2020,proportion,malampa,tv,percentage,1.9
+2020,proportion,shefa,tv,percentage,15.1
+2020,proportion,tafea,tv,percentage,2.1
+2020,proportion,vanuatu,radio,percentage,9
+2020,proportion,urban,radio,percentage,8.8
+2020,proportion,rural,radio,percentage,9.2
+2020,proportion,torba,radio,percentage,3.2
+2020,proportion,sanma,radio,percentage,15.5
+2020,proportion,penama,radio,percentage,4.2
+2020,proportion,malampa,radio,percentage,4.6
+2020,proportion,shefa,radio,percentage,11.4
+2020,proportion,tafea,radio,percentage,2.8
+2020,proportion,vanuatu,newspaper,percentage,1.2
+2020,proportion,urban,newspaper,percentage,1.9
+2020,proportion,rural,newspaper,percentage,0.7
+2020,proportion,torba,newspaper,percentage,0.8
+2020,proportion,sanma,newspaper,percentage,0.6
+2020,proportion,penama,newspaper,percentage,0.2
+2020,proportion,malampa,newspaper,percentage,0.1
+2020,proportion,shefa,newspaper,percentage,1.2
+2020,proportion,tafea,newspaper,percentage,0.2
+2016,proportion,urban,,percentage,77.5
+2016,proportion,rural,,percentage,63.8
+2016,proportion,torba,,percentage,57.6
+2016,proportion,sanma,,percentage,66.1
+2016,proportion,penama,,percentage,63.3
+2016,proportion,malampa,,percentage,68.3
+2016,proportion,shefa,,percentage,76
+2016,proportion,tafea,,percentage,48.8
+2016,proportion,vanuatu,internet,percentage,2.9
+2016,proportion,urban,internet,percentage,5.7
+2016,proportion,rural,internet,percentage,1.5
+2016,proportion,torba,internet,percentage,1.7
+2016,proportion,sanma,internet,percentage,3.08
+2016,proportion,penama,internet,percentage,0.81
+2016,proportion,malampa,internet,percentage,1.1
+2016,proportion,shefa,internet,percentage,4.5
+2016,proportion,tafea,internet,percentage,0.91
+2016,proportion,vanuatu,mobile phone,percentage,68.5
+2016,proportion,urban,mobile phone,percentage,77.5
+2016,proportion,rural,mobile phone,percentage,63.8
+2016,proportion,torba,mobile phone,percentage,57.6
+2016,proportion,sanma,mobile phone,percentage,66.1
+2016,proportion,penama,mobile phone,percentage,63.3
+2016,proportion,malampa,mobile phone,percentage,68.3
+2016,proportion,shefa,mobile phone,percentage,76
+2016,proportion,tafea,mobile phone,percentage,48.8
+2016,proportion,vanuatu,tv,percentage,2.5
+2016,proportion,urban,tv,percentage,5.7
+2016,proportion,rural,tv,percentage,0.81
+2016,proportion,torba,tv,percentage,0.16
+2016,proportion,sanma,tv,percentage,1.8
+2016,proportion,penama,tv,percentage,0.14
+2016,proportion,malampa,tv,percentage,0.27
+2016,proportion,shefa,tv,percentage,4.75
+2016,proportion,tafea,tv,percentage,0.13
+2016,proportion,vanuatu,radio,percentage,18.4
+2016,proportion,urban,radio,percentage,22.8
+2016,proportion,rural,radio,percentage,16.1
+2016,proportion,torba,radio,percentage,14.5
+2016,proportion,sanma,radio,percentage,18.8
+2016,proportion,penama,radio,percentage,14.3
+2016,proportion,malampa,radio,percentage,14.6
+2016,proportion,shefa,radio,percentage,22.2
+2016,proportion,tafea,radio,percentage,12.1
+2016,proportion,vanuatu,newspaper,percentage,1.99
+2016,proportion,urban,newspaper,percentage,4.3
+2016,proportion,rural,newspaper,percentage,0.82
+2016,proportion,torba,newspaper,percentage,0.09
+2016,proportion,sanma,newspaper,percentage,2.3
+2016,proportion,penama,newspaper,percentage,0.51
+2016,proportion,malampa,newspaper,percentage,0.19
+2016,proportion,shefa,newspaper,percentage,3.3
+2016,proportion,tafea,newspaper,percentage,0.27
